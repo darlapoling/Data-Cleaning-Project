@@ -1,1001 +1,1001 @@
 patient_name,age,gender,appointment_date,booking_date,doctor,department,billing_amount,follow_up_required
-Tammy Williams,76,female,2026/02/26,2024/12/03,Christopher Graham,Cardiology,£425.8,1
-Megan Strickland,69,F,05/23/2025,12-Jun-2024,Brandon Lewis,Orthopedics,€344.26,Y
-Amanda Schroeder,79,M,30-Nov-2025,"August 05, 24",Deanna Edwards,Neurology,€203.34,Y
-Anthony Mcpherson,47,F,"May 18, 25",09/09/2024,Karen Parsons,General,Rs85.76,No
-Benjamin Brown,45,,2026/03/07,08/17/2024,Andrea Hernandez,General,$84.44,1
-Joe Sharp,78,1,"September 26, 25",08/31/2025,Kimberly Fields,General,,Yes
-Alexander Harris,22,Female,30-Oct-2025,12/29/2024,Jim Jones,Cardiology,€99.0,No
-Raymond Williams,57,M,2025/04/23,28-Mar-2025,James Brooks,Neurology,Rs374.63,No
-Dustin Willis,54,female,"August 22, 25",2024/11/07,Jamie Hill,General,$452.37,Yes
-Tina Gallagher,45,M,03/16/2026,12-Dec-2025,Tiffany Gates MD,Neurology,€494.97,Yes
-Robert Guerrero,54,male,2025/04/24,07-Oct-2024,Shane Brown,Cardiology,£91.91,Y
-Karen Walker,68,F,2026/03/07,2024/04/24,Natalie White,General,$82.88,Yes
-Chris Rice,61,1,2025/07/31,"May 05, 24",Amy Olson,Neurology,Rs277.14,N
-Michael Mack,70,M,"September 21, 25",06-Nov-2024,John Larsen II,Orthopedics,€411.01,Y
-Andrea Hubbard,36,F,2026/03/12,11/08/2025,Andrea Gates,Cardiology,£67.51,N
-Brian Jones,23,female,06-Feb-2026,2025/03/09,Robert Navarro,Orthopedics,€163.99,Y
-Kelly Olsen,72,Male,"August 27, 25",13-Feb-2025,Christopher Bryant,Cardiology,£252.38,Yes
-Andrew Oconnor,66,Female,"November 11, 25",01-Dec-2024,Christina Hill,Cardiology,$153.07,Y
-Dennis Hurley,81,M,04/10/2025,2024/12/16,Daniel Jacobson,General,Rs329.3,1
-Paul Brock,76,Female,2025/11/05,2025/05/23,Kayla Savage,Neurology,€135.45,Yes
-Jennifer Aguirre,90,male,14-Oct-2025,"May 28, 24",Richard Huang,Neurology,Rs72.73,N
-Todd Wilson,56,male,"May 15, 25",05-May-2024,Rebecca Harrington,Orthopedics,Rs258.64,Y
-Jeremiah Cole,88,female,01/30/2026,08/12/2024,Louis Turner,General,$203.61,No
-Vincent Brown,32,F,2025/05/11,2024/07/06,Brianna Garcia,Neurology,Rs236.22,N
-Tracy Mcdonald,34,F,07/31/2025,2024/04/09,Daniel Gutierrez,Cardiology,Rs292.23,Y
-Phillip Simpson,88,0,"June 27, 25",05/06/2025,Darren Brooks,General,$51.72,Y
-Penny Friedman,20,male,03/23/2026,13-Jun-2025,Janice Taylor,Cardiology,£218.84,1
-Cynthia Hensley,86,male,03/08/2026,09-Jul-2024,David Robles,Neurology,Rs160.38,Yes
-Cassandra Gardner,42,M,"October 14, 25",2024/11/04,Gregory Kirk,Neurology,Rs342.38,0
-Patrick Saunders,18,male,09/11/2025,05-Oct-2024,Casey Wagner,Orthopedics,Rs208.91,N
-Angel Kelly,82,Female,12/15/2025,21-Jul-2025,Stephanie Taylor,General,Rs426.86,No
-Heather Baker,67,female,"September 13, 25",2025/01/07,Andrew Thomas,Orthopedics,£215.31,Yes
-Stacy Cunningham,32,male,"March 09, 26",2024/11/14,Laura Klein,General,£413.53,0
-Nicole Shaw,20,male,05/07/2025,01/19/2025,Mr. Brian Morton,Neurology,,Y
-Michele Park,46,0,10-Jan-2026,01-Nov-2024,Robert Sparks,General,£396.22,No
-Leslie Silva,26,Male,2025/06/07,09-Dec-2024,Thomas Brandt,Orthopedics,$340.25,Yes
-Katelyn Smith,19,,"October 16, 25",09/21/2025,Robert Henry,Neurology,$481.44,0
-John Yang,37,1,"September 15, 25",2024/05/09,Anthony Jensen,Orthopedics,$442.77,0
-Judy Blair,84,0,"September 08, 25",2025/05/16,Kevin Benton,Orthopedics,Rs175.63,0
-Jennifer Long,55,F,2026/03/01,2024/06/03,Thomas Hernandez,Neurology,€320.66,0
-Melanie Gibson,50,Male,"August 17, 25",23-Sep-2024,Alison Stanton,Orthopedics,$268.14,Yes
-Amanda Jones,61,1,19-Nov-2025,28-Apr-2024,Christopher Morris,General,€499.75,Y
-Donna West,35,Male,"May 24, 25",2024/07/18,Troy Hill,Orthopedics,Rs452.11,1
-Edward Sanders,29,,2025/09/16,"April 29, 25",Steven Bailey,Orthopedics,Rs479.77,0
-Michael Levine,72,0,"August 11, 25",01-Apr-2024,Janet Ray,Neurology,£213.35,Y
-Loretta Richardson,29,0,"August 22, 25","April 25, 25",Shane Jackson,Neurology,Rs120.34,Yes
-Kathleen Jones,49,1,06/12/2025,2024/08/11,Diana Baker,Cardiology,Rs135.43,N
-Michael Allen,64,female,"July 29, 25",2024/06/08,Brian Osborne DVM,Orthopedics,€214.44,N
-Kari Jackson,34,Female,01-Oct-2025,2024/10/13,Jeremiah Rose,Orthopedics,Rs376.08,No
-Kim Allen,35,0,"December 30, 25",2025/03/31,Nancy Levine MD,Orthopedics,€343.51,1
-Regina Wilson,26,male,08/14/2025,2024/06/03,Jenny Zuniga,Cardiology,Rs185.66,Yes
-Samantha Mosley,30,1,05-Dec-2025,03-Sep-2024,Thomas Thomas,Neurology,€200.01,Y
-Kathleen Porter,66,Male,28-Jan-2026,06-May-2025,Christine Calhoun,Neurology,$367.06,0
-Cheryl Michael,49,male,06-Aug-2025,23-Mar-2025,Thomas Bennett,Neurology,Rs393.4,1
-Lawrence Rios,62,Female,"January 10, 26",11-Dec-2024,Christopher Lee,Neurology,£387.4,0
-Vanessa Jones,63,F,2025/11/09,10-Sep-2025,Courtney Knight,Orthopedics,$169.25,Yes
-Tiffany Burke,48,0,2025/07/09,04/03/2025,Charles Lopez,Neurology,$274.81,1
-Joseph Church,87,male,"August 05, 25",2025/02/03,Ricky Velazquez,Orthopedics,Rs68.81,1
-Heather Jackson,58,female,06/04/2025,26-Jan-2025,Todd Silva,Neurology,Rs365.13,0
-Adam Sanders,63,Male,08-Aug-2025,05/24/2025,Patrick Floyd,General,$466.97,Yes
-Edward Perry,54,0,"December 09, 25","July 12, 25",James Miller,General,Rs484.52,No
-Bonnie Boone,35,F,24-Nov-2025,2024/11/05,Lorraine Figueroa,Orthopedics,€114.45,Yes
-Robert Brown,39,M,2025/06/28,03/27/2024,Jamie Sosa,General,€195.21,1
-Matthew Cross,78,1,07/31/2025,06/24/2025,Connie Wood,General,$149.8,1
-Jennifer Stark,34,,06/29/2025,04-Dec-2024,Jason Williams,Neurology,Rs270.33,N
-Jordan Camacho Jr.,21,male,2025/11/12,30-Jun-2025,Alexis Carter,Neurology,$186.24,Yes
-Elizabeth Bryant,37,0,19-Jul-2025,10-Jun-2024,Rebecca Kim,Orthopedics,Rs425.63,No
-Matthew Valdez,60,1,"February 19, 26",13-Nov-2024,Rachel Terry,Neurology,£91.77,1
-Richard Woodard,38,Female,2026/02/11,"September 28, 25",Whitney Hoffman,Orthopedics,€91.27,N
-Chad Reed,68,Male,2025/07/05,"January 23, 25",Jennifer Adams,Neurology,£453.06,N
-Jessica Heath,86,,2025/06/25,04/24/2024,Sherri Long,Cardiology,€61.37,Yes
-Clayton Williamson,85,1,09/10/2025,20-Aug-2024,Glen Diaz,Neurology,$185.52,No
-Timothy Walter,28,F,"July 21, 25",2025/07/14,Miss Julie Rodriguez,Neurology,£112.48,Y
-Katelyn Miller,23,Female,19-Feb-2026,16-Sep-2024,Andrea Cruz,Orthopedics,$382.34,Yes
-Elizabeth Decker,86,F,2025/10/22,2025/07/19,Brandi Hale,Orthopedics,Rs168.18,Yes
-Jessica Smith,66,female,08/20/2025,2025/03/08,Crystal Mack,Neurology,,Yes
-James Johnston,22,male,2025/11/02,04/24/2025,Drew Bartlett,General,$206.53,1
-Christine Price,69,F,01-Oct-2025,2024/05/23,Susan Brown,Orthopedics,$258.21,0
-Amy Mayer,26,0,2025/09/28,08-Jul-2024,Jim Patterson,Cardiology,€253.4,1
-Samuel Moore,69,M,"March 02, 26",21-Nov-2024,Heather Everett,General,Rs83.09,1
-Jamie Mcclure,35,female,"March 13, 26",27-Jul-2025,Katherine Sanders,Orthopedics,$80.38,1
-Luke Price,23,0,13-Dec-2025,2025/06/18,Virginia Lang,Orthopedics,Rs260.4,Y
-Luis Rodriguez,50,M,2025/11/23,2025/09/24,Samantha Bass MD,Orthopedics,$294.58,1
-Pamela Brown,40,M,2026/02/25,06/01/2025,Melinda Duncan,Orthopedics,$247.13,Yes
-Craig Nixon,55,,2025/10/12,08/20/2025,William Key,Neurology,£341.19,No
-Justin Caldwell,57,0,05/09/2025,"December 18, 24",Ronnie Miller,Orthopedics,Rs383.69,N
-Cassandra Collins,60,1,03-Oct-2025,2025/08/26,Mark Lutz,General,€243.78,Y
-Adam Torres,58,M,07/03/2025,25-Aug-2024,Daniel Le,Neurology,Rs329.25,No
-Carol Foster,61,Male,2025/10/19,08/22/2025,Bryan Mann,Neurology,€389.37,0
-Chelsey Moore,34,Female,"October 12, 25",15-Jan-2025,Randy Garrett,Cardiology,£344.56,Yes
-John Hensley,35,M,"September 23, 25","July 15, 24",Paul Tate,Orthopedics,Rs289.07,1
-Chelsea Burns,62,,"December 29, 25",13-May-2024,Michael Morales,Cardiology,Rs193.6,Yes
-Ryan Miller,31,male,07/11/2025,"March 19, 25",Alexa Peterson,Orthopedics,Rs259.72,Yes
-Jared Green,28,Female,"October 08, 25",10-May-2025,Brenda Castro,Neurology,€235.69,No
-Traci Chandler,18,Female,"February 04, 26",12/10/2024,Tyler Carter,General,€428.75,No
-Kenneth Graham,34,0,31-Oct-2025,19-Mar-2025,Wayne Graham,Neurology,$142.32,0
-Angela Watkins,34,Female,"December 25, 25",09/12/2024,Kyle Russell,Cardiology,£109.31,No
-Keith Becker,60,female,11/07/2025,"August 28, 24",Kristopher Collier,General,,Y
-Nicole Hoffman,65,Female,"June 08, 25",2025/01/14,Robert Mitchell,General,$325.25,0
-Hannah Perez,21,female,11/07/2025,27-Jul-2025,Rita Smith,Neurology,£111.92,N
-Amanda Fuller,56,Male,02/18/2026,08-Dec-2024,Anthony Cruz,Orthopedics,$347.68,1
-Tina Lewis,40,female,"February 10, 26","December 18, 25",Derrick Salazar,Neurology,£59.67,Yes
-Sarah Hahn,60,,19-Mar-2026,2024/10/18,Theresa Lee,General,Rs123.03,Yes
-Destiny Martin,24,female,"February 16, 26",26-Aug-2025,Lynn Jones,General,Rs420.58,0
-Megan Mitchell,69,1,27-Nov-2025,05/18/2024,Desiree Giles,Orthopedics,€351.17,No
-Benjamin Hughes,32,F,2026/03/02,17-Dec-2025,Nicholas Mcneil,Cardiology,£125.31,1
-John Anderson,60,male,27-Jan-2026,01/18/2026,Paul Blackburn,Cardiology,€253.42,No
-Chelsea Matthews,68,F,12/07/2025,03/24/2025,Elizabeth Obrien,Orthopedics,€359.78,Y
-Monica Horton,53,,11-Oct-2025,"March 30, 24",Kayla Stein,Neurology,$277.21,Yes
-Joanna Tucker,18,male,2026/03/22,"October 05, 24",Andrew Gray,Neurology,£84.69,No
-Dr. Peggy Mendoza,60,0,12-Apr-2025,01/23/2025,Ashley Flowers,Neurology,€96.94,Yes
-Victoria Gomez,72,Female,06/26/2025,05/19/2025,Nicole Chandler,General,Rs205.35,1
-Daniel Rivera,63,F,12/28/2025,22-Dec-2025,Morgan Green,Neurology,Rs155.42,Y
-Harry Wallace,80,Female,12/01/2025,"October 28, 24",Nancy Hernandez,Orthopedics,$493.0,Yes
-Alicia Scott,39,M,2025/11/22,14-Nov-2024,William Cochran,Neurology,$243.15,0
-Melissa Lane,81,female,2025/06/01,2024/08/19,Vanessa Pittman,Cardiology,€122.6,N
-Olivia Lambert,38,M,15-Dec-2025,2024/12/25,Melanie Blanchard,Cardiology,£100.34,Y
-Russell Taylor,38,0,11/29/2025,"July 11, 25",Breanna Gray,Orthopedics,Rs335.07,N
-Joshua Sanchez DDS,79,female,03/29/2025,"June 27, 24",George Flores,Orthopedics,£154.29,Y
-Kayla Drake,54,Female,12/27/2025,27-May-2025,Jennifer Long DDS,Orthopedics,$412.07,0
-Karen Carter,22,Female,"February 28, 26",22-Mar-2025,Chase Clark,Neurology,Rs401.33,1
-Andrew Baker,27,0,04-May-2025,"July 11, 24",Michael Gillespie,General,$486.57,1
-Richard Hernandez,20,male,"November 16, 25",09/18/2025,Daniel Bradley,General,£482.25,0
-Matthew Rivera,31,1,07/03/2025,04/26/2025,Theodore Bean,Orthopedics,€255.82,N
-Benjamin Jenkins,86,1,07/23/2025,"April 22, 25",Michael Bond,General,€258.12,No
-John Johnson,81,,23-Apr-2025,2024/12/30,Steve Bush,General,$162.94,N
-Martha Zavala,58,M,2026/01/23,14-Apr-2024,Penny Freeman,Cardiology,£153.05,Y
-Daniel Ballard,38,1,2025/03/26,"March 02, 25",Willie Williams,Cardiology,£114.64,N
-Mariah Davis,22,Female,10/24/2025,2025/01/06,Douglas Ford,Orthopedics,£381.62,0
-Timothy Osborne,83,female,12/18/2025,2025/04/21,Christopher Ferguson,Neurology,£215.46,Yes
-Kelsey Collins,19,F,"April 24, 25",08-Oct-2024,Gabrielle Collins,Neurology,$455.75,0
-David Kramer,54,F,"March 25, 26",09/05/2024,Anne Watkins,General,£325.97,1
-Patricia King,68,male,28-Oct-2025,2024/10/16,Jennifer Adams,General,$468.06,Yes
-Sheri Kline,55,Female,"January 02, 26",04/11/2024,Jennifer Russell,General,£377.14,Yes
-Troy White,80,1,2026/01/07,2024/05/26,Cindy Cox,Neurology,$87.2,No
-David Young,58,1,"November 06, 25",2025/05/15,Amy Williams,Cardiology,$226.97,0
-Tim Flowers,31,1,09/29/2025,2024/11/04,Kimberly Henson,Neurology,Rs139.81,Y
-Gregory Garcia,73,F,05/01/2025,"July 25, 24",Megan Jensen,Cardiology,$466.08,N
-Max Martinez,63,1,21-Sep-2025,11/05/2024,Joshua Sellers,Cardiology,Rs352.03,Y
-Paul Hinton,49,female,2026/01/02,"November 29, 25",Lindsey Fitzpatrick,Neurology,$461.19,N
-Thomas Landry,60,1,"September 03, 25",08/01/2025,Brandon Moore,General,,No
-Alexander Le,77,Female,"January 20, 26",04/04/2024,Cynthia Booker,Neurology,£252.22,1
-Joseph Irwin,29,Male,2025/07/27,2025/06/08,Jacob Kerr,General,£206.74,Y
-Corey Smith,52,Male,18-May-2025,02/15/2025,Luke Williams,Cardiology,$130.7,N
-Brandon Baker,54,Male,12-Aug-2025,"July 25, 25",Alison Walters,General,£106.33,1
-John Campbell,67,0,10-Feb-2026,06/21/2024,Tanya Baxter,Orthopedics,,N
-Craig Hunt,38,Female,"November 01, 25","May 25, 24",Cynthia Brown,Neurology,$122.56,Yes
-Lisa Cameron,37,male,"August 14, 25","August 11, 25",Karen Hunt,Cardiology,£238.81,0
-Nathaniel Wood,66,Male,29-Apr-2025,07-Apr-2025,Alec Hill,General,Rs413.21,1
-Dr. Lindsey Arias DDS,48,0,2025/09/14,2024/11/28,Colton Williams,Cardiology,€91.87,N
-Timothy Matthews,56,male,2025/10/30,05/18/2024,Brandy Sutton,Orthopedics,€485.5,N
-Katelyn Byrd,32,Male,"March 30, 25",05/03/2024,Barbara Chavez,General,£209.81,1
-Jeffrey Bates,87,M,08-Apr-2025,"December 04, 24",Lisa Ho,Cardiology,$401.55,Yes
-Kevin Johnson,18,0,2025/10/25,09/03/2024,Lance Smith,Neurology,Rs283.3,0
-Kelly Mcknight,87,1,2026/02/03,07/12/2025,Jerry Lopez,Neurology,£146.2,Y
-Jamie Wright,62,0,"April 03, 25",03/18/2025,Lori Hall,Orthopedics,€211.18,Y
-Kimberly Conner,86,F,18-Feb-2026,2024/10/12,Steven Holland,Cardiology,£476.99,1
-Kelli Page,25,male,"October 08, 25",24-Mar-2025,Stephanie Wall,Orthopedics,$248.33,0
-Deanna Abbott,46,Female,04-Sep-2025,"May 08, 25",Damon Hayes,Orthopedics,£192.67,1
-Lindsay Rodriguez,39,male,23-Oct-2025,07/18/2025,Troy Lynch,Orthopedics,,0
-Christopher Singleton,81,F,26-Oct-2025,2025/02/19,Brandy Graves,General,$65.06,1
-Michael Walsh,69,0,05/08/2025,01/24/2025,Tammy Watts,Neurology,£117.14,Yes
-Caroline Reed,54,0,"July 29, 25",06/06/2024,Eric Kelly,Neurology,Rs433.77,No
-Jennifer Wells,79,F,2025/05/13,02-Sep-2024,David Cole,Orthopedics,$82.84,No
-Gary Walker,87,,"March 26, 25",26-Mar-2024,Matthew Lopez,Orthopedics,Rs216.23,Yes
-Michelle Johnson,24,male,2025/12/19,2025/07/01,Jennifer Brooks,General,€492.98,Yes
-Malik Robinson,77,female,21-Oct-2025,18-Jul-2024,Amber Little,General,Rs280.77,N
-Michael Glenn,60,1,"November 13, 25","June 23, 25",Robert Martinez,Cardiology,$99.19,N
-Anthony Cortez,57,Male,"May 25, 25","March 28, 25",Derrick Cook,General,$225.83,Y
-Daniel Cole,69,male,2025/05/06,"September 28, 24",Dustin Jones,Cardiology,$458.12,Yes
-Matthew Lloyd,58,M,"January 17, 26",21-Jul-2025,Timothy Morgan,Cardiology,€244.78,N
-Jason Hicks,86,F,"December 17, 25",19-Sep-2025,Stacey Garcia,Orthopedics,€330.37,0
-Stephanie Cisneros,50,F,2025/12/03,"August 02, 24",Rachel Richards,Orthopedics,£98.14,Yes
-Troy Taylor,52,,"December 28, 25",24-Feb-2025,Jason Gill,General,£464.69,Yes
-Charles Cruz,54,female,01/27/2026,09/01/2024,Jessica Sawyer,Orthopedics,£91.65,No
-Brenda Ward,43,0,2025/11/26,08/25/2025,Tonya Smith,Neurology,Rs425.67,Y
-David Martinez,80,Male,2025/09/13,07-Jul-2025,Amber Braun,Cardiology,,Y
-Alex Webster,34,M,2026/02/11,12/24/2024,Lorraine Schroeder,Orthopedics,€140.86,1
-Carl Sanchez,87,female,04/06/2025,08/02/2024,Christina Price,Orthopedics,$446.06,N
-Lucas Ray,21,F,2026/02/12,02/07/2025,Carrie Larsen,Neurology,£138.59,Y
-Cynthia Wells,37,M,17-Nov-2025,2025/01/07,Ashlee Romero,Orthopedics,£448.6,0
-Dwayne Clarke,42,male,2025/08/12,09/08/2024,Andrew Meadows,Neurology,€150.94,No
-James Jimenez,53,1,"October 26, 25",2025/09/14,Ryan Marsh,Neurology,€339.19,0
-Dr. Michele Copeland,35,1,09/25/2025,24-May-2024,Debra Castillo,Neurology,€187.28,Y
-Travis Allen MD,44,male,22-Jun-2025,2024/06/18,Karen White,Orthopedics,€157.66,1
-Bradley Fuller,83,Male,2025/05/13,"February 28, 25",John Yang,General,Rs69.97,Yes
-Miss Crystal Davis DDS,25,female,07-Jul-2025,"June 06, 24",Christopher Hayes,General,£490.55,Y
-Kara White,59,0,03/14/2026,"January 26, 25",Kyle Dawson,Orthopedics,€315.64,N
-Briana Guerrero,33,Female,19-Jan-2026,2024/03/30,Molly Warner,General,£231.08,1
-Judy Nguyen,29,male,"May 27, 25","October 23, 24",Michelle Ortega,General,$429.14,Yes
-Sandra Murphy,25,M,01-Nov-2025,2024/07/29,Shelby Brown,Orthopedics,Rs93.12,No
-Debra Ford,33,0,"February 22, 26","September 19, 25",Allison Smith,Orthopedics,£461.81,Y
-Michelle Harris,56,0,11/07/2025,06-Dec-2024,Matthew Garrett,Orthopedics,€130.72,Yes
-Ariel Davis,85,Male,25-Oct-2025,2025/02/21,Jason Gallagher,Orthopedics,Rs85.63,Y
-Anna Garrett,24,Female,30-May-2025,03/20/2025,Alice Lucas,Neurology,€394.9,Yes
-Kimberly Guzman,31,0,11/18/2025,02-Apr-2025,Kristin Reeves,General,,Y
-Terry Miller,24,F,22-Apr-2025,"March 24, 25",John Lyons,General,,Yes
-Marissa Davidson,81,Female,"April 13, 25","December 03, 24",Philip Davis,Cardiology,£499.67,Y
-Emma Martin,79,male,"August 24, 25",08/21/2025,Charles Mcmillan,Orthopedics,€66.64,Yes
-William Lewis,32,M,"April 04, 25",2024/05/16,Wesley Johnson,Orthopedics,Rs361.31,Y
-Robert Mclaughlin,21,female,2025/06/22,06/09/2024,Shannon Mejia,Orthopedics,£205.31,N
-William Sparks,48,1,"March 26, 25",2024/12/03,Jeffrey Ashley Jr.,Cardiology,Rs193.18,0
-David Kidd,23,Male,"November 23, 25",09/10/2025,Kathy Thompson,Orthopedics,£321.34,N
-Brandon Martin,87,0,06-Feb-2026,2024/08/11,John Miller,Neurology,$446.44,Yes
-Amanda Martinez,27,0,23-Aug-2025,2024/11/12,Gary Bowman,General,$165.8,Y
-Nancy Barry,71,Female,03/07/2026,2025/03/30,Katherine Espinoza,Cardiology,Rs493.59,1
-Clinton Estrada,75,male,06-Nov-2025,10/14/2024,Jacob Bender,Orthopedics,,Y
-Maria Douglas,86,1,17-Feb-2026,15-Jan-2026,Daniel Evans,Orthopedics,€489.64,Yes
-Walter Webb,33,,2025/09/26,"September 03, 24",Dale Herrera,Neurology,,Y
-Megan Avery,73,F,01/08/2026,2024/08/13,Michael Arroyo Jr.,General,$96.48,Yes
-Brianna Morris,73,1,"November 03, 25","April 26, 24",Gregory West DDS,Orthopedics,€422.79,Y
-Judy Avila,21,Female,"October 19, 25",02-Aug-2025,Morgan Ramos,Orthopedics,Rs330.43,Yes
-Erika Davis,28,1,08-Jun-2025,2025/06/06,Allison Parker,Neurology,£440.72,N
-Jeffrey Solis,49,Female,2025/05/15,"April 09, 25",William Nichols,Neurology,€287.03,Yes
-Scott Graves,65,male,2026/01/10,"January 06, 26",Marie Clark,General,€489.0,Y
-Ellen Fitzpatrick,59,Male,2025/11/14,04/23/2025,Grant Parker,Neurology,£201.19,No
-Mark Harrison,24,F,10/06/2025,2024/06/13,Jennifer Hernandez,Orthopedics,€155.45,Yes
-Daniel Barajas,56,Female,2025/04/07,08-Jan-2025,Joshua Burnett,Neurology,£236.44,1
-Christine Murphy,21,0,18-Aug-2025,"July 23, 24",Amanda Mendoza,Cardiology,$96.21,1
-Richard Wagner,20,M,"December 06, 25",25-Nov-2025,Christopher Sherman,General,€270.47,Yes
-Eric Coffey,23,1,28-Aug-2025,2024/09/04,Jeffrey Burns,Cardiology,Rs284.29,N
-Tony Gibbs,39,0,11/01/2025,2024/10/13,Brandon Morris,General,€354.36,N
-Stephanie Bryant,32,,2026/01/02,2025/02/18,Sara Booth,Orthopedics,£452.69,Yes
-Eric Allen,67,1,01-Aug-2025,2025/05/09,Amanda Mclaughlin,Neurology,£329.83,0
-Robert Jimenez,23,male,"March 06, 26","July 20, 24",Tony Randall,Cardiology,€450.86,Yes
-Chris Wells,71,M,17-May-2025,25-Dec-2024,Crystal Medina,Neurology,Rs132.38,Yes
-Danny Gray,68,male,2025/04/14,13-Feb-2025,Patricia Carpenter,General,€199.55,0
-Alicia Davis,19,1,31-Mar-2025,"October 27, 24",John Gonzalez,Cardiology,€296.7,N
-Dr. John Hernandez,33,0,29-Dec-2025,2024/05/29,Michelle Austin,General,$409.96,No
-Andres Mills,54,M,23-Jun-2025,"August 24, 24",Paul Weaver,Neurology,£386.53,0
-Vanessa Allen,52,Male,"January 09, 26",08/06/2025,Amy Chavez,Neurology,Rs243.94,Yes
-Virginia Flores,70,Female,12/26/2025,2025/08/13,Leonard Macias,General,$364.83,Y
-Mackenzie Walker,56,female,2025/03/27,"May 20, 24",Jenny Wright,Orthopedics,$335.95,1
-Kayla Berger,29,Female,2025/08/05,"September 27, 24",Todd Oconnor,Orthopedics,,Y
-Brian White,80,male,03-Aug-2025,2025/04/03,Rachel Howell,Neurology,€387.58,Yes
-Dale Fisher,24,M,01/16/2026,04/20/2024,Dr. Heidi Johnson,Cardiology,Rs360.39,N
-Brian Griffith,20,M,2025/06/15,04/11/2025,Robert Stanley,Cardiology,£288.24,1
-Theresa Sanchez,56,0,03-Feb-2026,08/16/2024,Amber Sullivan,General,€286.43,1
-Kimberly Watson,60,female,01/11/2026,"July 25, 25",Joseph Meyers,Neurology,,0
-Christopher Miller,51,male,2025/12/27,01/11/2025,Christine Arnold,General,€476.26,N
-Brian Davis,72,female,26-Dec-2025,"August 05, 24",Michelle Smith,Neurology,£480.75,Yes
-Deborah Wagner,74,0,2026/02/15,"May 30, 25",Cesar Sanchez,Neurology,Rs277.6,0
-Christine Vega,80,Male,2025/04/27,03/23/2025,Jordan Cole,General,Rs301.11,Y
-Zachary Jones,53,0,10/03/2025,01-Jul-2025,Alexander Lee,Orthopedics,£304.51,0
-Stephen Hicks,88,,10/19/2025,06/05/2025,Christopher Underwood,Orthopedics,£266.53,1
-Haley Taylor,51,female,2025/07/06,04/18/2025,Christopher Wolfe,General,Rs433.55,Y
-Melissa Miranda,77,Male,"June 03, 25",2024/05/18,Jennifer Jones,Orthopedics,£70.47,1
-Linda Nicholson,24,Female,08/19/2025,2025/05/10,Melissa Daniels,Neurology,$425.91,Yes
-Whitney Bradley,31,,27-May-2025,20-Dec-2024,Ryan White,General,€111.71,0
-Carolyn Jacobson,47,female,2026/02/11,14-Feb-2025,Katrina Johnston,Cardiology,£365.37,No
-Jordan Hudson,74,1,06/17/2025,04/25/2024,Linda Martin,Cardiology,€475.27,1
-Joseph Banks,36,F,05-Dec-2025,"June 15, 24",Susan Kelley,Neurology,$108.6,N
-Brad West,34,F,05/14/2025,19-May-2024,Samuel Stone,Cardiology,£455.05,N
-Kelsey Johnson,29,1,28-Jan-2026,12/03/2024,Mallory Torres,Neurology,£264.45,No
-Jared Parrish,42,F,2025/08/05,"July 27, 25",Wendy Herrera,Orthopedics,Rs132.57,No
-Megan Murphy,35,,19-Apr-2025,2025/04/11,Kevin Coleman,Cardiology,Rs359.5,N
-Laura Lopez,25,male,06-Oct-2025,06/13/2024,Julie Phillips,Cardiology,Rs464.57,0
-Joshua Sanford,57,female,2025/06/20,13-Feb-2025,Tara Montoya,Neurology,$186.61,1
-Mark Bowers,19,1,05/11/2025,2025/04/02,Antonio Bryant,Neurology,$116.69,Yes
-Nicole West,30,female,2026/03/24,26-Mar-2024,Marissa Jacobs,General,€218.44,0
-Amy Wood,43,F,06/22/2025,2025/01/25,John Shannon,Neurology,€255.67,0
-Robert Montoya,79,1,"December 06, 25",09/09/2024,Gregg Bennett,Neurology,,No
-Robert Torres,61,Male,2025/10/20,07-Aug-2025,Kyle Phillips,Neurology,$129.48,N
-Mason Morgan,53,male,2025/04/21,"August 25, 24",James Cobb,General,Rs299.03,No
-Jeffrey Hart,70,Female,"December 09, 25",11/16/2024,Jacob Townsend,Orthopedics,Rs459.66,Y
-Jessica Pitts,72,0,03/10/2026,22-Oct-2025,Miguel Hayes,Orthopedics,£403.61,0
-Amy King,49,Female,15-Sep-2025,2025/01/30,Peter Wells,General,£241.48,Y
-Lisa Fisher,44,,16-Jul-2025,06/12/2025,Karen Martin,Neurology,$417.38,Yes
-Donna Jenkins,68,female,2025/05/30,2024/05/14,Rachel Allen,General,Rs390.97,Yes
-Matthew Cox,88,M,01/22/2026,07-Apr-2024,Alexander Horton,General,Rs100.2,No
-Melissa Berry MD,75,1,23-Feb-2026,10/16/2024,Kathryn Hooper,Cardiology,£462.97,N
-Zachary Frazier,88,Female,14-Feb-2026,2024/12/27,Tamara Thompson,Orthopedics,$481.92,0
-Jose Bryant,49,Male,2025/05/24,"December 10, 24",Ryan Lopez,Orthopedics,£350.41,N
-Thomas Smith,82,1,"November 23, 25",2024/12/07,Kenneth Turner,Cardiology,Rs392.87,Yes
-Jason Harrington,62,Male,01/16/2026,07/14/2025,Stacey Miller,Orthopedics,,No
-Autumn Griffin,55,0,21-Sep-2025,"June 18, 24",Isabel Harris,Orthopedics,$202.41,0
-Adam Shelton,83,1,26-Jun-2025,06/12/2025,Mary Thompson,Neurology,$225.1,Yes
-Amber Trevino,86,F,28-May-2025,07/10/2024,Sarah Holder,Cardiology,,1
-Jamie Aguilar,77,Female,19-Sep-2025,"August 20, 24",Michael Duke,Cardiology,€400.01,Y
-Alyssa Lucas,47,F,"January 06, 26",11-Oct-2024,Daniel Ryan,Neurology,$400.52,Yes
-Theresa Young,69,Male,10/15/2025,"June 11, 25",Brenda Booth,General,£152.7,0
-Donna Clark,40,0,09/03/2025,04/08/2024,Joanne Adams,Cardiology,€154.68,Yes
-Michael White,32,male,2026/03/11,23-Jul-2025,Seth Ramirez,General,$300.71,Yes
-Jessica Johnson,66,1,2025/11/22,"September 07, 25",Kevin Weaver,Neurology,£166.59,Yes
-Victor Anderson MD,28,Male,"September 10, 25",2025/04/21,Dr. William Terry,Cardiology,£357.83,1
-Jodi Floyd,35,M,2025/08/19,15-Jun-2025,Brett Arnold,General,Rs458.11,N
-Bradley Leach,25,Female,11/13/2025,12/13/2024,Amanda Flores,General,€85.07,1
-Stephen Butler,81,female,"May 22, 25",2024/04/15,Shannon Martinez,Neurology,£209.67,Y
-Jennifer Martin,30,male,22-Feb-2026,07/04/2025,Jeffery Smith,General,£239.39,N
-Janet Gordon,41,0,2025/05/14,04/05/2024,Michelle Johnson,General,Rs398.73,No
-Susan Bautista,54,0,13-Feb-2026,06-Nov-2024,Michael Schmidt,Orthopedics,€325.86,N
-Steve Ramirez,30,F,2025/07/19,"May 12, 25",Michelle Jones,Orthopedics,$451.11,N
-Kristine Logan,53,0,"June 29, 25","September 13, 24",Regina Cox,Neurology,£416.39,No
-Janet Lewis,65,1,2025/10/28,18-Aug-2025,Gregory Neal,Neurology,€303.42,N
-Phillip Blevins,64,,03/12/2026,"June 04, 24",Darryl Garcia,General,$124.85,1
-Robert Mason,78,Male,2025/12/25,13-Dec-2024,Steven Mercer,Neurology,$370.37,No
-Rachel Nguyen,63,M,2025/12/13,"March 05, 25",John Wolf,Neurology,Rs416.85,N
-John Nguyen,23,Male,2025/10/05,20-Mar-2025,David Robertson,General,,No
-Jennifer Stevens,70,0,11/03/2025,06/16/2025,Joseph Park,Cardiology,£231.18,Yes
-Matthew Davis,54,male,"September 20, 25",24-Jun-2024,Megan Lopez,Cardiology,Rs119.4,0
-Ashley Daniels,50,0,2025/08/25,"June 18, 24",Robert Davies,Neurology,$63.38,Yes
-Dana Park,79,0,2026/01/28,"April 03, 24",Christopher Garrett,Neurology,Rs341.27,Yes
-Michael Short,83,Male,01/03/2026,2024/12/21,Charles Hess,Orthopedics,$483.19,Yes
-Anthony Mitchell,37,0,09-Oct-2025,"April 05, 25",Theresa Osborne,Neurology,€371.49,N
-Jamie Peck,40,female,"January 14, 26",11/13/2025,Lisa Garcia,Neurology,€406.43,N
-Kelsey Kelly,76,Male,06/19/2025,2025/04/30,Denise Hall,Cardiology,€334.38,0
-Allison Mcgrath,60,Male,06/22/2025,2024/04/26,Morgan Mccoy,Cardiology,Rs125.6,0
-Denise Anderson,51,M,12/28/2025,2025/04/17,Timothy Beasley,General,£377.85,N
-Louis Thomas,52,0,2025/09/07,04/23/2024,Michelle Carter,Cardiology,£450.24,1
-Sarah Taylor,43,female,"September 25, 25",10/30/2024,Christopher Sexton,Cardiology,€382.81,1
-Dustin Perry,38,Male,"January 25, 26","April 09, 24",Adam Moore,Neurology,$424.21,N
-Shawn Tucker,84,F,2026/02/15,21-Nov-2025,Melissa Schmidt,Orthopedics,€258.38,Y
-Rachel Russo,40,1,08/27/2025,13-Jul-2025,Christine Wilson,Orthopedics,Rs366.15,Yes
-Dana Martinez,89,1,"March 27, 25",16-Dec-2024,Barry Bennett,Cardiology,Rs466.92,N
-Shane Fowler,57,0,2025/10/30,"August 27, 24",Kimberly Douglas,Neurology,£114.67,Y
-Kimberly Robinson,26,female,04-Mar-2026,12/28/2025,Michael Wright,Cardiology,Rs71.67,0
-Robert Rodriguez,61,0,"November 07, 25",2025/09/21,Stephanie Douglas,General,Rs264.27,0
-Rita Joyce,78,F,2025/05/21,2024/08/18,Diana Neal,Neurology,Rs92.45,Y
-Kimberly Meyer,35,1,17-Dec-2025,2024/04/27,Christopher Perez,Orthopedics,Rs441.33,N
-Kelly Morris,40,male,08/11/2025,"August 02, 24",Matthew Mccann,Orthopedics,Rs258.78,0
-Kevin Thompson,59,female,01-May-2025,"October 02, 24",Lynn Cruz,General,Rs156.71,1
-April Braun,57,Female,2025/04/29,04/16/2024,Jacob Mendoza,Neurology,Rs110.47,Y
-Alejandro Lopez,85,M,2025/06/15,2024/07/03,Brian Bowman,Neurology,€361.32,0
-Scott Bishop,76,Female,"May 30, 25",07/27/2024,Dylan Gibson,General,€405.85,No
-Steven Baldwin,87,,05-Jun-2025,04/14/2024,Lori Reid,Neurology,Rs496.78,1
-Randy Austin,40,1,2026/02/12,2024/04/12,Dr. Deborah Fitzgerald,Neurology,$364.33,N
-Anthony Martin,54,Female,18-Jun-2025,11/06/2024,Alex Richards,Neurology,Rs119.63,No
-Patricia Ramsey,85,F,"July 20, 25",11/27/2024,Jennifer Tanner,General,£399.55,0
-Lauren Gardner,43,F,2025/04/25,"April 01, 25",Alison Castro,Neurology,Rs186.4,0
-Daniel Willis,53,female,11/05/2025,08/01/2025,Megan Austin,Neurology,Rs234.99,Yes
-Shawn Moore,55,Female,"November 15, 25",2024/07/06,Rebecca Ward,General,Rs316.26,No
-Sherry Wilson,21,F,07-Dec-2025,2025/02/28,Pamela Wiley,Orthopedics,Rs129.91,1
-Teresa Peters,78,male,11-Feb-2026,2024/11/14,Tracey Johnson,Neurology,€468.01,0
-Nicole Evans,86,F,2025/08/13,2024/09/21,Ashley Cuevas,Cardiology,Rs459.41,Y
-Brandon Sanders,27,Male,09-Jan-2026,"March 16, 25",Amy Dunlap,Orthopedics,€370.25,0
-Samantha Wallace,76,male,06/28/2025,"December 22, 24",Charles Jackson,Orthopedics,Rs145.83,Y
-Jared Butler,38,male,08/19/2025,06/09/2025,Jason Morales,General,€243.78,Yes
-Tracey Beck,81,male,27-May-2025,09/20/2024,Logan Cooper,Cardiology,$184.28,Y
-Brianna Mcpherson,90,Male,05/13/2025,"June 17, 24",Nathaniel Thompson,General,£109.61,Yes
-Ray Mcbride,87,female,10/06/2025,2024/12/02,Natalie Turner,General,$135.41,N
-Tammy Thomas,74,F,"April 02, 25",19-Jan-2025,Kurt Cain,Orthopedics,£109.02,0
-Kelly Mason,65,Female,02/17/2026,31-May-2024,Laura Edwards,Cardiology,$205.16,1
-Nicholas Kelly,53,F,"March 23, 26",02-Apr-2025,Paula Freeman,Cardiology,,Y
-Anne Jones DVM,48,F,05-Jan-2026,"May 30, 25",Linda French,General,$296.43,Yes
-Andrea Mendez,33,M,2025/07/02,"August 14, 24",Joshua Reed,General,$233.98,No
-Jennifer Schwartz,90,,"February 12, 26",08/14/2024,Mrs. Michelle Ramsey,Orthopedics,€474.34,N
-Zachary Cross,61,1,"July 31, 25",2025/04/23,Toni Rodriguez,Neurology,£317.84,0
-Andrea Murray,46,1,12-Mar-2026,2025/08/11,Alexa Martin,Neurology,Rs435.55,0
-Michele Green,48,0,"June 30, 25",24-Jan-2025,Nancy Hernandez,Orthopedics,Rs88.58,No
-Summer Bishop,37,1,2025/10/21,"August 07, 25",Cynthia Green,Cardiology,,Yes
-Daniel Braun,27,Male,2026/03/20,2026/02/09,Tonya Kennedy,Cardiology,€252.38,Y
-Kyle Jones,29,M,2025/11/01,17-Mar-2025,Cheryl Mullins,Neurology,$366.49,N
-Erin Baker,36,Male,"October 02, 25",2025/09/12,Carla King,General,Rs239.5,Yes
-Cheryl Calderon,29,female,02/23/2026,04-Apr-2024,Michael Adams,Orthopedics,Rs55.55,N
-Andrea Mcbride,64,female,"September 15, 25",01/19/2025,Laura Newman,Neurology,£112.28,No
-Danielle Barrett,36,Female,"December 20, 25","March 27, 24",Gregory Griffin,General,Rs386.16,1
-Madison Wilson,23,male,01/08/2026,29-Nov-2024,Ryan Steele,Cardiology,€230.73,N
-Thomas Crawford,63,female,2025/05/13,2024/04/22,Ashley Shaw,General,€296.85,0
-Sheila Thomas,58,1,2025/09/08,2025/02/24,Catherine Gamble,Cardiology,£64.79,0
-Daniel Long,38,Female,"November 17, 25",2024/10/09,Jean Lawson DDS,Neurology,€101.1,Yes
-James Fox,60,Female,22-Dec-2025,17-May-2024,Victoria Osborne,General,Rs204.86,Yes
-Evan Price,87,1,31-Jul-2025,"November 02, 24",Brooke Ramos,Cardiology,$369.12,1
-Vanessa Graves,58,female,08/07/2025,01/02/2025,Leslie Smith,Cardiology,Rs474.33,Y
-Barbara Drake,20,1,"August 26, 25",01/09/2025,Julie Jacobs,Cardiology,€285.97,No
-Logan Gonzalez,81,,2026/02/17,2025/04/03,John Anderson,Neurology,€209.27,Y
-Brittney Gonzales,38,,12/20/2025,14-Aug-2025,Kimberly Caldwell,Orthopedics,Rs347.87,1
-Nichole Phillips,56,M,2025/09/17,08/19/2025,Michael Jackson,Cardiology,,Y
-James Wise,67,F,2025/09/05,"May 19, 24",Karen Schmidt,Neurology,€98.07,Y
-Logan Sampson,64,Male,12/31/2025,19-Apr-2025,Tiffany Melendez,Orthopedics,Rs154.03,1
-Tamara Ramirez MD,79,F,12/23/2025,01/12/2025,Emily Mcintosh,Neurology,£126.87,Yes
-Sheryl Lopez,27,M,08/26/2025,2024/09/10,Barbara Alvarado,Neurology,,Yes
-Shannon Ramos,42,Male,"November 04, 25",2024/11/05,James Huber,Orthopedics,,Yes
-Daniel Vazquez,83,female,2026/03/21,2025/12/09,Lisa Fry,Neurology,£194.82,1
-Kimberly Heath,19,1,19-Oct-2025,09/19/2025,Amber Avila,Orthopedics,€145.75,Yes
-Tammy Yates,35,0,2025/10/29,09/06/2025,Nancy Luna,Cardiology,€58.55,No
-Alison Wolfe,29,Male,2025/05/30,"March 26, 24",Michelle Thomas,General,$481.22,Yes
-Natalie Miller,55,F,12-Oct-2025,"October 28, 24",Derrick Glass,General,€56.37,Y
-Kara Schneider,81,Female,21-Jul-2025,2024/07/08,Ivan Russo,General,£456.26,1
-Kevin Jackson,56,Male,"June 16, 25",31-May-2024,David Love,Cardiology,$157.36,No
-Mary Werner,32,,07/22/2025,2024/04/12,Bonnie Walker,Orthopedics,$69.13,Yes
-Jennifer Barber,74,M,"December 06, 25",10/04/2024,Christopher Smith,Neurology,€56.63,Y
-Emily Miller,55,male,"April 01, 25",09/13/2024,Nicole Bates,Orthopedics,$432.84,No
-Christine Lane,27,Female,2025/04/07,"April 02, 24",Kimberly Long,Orthopedics,£208.8,N
-Gabriela Pope,62,female,01/02/2026,26-Feb-2025,Melissa Brown,Neurology,$413.25,1
-Alexa Landry,24,Male,2025/09/16,16-Jan-2025,Larry Delgado,Orthopedics,$73.59,Yes
-Erica Thompson,34,F,07-Dec-2025,11-Oct-2025,Jill Kelley,General,Rs466.72,0
-James Noble,68,1,06/25/2025,"June 05, 25",Dylan George,Cardiology,€213.67,Y
-Sandra Russo,42,1,25-Jan-2026,09-Dec-2024,Michael Alexander,General,$156.9,N
-Robert Hampton,90,M,2025/11/12,04-Sep-2025,Kevin Wilkinson,Neurology,£323.18,No
-Rachel Simmons,65,male,2025/08/12,"December 27, 24",Robert Sanchez,Cardiology,$188.72,Y
-Eduardo Martinez,89,Male,14-Oct-2025,16-Sep-2024,Craig Kelly,Cardiology,£411.32,1
-Edward Taylor,67,female,07/02/2025,04-Jun-2024,Yvette Johnson,Orthopedics,€388.8,0
-Ashley Martinez,68,,05/07/2025,10/18/2024,Spencer Torres,Orthopedics,$296.8,N
-Megan Edwards,69,1,10/08/2025,2025/05/19,Eric Arellano,Neurology,€439.46,No
-Mr. Phillip Baxter,80,M,07/24/2025,01/16/2025,Tricia Hunt,General,$320.72,N
-Diana Schroeder,73,1,"August 24, 25","July 04, 25",Alexandra Lee,Neurology,$262.84,No
-Katelyn Miller,78,M,12/19/2025,"November 25, 24",Justin Chen,Cardiology,Rs274.94,0
-Brian Garrett,65,Female,01/24/2026,"January 04, 26",Tamara Williams,Cardiology,£182.77,No
-Aaron Clay,87,M,31-Oct-2025,05/22/2025,Timothy Barker,Cardiology,€312.88,Yes
-Brian Bolton,78,male,"August 18, 25",05/26/2024,Natalie Patrick,Neurology,£163.58,0
-Karla Bush,66,,"May 23, 25",08/14/2024,Victor Hernandez,Cardiology,Rs135.85,Y
-Michelle Edwards,30,female,03-Dec-2025,07/27/2025,Charles Harvey,Orthopedics,£242.2,Yes
-Jack Sutton,76,female,"November 28, 25",20-Apr-2025,Paul Giles,General,$374.72,Yes
-Joseph Hart,69,Female,09/04/2025,16-Feb-2025,Ralph Fernandez,General,€326.58,No
-Rachel Carlson,27,female,"January 05, 26",2024/12/12,Paul Martinez,Neurology,$379.39,Y
-Miss Stacey Weaver,75,Male,14-Apr-2025,2024/06/20,Rachel Wilson,Orthopedics,Rs442.41,0
-Steven Giles,58,F,"December 01, 25","December 29, 24",Kevin Vaughan,General,€358.98,0
-Trevor Taylor,61,Female,2025/06/19,"September 01, 24",William Schneider,Neurology,£235.74,0
-Erica Robbins,68,Female,04-Jul-2025,"October 31, 24",Matthew Carlson,General,$400.6,1
-Alexander Rios,43,0,"May 18, 25",07/22/2024,Bryan Parker,Orthopedics,€305.19,No
-Jennifer Reese,62,0,"November 07, 25","August 11, 24",James Aguilar,Cardiology,£357.15,N
-Daniel Valenzuela,45,male,06/21/2025,13-Mar-2025,Karen Brewer,Cardiology,$245.21,Yes
-Alexander Jones,85,female,2025/12/09,"January 30, 25",Mary Ward,General,Rs498.26,Y
-Robert Myers DDS,72,Female,2025/08/27,07-Dec-2024,Luis Smith,Neurology,Rs499.72,Yes
-Jennifer Sims,63,Female,15-Oct-2025,02/02/2025,Janet Coffey,Cardiology,€315.71,Y
-Jenna Williams,67,0,19-Jul-2025,12/04/2024,Ryan Mitchell,General,$149.33,Yes
-Jamie Nixon,69,1,03/16/2026,19-Jun-2024,Scott Allen,General,$412.82,N
-Maria Harris,24,F,2025/07/19,29-Aug-2024,Henry Hall,Orthopedics,£372.5,0
-Angela Davis,87,F,"January 22, 26",11/03/2024,Danielle Meyer,Orthopedics,£60.76,0
-Alex Burns,68,1,"January 10, 26",2025/09/11,Raymond Bond,Cardiology,€290.52,N
-Thomas Banks,80,1,12/09/2025,10/21/2025,George Stevens,Cardiology,Rs451.66,0
-Courtney Everett,39,Female,09-Jan-2026,2024/08/09,Ryan Chavez,Cardiology,£260.91,0
-Lori Montgomery,18,M,02/26/2026,09/07/2025,Christy Fisher,Orthopedics,$117.12,1
-Sarah Fuller,80,M,"March 06, 26","June 18, 25",Cody Ortega,Cardiology,Rs460.11,Y
-Julia Mckenzie,30,male,2025/08/13,02/10/2025,Sarah Scott,Cardiology,€91.94,1
-Eric Kim,33,female,13-Jun-2025,09-Jun-2024,Arthur Harris,General,,No
-Anne Jacobs,31,1,2026/03/04,01/28/2026,Lauren Clark,Orthopedics,£347.38,Y
-Brandy Navarro,27,0,"July 16, 25",06/13/2025,Matthew Nichols,Orthopedics,Rs288.43,Yes
-Jennifer Lowery,21,0,09/16/2025,23-Mar-2025,Tracy Johnson,Cardiology,€222.2,0
-Thomas Nash,75,F,"June 05, 25",01/20/2025,Justin Flores,Cardiology,Rs180.6,1
-Yolanda Thomas,61,female,15-Dec-2025,2024/07/10,Keith Lee,Neurology,,1
-Victor Simmons,80,male,02/10/2026,17-Jan-2025,Christopher Nelson,Cardiology,€485.31,N
-Edward Holland,86,male,07-Sep-2025,11-Jan-2025,Joe Rodriguez,Neurology,£255.9,0
-Mary Foster,42,M,20-Apr-2025,2024/10/09,Terry Welch,Cardiology,€443.13,1
-Michael Sullivan,63,M,07/09/2025,31-Jul-2024,Angela Thomas,Orthopedics,Rs318.88,Y
-Thomas Smith,54,Female,"September 11, 25",2025/09/05,Brandon Garcia,Cardiology,$108.91,0
-Melissa Ramirez,34,Male,10-Sep-2025,2024/10/30,Amber Clayton,Neurology,£167.18,Yes
-Rachel Baker,22,Female,2025/12/15,05/18/2024,Maria Gentry,Orthopedics,£444.67,N
-Penny West,84,female,10/24/2025,2025/03/27,Heather Ortiz,Neurology,$396.57,Yes
-Michelle Mcclain,45,Female,11/11/2025,"June 10, 25",Mrs. Amy Miller,Cardiology,Rs185.29,0
-Jennifer Davis,47,Female,02/17/2026,2024/05/09,Michael Bryant,Cardiology,$215.89,No
-Kimberly Lee,88,,2025/10/19,"November 16, 24",Vanessa Ramirez,Neurology,£438.81,N
-Paul Perez,28,male,08/24/2025,07/29/2025,Nancy Young,Neurology,€231.7,1
-Tyler Smith,42,1,2025/11/05,"August 03, 24",Melinda Smith,General,,Y
-Anthony Boyd,27,Female,20-Feb-2026,"July 06, 25",Bradley Gibson,General,£173.85,Yes
-Henry Snyder,59,1,16-Oct-2025,04/29/2024,Theresa Simon,Cardiology,$285.44,Yes
-Sabrina Wade,34,Female,07/20/2025,2025/05/14,Randy Vargas,General,Rs202.92,N
-Cody Scott,69,Male,"October 06, 25",2024/11/29,Larry Cohen,Neurology,€383.47,Yes
-David Mcdonald,84,1,12/24/2025,08/30/2024,Donald Garcia,General,£302.66,Y
-Sherri Guzman,37,1,09/14/2025,2024/05/20,Carlos Morton,Orthopedics,£472.57,Yes
-Mr. Brian Anderson,25,F,04/24/2025,04/14/2024,Adrienne Roberts,Orthopedics,€417.21,No
-Kayla Mccormick,84,female,"March 16, 26","December 04, 24",Robert Burton,Neurology,$244.68,Yes
-Mark Reeves,30,0,"January 08, 26",19-Aug-2025,Mark Hill,Cardiology,$70.7,Y
-Debra Short,64,male,06/24/2025,06-Oct-2024,Karla Baker,General,€386.37,No
-Melissa Richmond,33,Male,"June 11, 25",02/19/2025,Jasmin Holmes,Neurology,$387.75,Yes
-Linda Murphy,63,Male,17-Feb-2026,11-Jan-2026,Margaret Montoya,Cardiology,Rs176.68,N
-Michael Gonzales,86,male,23-Dec-2025,11/24/2024,Richard Torres,General,Rs491.64,0
-Samantha Garner,54,0,"June 16, 25",2025/04/24,Jacob Hobbs,General,$325.91,0
-David Reeves,52,1,06-Dec-2025,2025/01/19,Marc Copeland,General,,N
-Jennifer Schwartz,30,Female,"December 31, 25",2025/11/14,Tamara Smith,Cardiology,$280.21,Y
-William Conley,28,0,09/27/2025,2025/06/19,Thomas Wallace,General,Rs88.29,0
-Kelly Ayers,53,Male,"February 16, 26",2025/04/04,Justin Taylor,Neurology,$443.75,Y
-James Perry,57,M,2025/08/27,05-Apr-2024,Leonard Campbell,Cardiology,$385.61,Yes
-Steven Phelps,19,Female,13-May-2025,"July 18, 24",Darren Williams,Cardiology,Rs350.5,Y
-Mark Daniels,75,M,2025/12/14,"May 30, 24",Kimberly Pierce,Orthopedics,$255.56,1
-Zachary Williams,33,1,"September 13, 25",2024/07/02,Selena Brown,Orthopedics,£458.83,1
-Carly Ford,20,Female,2025/07/23,22-Jun-2025,Scott Tran,Neurology,€138.29,N
-Elaine Williams,42,Female,"March 15, 26",05/23/2024,Daniel Carlson,Cardiology,Rs189.02,Yes
-Randy Wright,27,0,2025/08/14,"December 02, 24",Jennifer Banks,Orthopedics,€272.47,No
-Charles Foley,56,Male,"September 19, 25",28-Sep-2024,Richard Arias,Cardiology,€450.37,Y
-Ryan Kennedy,81,0,"February 07, 26","June 27, 24",Scott Shannon,General,$490.67,Yes
-Stephen Cox,56,1,27-Sep-2025,2025/02/05,Joseph King,Cardiology,£99.17,No
-Jennifer Jackson,80,0,2025/07/29,04/14/2024,Frank Harrell,Neurology,$105.64,No
-Jessica Wilson,72,0,03/20/2026,13-Jul-2024,Sharon Nash,Orthopedics,€437.18,N
-Brittany Wall,37,M,"February 28, 26",2024/04/18,Willie Dean,General,Rs77.2,0
-Diane Adams,81,Female,2025/12/30,01/09/2025,Andrew Carroll,General,€118.72,0
-Shawn Moon,52,male,"March 17, 26",2025/10/20,Sheila Williams,Neurology,€155.69,Y
-Sharon Lopez,79,1,2025/09/09,02/02/2025,Yolanda Richardson,Neurology,$487.57,N
-Timothy Ramirez,56,F,"November 18, 25","February 07, 25",Tiffany Shepherd,Cardiology,Rs412.44,0
-Daniel Marshall,74,Male,11-Dec-2025,23-Apr-2025,Lisa Taylor,Cardiology,£297.5,Y
-Andre Pitts,60,Female,"January 26, 26",30-Sep-2024,Donna Sandoval,General,€481.4,Yes
-Mary Garcia,54,M,21-Oct-2025,04/11/2025,Brianna Ortega,General,$252.53,Y
-Lawrence Ford,89,F,07/09/2025,2025/01/03,Randall Watts,Neurology,€167.8,Yes
-Monica Mcclure,84,0,2025/05/24,"May 10, 24",Martha Byrd,General,Rs347.94,1
-Troy Richards,80,0,16-May-2025,2024/11/13,Thomas Baker,Neurology,£305.02,Y
-Anna Rowe,59,female,2026/02/26,25-Aug-2024,Judith Preston,Neurology,€83.61,No
-Michael Espinoza,55,Female,2025/04/29,2024/12/06,Amber King,Neurology,£360.39,N
-Kenneth Dixon,68,male,08/19/2025,"January 31, 25",Sandra Sloan,Orthopedics,€402.4,Yes
-Justin Ortiz,60,Male,2025/11/08,03/30/2025,Russell Myers,Cardiology,£234.26,N
-Melissa Wagner,59,Male,18-Sep-2025,15-Jun-2024,Megan Garcia,Neurology,Rs219.5,Y
-Jamie Miller,84,F,05-Feb-2026,2024/05/28,Gloria Perez,Orthopedics,€191.19,N
-Cynthia Jones,38,1,05/31/2025,2024/05/26,Eugene Little,Orthopedics,Rs318.15,1
-Henry Quinn,23,F,"August 10, 25",22-Apr-2025,Audrey Hansen,General,$350.0,0
-Jake Robinson,62,female,"September 09, 25",25-Nov-2024,Nathan Quinn,Cardiology,Rs178.28,Yes
-Kimberly Morrison,34,0,2026/03/04,09/11/2024,Brian Young,Orthopedics,$248.31,Y
-Ricardo White,35,M,2025/10/27,07/11/2025,Tanya Barker,Cardiology,Rs352.72,1
-Cynthia Richard,36,Male,03/17/2026,"August 25, 24",Scott King,Orthopedics,€208.03,0
-David Thompson,47,0,03-Dec-2025,24-Aug-2025,Derek Velazquez,Cardiology,£116.75,N
-Mary Moon,36,1,10/13/2025,"January 08, 25",Ernest Rodriguez,Cardiology,€91.29,N
-John Gallagher,57,0,28-Jun-2025,2024/11/02,Kara Austin,Cardiology,€198.61,Yes
-Benjamin Allen,20,Female,"November 22, 25",04/06/2025,Richard Johnson,Cardiology,€257.17,No
-Abigail Holt,50,0,09/11/2025,2025/03/14,Jacob Mays,Neurology,$343.79,Yes
-Katherine Rogers,50,F,19-Nov-2025,01/15/2025,Morgan Edwards,Orthopedics,$431.21,1
-Jason Larson,66,F,2026/02/02,"February 14, 25",Helen Davis,Neurology,£241.91,1
-Jesse Robertson,24,Male,2025/07/27,19-Jul-2025,Rebecca Gross,Orthopedics,€95.25,Yes
-Tyler Trujillo,72,male,2025/12/11,"January 24, 25",Andrea Walsh,Cardiology,£167.07,No
-Travis Rodriguez,85,M,"October 20, 25","August 10, 25",Richard Wagner,Neurology,€426.64,Yes
-Darren Alvarado,38,M,"May 29, 25",2025/05/13,Spencer Booth,Cardiology,€106.8,0
-Troy Marshall,67,Female,"April 17, 25",15-Sep-2024,Benjamin Robinson,Orthopedics,$478.18,0
-Corey Turner,27,0,2025/06/05,13-Mar-2025,Heidi Baker,Orthopedics,Rs435.1,Yes
-Ashley Wright,45,Female,"February 26, 26",06/03/2025,Kristen Lopez,General,€403.22,Yes
-Jose Bauer,37,0,17-Oct-2025,2025/04/07,Reginald Barrett,Orthopedics,€390.81,No
-Jared Lester,26,M,"October 20, 25",09-Sep-2024,David Espinoza,Orthopedics,£310.42,N
-Jeffrey Martinez,86,0,02/09/2026,21-Jan-2026,Michael Ross,Neurology,$469.3,0
-Christopher Massey,82,male,07/15/2025,"May 19, 25",William Moore,Orthopedics,€495.94,Y
-Erin Small,82,Male,"May 15, 25",2025/05/13,Jeff Lane,General,€403.87,No
-Pamela Dalton,18,M,06-Oct-2025,2024/11/28,Christopher Jones,Orthopedics,Rs466.56,0
-Rebecca Parrish,59,female,2026/03/15,06-Jan-2025,Jordan Shelton,Orthopedics,$163.52,N
-Dominic Bell,37,male,18-Nov-2025,2024/11/18,April Castillo,Cardiology,Rs356.13,Yes
-Gregory Arellano,71,0,2025/08/05,"July 07, 25",Natalie Smith,Orthopedics,$400.62,0
-Laura Chan,49,0,02/17/2026,16-Jan-2026,Reginald Miller,Cardiology,$177.93,N
-Michael Watkins,35,M,07/06/2025,"March 05, 25",Brian Deleon,General,£313.04,Y
-Daniel Garrett,38,M,01/28/2026,01-Jun-2025,Francisco Steele,Neurology,£424.5,0
-Ronald Gonzalez,30,Female,25-Jan-2026,2025/10/01,Crystal Mueller,General,Rs222.37,1
-Charles Green,80,female,"April 28, 25",30-Mar-2024,Lisa Hoffman,Neurology,€349.49,N
-Allison Ramos,75,Female,"December 28, 25",12/16/2024,Chase Ford,Neurology,$482.2,1
-Christopher Brown,49,F,26-Mar-2025,01/02/2025,Henry Moore,Cardiology,Rs92.08,N
-Barbara Holland,24,M,30-Jan-2026,12/16/2024,Chelsea Aguirre,General,€439.56,N
-Matthew Herrera,74,female,"September 01, 25",05/26/2025,Cody Murray,General,Rs473.48,Yes
-Valerie Vaughn,35,1,"November 11, 25",18-Jul-2024,Felicia Warner,Orthopedics,,0
-Tiffany Miller,85,1,2025/03/29,2025/03/07,Melissa Bradley,Cardiology,€151.02,No
-Cassandra Cain,64,female,2026/01/24,"February 08, 25",Jessica Williams,Cardiology,Rs79.59,0
-Glen Arroyo,70,female,2025/09/12,2024/06/03,Christopher Schneider,Neurology,£167.31,Y
-Kimberly Hill,37,,05/10/2025,2024/08/26,Kenneth Long,Neurology,Rs194.81,0
-Erik Martinez,24,male,10/28/2025,2025/01/15,Jennifer Carroll,Cardiology,$97.67,Yes
-Michael Bradley,86,0,11-Jun-2025,28-Sep-2024,Carl Gomez,Orthopedics,£254.91,No
-Rebecca Carey DDS,57,M,10/09/2025,"March 17, 25",David Carter,Neurology,$169.09,No
-Tammy Nelson,20,1,08/21/2025,04/15/2024,Angel Aguilar,Cardiology,,0
-Heidi Alvarez,88,Male,30-Jul-2025,06/30/2025,Jeremy Wilson,General,Rs94.19,Y
-Robert Edwards,84,0,"October 09, 25",10-May-2025,Ashley Gonzalez,Orthopedics,£84.87,No
-Bryan Fritz,86,Female,2025/08/03,02/19/2025,Kelsey Hernandez,Orthopedics,$338.43,Y
-Donald Reed,60,F,05/06/2025,2024/10/11,Danny Webster,General,$453.66,Y
-Alejandra Perkins,72,,"August 03, 25",2025/04/11,Daniel Dickerson,Orthopedics,,Y
-Jonathan Drake,76,M,2026/01/06,"March 16, 25",Andrew Johnson,Cardiology,£328.88,1
-Sandra Wood,81,male,2026/02/03,29-Sep-2025,Brian Armstrong,Neurology,£51.93,0
-Alexis Moody,81,F,05/29/2025,"June 11, 24",Jennifer Reyes,Orthopedics,Rs201.8,Y
-Carol Williams,75,female,15-Apr-2025,2024/06/01,Joshua Gomez,Cardiology,$129.1,Y
-Kimberly Adkins,77,male,15-Dec-2025,"August 19, 24",Tamara Rivera,Cardiology,,0
-Tracie Jefferson,74,female,2025/07/24,"April 24, 25",Margaret Robinson,General,$153.53,Y
-Aaron Young,60,M,26-Jan-2026,05/09/2024,Wendy Cochran,Cardiology,Rs222.33,1
-Terry Dennis,28,M,07/14/2025,2024/08/16,Kelsey Scott,Neurology,Rs403.78,Yes
-Michael Newman MD,45,F,"November 29, 25","August 31, 25",Ronald Santos,General,$343.21,0
-Kristin Terry,50,M,18-Aug-2025,2025/05/17,Michael Brown,Neurology,£67.97,1
-Nicole Green,55,Male,2025/07/18,2024/07/06,Charles Owens,General,Rs365.21,No
-Tina Cook,25,female,"December 05, 25",09/28/2024,Paul Allen,Neurology,£269.53,1
-Robin Donovan,69,M,2025/03/27,08/04/2024,Brian Brown,General,$163.58,N
-Bryan Meyers,84,Female,2026/01/05,07/11/2025,Michael Trevino,Cardiology,Rs499.36,N
-Deanna Manning,50,female,"November 14, 25",09/14/2025,Austin Stout,Cardiology,Rs101.37,0
-Linda Miller,28,female,03/08/2026,12/08/2024,Patricia White,Orthopedics,,0
-Kathryn Bell,24,Female,"June 13, 25",2024/06/06,Andre Carter,Cardiology,£442.72,N
-Patrick Ewing,52,M,2025/11/16,03/24/2025,Alexander Jackson,Cardiology,£224.89,0
-Steven Henderson,53,1,2026/02/15,27-Apr-2025,Nicole Martinez,Orthopedics,Rs163.4,Y
-Michael Marquez,59,1,07/28/2025,2024/07/19,Mr. Curtis Ortiz,Cardiology,€202.98,N
-Brittany Thompson,31,female,"April 05, 25",05/08/2024,Wendy Davis,Cardiology,Rs257.1,N
-Tracy Perez,74,Male,03/19/2026,11/26/2025,Lauren Rosario,Cardiology,€466.87,No
-Morgan Torres,83,M,2026/02/02,07/29/2025,April Lyons,General,,0
-Jessica Price,31,1,27-Oct-2025,2025/03/12,Justin Rice,Orthopedics,€490.78,Y
-Kayla Williams,63,male,10/02/2025,"June 06, 24",Aaron Cooper,General,Rs217.86,N
-Victoria Young,47,F,2025/08/06,21-Jul-2025,Lauren Whitaker,Neurology,$174.04,Yes
-Roger Hatfield,52,M,12-Aug-2025,01/22/2025,Victoria Lopez,Orthopedics,€196.21,No
-Robert Lewis,66,female,23-Oct-2025,25-May-2024,Samantha Cameron,Cardiology,Rs490.08,Y
-Jeremiah Perez,48,male,25-Jul-2025,01/14/2025,Michael Black,Orthopedics,$91.94,N
-Haley Mcintosh,74,0,19-Oct-2025,2024/08/07,Amanda Boyd,Orthopedics,€484.82,1
-Kathy Rhodes,72,1,06/16/2025,"August 23, 24",Rachel Bright,Neurology,$175.26,1
-Louis Craig,49,0,13-Apr-2025,05-Oct-2024,Rachel Wood,Orthopedics,Rs484.93,N
-Jenny Black,33,F,2025/11/14,2025/09/06,Jamie Nunez,Neurology,$381.93,No
-Sarah Davis,61,1,01-Jan-2026,08/14/2025,Rebecca Thompson,General,Rs402.6,N
-Heidi Sosa,29,male,"November 10, 25","May 17, 25",Nancy Wilson,Cardiology,Rs241.81,Y
-Dalton Rodriguez,54,1,01-Aug-2025,07-May-2024,Erica Sanchez,General,Rs467.2,1
-Jacqueline West,70,Male,01/19/2026,2025/01/17,Steven Walker,General,£148.74,Y
-Sherri Barry,48,Male,08/29/2025,2024/04/15,Janet Schultz,Neurology,£109.72,No
-Lydia Russell,67,M,11/16/2025,"December 31, 24",Matthew Clark,General,£477.53,1
-Alexander Hammond,41,male,29-Jun-2025,"September 21, 24",Tara Moore,Cardiology,€286.71,N
-Nichole Anderson,87,,10-May-2025,"February 06, 25",Richard Vega,Cardiology,£316.89,Yes
-Jacqueline Peters,40,0,2025/12/09,11-Oct-2025,Adam Jensen,General,€266.74,Yes
-Kelly Hodge,55,Male,"October 15, 25",05/28/2025,Terry Jones,Orthopedics,£175.09,No
-Brandi Boyd,90,1,12/08/2025,06-Aug-2024,Mary Jacobson,Cardiology,Rs96.2,N
-David Jones,25,female,02/24/2026,2025/11/21,Dakota Fleming,General,Rs443.12,0
-Zachary Lewis,46,Female,"February 07, 26",12/19/2024,Gary Washington,Neurology,$351.94,1
-Andrea Anderson,75,1,"August 15, 25",06/16/2024,Mary Burgess,Neurology,$59.55,Y
-Shawn Castillo,68,male,05/02/2025,15-Feb-2025,Jennifer Carroll,Orthopedics,£339.57,No
-Jerry Holmes,88,M,12/05/2025,02-Aug-2024,Kim Daniels,Neurology,Rs344.57,Y
-Kimberly Diaz,47,F,06/19/2025,"May 07, 24",David Guzman,Orthopedics,$197.72,Y
-Katherine Olson,57,0,2025/11/04,03/21/2025,Larry Roberts,Cardiology,£202.68,0
-Nathaniel White,71,M,"April 20, 25","July 31, 24",Andrew Clark,Cardiology,$95.4,N
-Robert Garcia,68,female,2025/04/03,2024/08/06,Eric Lewis,Orthopedics,€245.84,0
-John Gonzalez,44,M,"January 19, 26","June 14, 24",Richard Medina,Orthopedics,€284.66,N
-Peter Pierce,70,male,21-Dec-2025,2025/08/07,Deborah Snyder,Neurology,Rs389.49,No
-Elizabeth Russo,67,male,2025/07/03,07/30/2024,Connie Martinez,Neurology,,Yes
-Jacqueline Collins,67,female,2025/06/12,18-May-2025,Paul Parker,Neurology,$161.5,No
-Mckenzie Mccarty,38,0,2025/05/19,07/20/2024,Larry Smith,Orthopedics,£68.36,0
-Samuel Thomas,82,Male,06/16/2025,01-Apr-2024,Donna Johnson,General,£332.15,Yes
-Robert Williams,53,Male,07/24/2025,02/03/2025,Jessica Chandler,Neurology,£294.14,Y
-Brent Thompson,33,0,03-May-2025,11/23/2024,Pamela Cunningham,Orthopedics,€202.54,0
-Ms. Kristen Johnson,60,Male,02/15/2026,"April 14, 24",Susan Griffin,Neurology,Rs455.57,Y
-Darlene Clark,65,Male,2025/11/09,11/16/2024,Thomas Williams,Neurology,£378.58,N
-Jessica Williams,49,F,2025/06/21,08-Oct-2024,Corey King,General,£110.44,N
-Lauren Burns,23,Female,"April 12, 25",2024/09/13,Amy Baxter,Cardiology,£274.12,0
-Jesse Wood,69,Male,01/02/2026,"September 23, 24",Deborah Vasquez,Neurology,Rs224.83,Y
-James Price,72,Male,2025/06/20,"September 18, 24",Jessica Garcia,General,$194.55,Y
-Darryl Murphy,82,male,2026/03/03,2024/11/03,Christian Chapman,Cardiology,€207.23,0
-Maria Boyd,69,Female,02-Oct-2025,02/23/2025,Mike Miller,Cardiology,€464.96,Y
-Jacqueline Howell,30,M,2026/02/21,2025/05/23,Felicia Smith,Cardiology,£316.64,Y
-Tracy Smith,30,female,2025/05/24,07/05/2024,Amber Baxter,Neurology,Rs139.49,1
-Victoria Perry,39,1,03/26/2026,08/24/2025,Heather Garcia,Neurology,€447.23,No
-Pamela Davis,78,0,"December 19, 25","September 15, 25",Antonio Galloway,Orthopedics,€320.38,1
-Stephanie Carr,70,Female,08/26/2025,2024/12/19,David Colon,Orthopedics,$212.66,0
-Carrie Davis,50,,2026/01/19,2024/04/01,Michael Jones,Neurology,Rs390.86,0
-Pamela Young,40,,"May 30, 25",05/23/2025,Yvonne Richardson,Orthopedics,$136.23,1
-Leonard Clark,56,female,02/28/2026,"February 08, 25",Robert Foster,Cardiology,Rs68.8,1
-Michele Perry,90,0,"August 07, 25","December 23, 24",Leslie Gomez,Neurology,€79.41,0
-Ryan Tucker,89,Male,"February 18, 26",03-Nov-2024,Barbara Owens,Orthopedics,Rs224.61,N
-Kelsey Rice,20,M,"November 16, 25","November 19, 24",Darren Jensen,General,$190.44,N
-Monique Daniels,25,F,"March 08, 26","November 11, 25",Alexander Brown,General,$316.64,Y
-Joseph Mcmillan,67,Female,"May 20, 25",20-Mar-2025,Frederick Nielsen,Orthopedics,Rs308.59,N
-Miss Christine Lopez,75,female,11/30/2025,05-Jun-2025,Cynthia Turner,Cardiology,$414.58,Yes
-Christy Nunez,54,1,2025/07/11,2024/06/25,Theresa Parker,Cardiology,€338.24,Y
-Jeff Lynch,57,F,2025/12/04,12-Oct-2024,Joseph Gibbs,Neurology,€53.35,N
-James Mendez,89,F,2025/07/02,"April 08, 25",Jackie Brooks,General,$186.43,No
-Kelly Hess,42,Female,2025/05/19,11/07/2024,Seth Benson,General,Rs268.93,0
-Sandra Wilson,79,0,"December 23, 25",19-Feb-2025,Cheryl Adams,General,€322.0,1
-Jennifer Williams,80,M,01/04/2026,"October 18, 25",Emily Barnes,General,$498.84,N
-Kathryn Green,86,,2025/05/01,"August 19, 24",Robert Moreno,Cardiology,Rs415.78,Yes
-Holly Potter,75,male,11/21/2025,"January 02, 25",Christina Mitchell,General,Rs274.5,Yes
-Catherine Stein,23,0,14-Oct-2025,02/08/2025,Donald Jacobson,Neurology,£368.24,1
-Wendy Andrews,46,M,06/18/2025,19-Oct-2024,Kimberly Wilcox,Orthopedics,Rs353.07,1
-Richard Alexander,29,F,"November 09, 25",2025/07/16,Monica Torres,Cardiology,£358.68,0
-Javier Hawkins,38,M,"February 01, 26",16-Apr-2024,Debra Fields,Orthopedics,$427.54,N
-Sonya Wheeler,60,female,07-Sep-2025,13-Apr-2024,Adam Carlson,Orthopedics,Rs433.05,Yes
-Jessica Castillo,37,0,2025/09/18,2024/11/17,Bryan Newton,Cardiology,€436.91,No
-Courtney Powell,82,1,2026/01/24,"October 03, 24",Kelly Hardin,Orthopedics,€252.53,0
-Crystal Oneal,60,1,"August 19, 25",2025/01/23,Harold Gray,Neurology,$421.74,Y
-Alison Robinson,83,Male,2025/09/15,12/23/2024,Jose Thomas,Orthopedics,£175.6,No
-Justin White,82,M,2026/01/04,"April 16, 25",Jose Jackson,Neurology,Rs203.05,0
-Linda Ryan,76,male,"October 31, 25",27-Jun-2024,Sandra Johns,General,£123.13,1
-Meghan Evans,79,0,2025/11/21,11-Sep-2025,Courtney Yang,Orthopedics,$337.15,No
-Tiffany Stone,27,female,08/18/2025,05/23/2025,Henry Kelley,Neurology,€180.76,0
-Melanie Hernandez,19,0,2026/02/22,2025/06/12,Adam Anderson,Orthopedics,$445.97,Y
-Gabriel Yang,41,male,31-Oct-2025,07/10/2024,Justin Thomas,Neurology,£236.58,0
-Nicole Garcia,55,F,07-Aug-2025,04/06/2024,Guy Vaughn,Cardiology,$125.33,0
-Jenny Martin,59,Male,2025/11/30,"August 01, 25",Andrew Terry,Orthopedics,€394.58,1
-Audrey Irwin,55,F,11/22/2025,09-Sep-2024,Michael Murphy,Orthopedics,€96.12,0
-Bryan Armstrong,68,Male,22-Apr-2025,"April 03, 25",Robert Escobar,Neurology,Rs305.01,0
-Lisa Hill,68,female,06/23/2025,2024/10/24,Mia Boyd,Cardiology,$169.01,N
-Susan Delgado,39,male,2025/11/18,"November 04, 25",Paula Mann,Neurology,€304.86,0
-Bradley Myers,63,M,09-Nov-2025,"December 08, 24",Mark Barrett,Neurology,Rs426.51,1
-Derek Smith,82,0,23-May-2025,2024/10/18,Jeremy Burton,Cardiology,$215.76,N
-Taylor Farley,25,female,"October 01, 25",09/01/2024,Christy Lewis,Cardiology,$184.11,Y
-Richard Richardson,80,0,2025/11/24,"December 29, 24",Robin Hebert,Cardiology,Rs226.12,1
-Ryan Rodriguez,53,female,2025/05/29,22-Feb-2025,Eric Kennedy,Orthopedics,Rs277.5,Yes
-Jeremy Coleman,83,M,11-Sep-2025,03-Sep-2024,David Riley,Neurology,Rs63.99,N
-Alexander Williams,85,Female,20-Mar-2026,08-Oct-2025,Erin Chandler,Orthopedics,Rs85.56,N
-Steven Richards,26,1,2026/03/23,11-Jan-2025,Zachary Hamilton,Orthopedics,€237.1,N
-Toni Morris DDS,30,F,"December 01, 25",16-Jul-2024,Robin Medina,Orthopedics,€250.69,No
-Zachary Allen,21,Female,2026/02/24,2025/06/04,Justin Smith,Neurology,,Yes
-Mary Wilson,27,female,2025/07/04,"March 17, 25",Misty Higgins,Orthopedics,$421.57,1
-Nicole Shepard,28,0,23-Mar-2026,04/01/2024,Mr. Ricky Le,Cardiology,€77.79,1
-Trevor Anderson,32,F,06-Jul-2025,10-Apr-2025,Kenneth Johnson,Neurology,€156.32,Y
-Robert Wade,87,male,2026/02/07,11-Jul-2024,Phillip Shelton,Orthopedics,$249.74,Y
-Oscar Luna,72,Female,"March 05, 26",03/26/2025,John Stewart,General,$126.56,Yes
-Lance Hobbs,59,1,2025/10/10,"August 18, 24",Mr. James Brown,General,$143.32,N
-Misty Wells,64,M,"July 31, 25",23-Aug-2024,Debra Booker,Neurology,£353.8,Y
-Adam Mcdonald,28,Female,08/15/2025,2024/11/17,David Schmidt,Cardiology,£174.54,Yes
-David Mann,68,male,2026/03/16,06-May-2024,Donald Ferguson,Orthopedics,£217.77,Y
-Daniel White,67,male,04/12/2025,07/13/2024,Chad Johnson,Neurology,Rs277.51,N
-Steven Gonzalez,37,1,"February 04, 26",10-Nov-2025,Jonathan Daniels,Orthopedics,£259.19,Y
-Samuel Harrison,53,,"August 09, 25",07/06/2024,Hunter Powell,Neurology,Rs492.92,Yes
-Bethany Williams,21,M,"November 12, 25",2025/04/22,Kayla Woods,Neurology,€51.38,0
-Eddie Tate,53,M,"January 26, 26",09/27/2024,Paul Johnson,Neurology,Rs374.03,1
-Christopher Trujillo,69,Male,"April 06, 25",2024/07/28,Keith Smith,Orthopedics,£175.33,0
-Sarah Thompson,25,F,2026/02/11,20-Jun-2025,Ruth Shaw,Neurology,£129.25,0
-Bradley Jones,61,,07/14/2025,22-Dec-2024,Douglas Patton,Cardiology,Rs257.41,1
-Emma Ferrell,23,Male,10-Sep-2025,04/23/2024,David Bradford,General,€337.48,Y
-Michael Garcia,61,F,04-Mar-2026,"August 10, 25",Barbara Mack,Neurology,€310.15,Yes
-Darlene Hodge,69,male,"May 27, 25",2025/04/20,Amanda Cruz,Orthopedics,€63.14,N
-Katherine Rios,23,0,12/24/2025,2025/01/05,Elizabeth Foster,Orthopedics,$265.67,N
-Jennifer Shaffer,59,0,"June 08, 25",2024/12/26,Brittany Watson,Orthopedics,$382.64,Y
-Leslie Newman,80,F,05/11/2025,2024/10/22,Lindsey Mendoza,Cardiology,Rs125.35,0
-Alejandro Romero,27,Male,"July 25, 25",08/28/2024,Karen Hancock,Orthopedics,£206.69,No
-Ashley Peterson,39,female,30-May-2025,06-May-2025,Kyle Mcintyre,General,£358.45,Yes
-Steven Wallace,52,Male,"September 25, 25",2025/01/11,Katherine Martin,Cardiology,€496.62,0
-Lindsey Sullivan MD,66,Male,2025/04/08,2025/01/02,David Barnett,Orthopedics,Rs290.47,1
-William Wilson,52,male,02/16/2026,14-Mar-2025,Jacob Bernard,General,€346.4,0
-Kenneth Cox,78,Male,22-Jan-2026,06/07/2025,Brian Walker,General,$123.28,No
-Susan Winters,45,0,25-Jul-2025,"August 31, 24",Christopher Simpson,Orthopedics,$353.09,No
-Marissa Randall,30,Male,23-Dec-2025,2024/06/12,Kent Cannon,Neurology,Rs299.12,1
-Lydia Davis,30,F,2025/12/03,"May 18, 24",Brian Rodriguez,Neurology,€286.79,1
-Jason Kennedy,46,M,"October 18, 25","October 03, 24",Robert Fowler,Orthopedics,€330.76,N
-Melissa Brown,28,1,"April 20, 25",2024/08/01,Bill Brown,Orthopedics,€69.76,Y
-Shannon Vargas,57,0,2025/05/31,2025/02/14,Brian Caldwell,Orthopedics,$341.11,No
-Jennifer Dorsey,27,,02/10/2026,06/29/2025,Michael Stanley,General,$147.08,N
-Gary Simpson,63,male,"July 05, 25",2025/06/21,Veronica Chen,Neurology,$462.6,1
-Nicole Adams,25,F,13-Oct-2025,"March 13, 25",Krystal Krueger,General,€357.53,Yes
-Gary Ramos,84,0,25-Mar-2026,08/31/2025,Gregory Riley,Cardiology,Rs353.35,1
-Veronica Shaw,86,,"September 22, 25","July 15, 24",Michael Franco,Orthopedics,£174.42,Yes
-Lisa Smith,40,0,2025/10/30,31-Jul-2024,Daniel Beck,Orthopedics,Rs449.41,N
-Eric Lawson,78,male,02/02/2026,14-Nov-2025,Andrew Webb,Cardiology,$179.07,No
-Vanessa Wright,28,Male,07-Jan-2026,"August 23, 25",Virginia Sharp,Cardiology,Rs344.67,Y
-Edward Thomas,80,F,"September 28, 25","August 30, 24",Teresa Medina,Neurology,$84.72,1
-Cassandra Peterson,34,Male,"April 23, 25",2024/12/08,Mary Sanchez,Orthopedics,,1
-Ellen Stevens,35,male,14-Jul-2025,02-Jul-2024,Charles Wells,Orthopedics,£479.79,0
-Shawn Mendoza,36,1,2026/03/25,05/03/2024,Erin Walton,Cardiology,€77.99,N
-Sandra Hill,65,Male,08/10/2025,"January 06, 25",Julie May,Orthopedics,Rs113.2,Yes
-Oscar Hunt,29,male,2025/06/11,"July 02, 24",Michael Mason,Cardiology,£363.04,Y
-Tristan Booth,22,,07/10/2025,07/16/2024,Alicia Hall,Neurology,$477.72,0
-Ashlee Warren,69,Male,21-Jan-2026,06/01/2024,Cynthia Cruz,General,Rs289.74,1
-Alexander Vega,35,M,"August 17, 25",08/06/2025,Karen Gomez,Neurology,$270.15,1
-Breanna Lewis,59,F,10/12/2025,15-Jun-2025,Jerry Tucker,Orthopedics,£155.98,Y
-Jackie Lane,56,1,2025/06/04,29-May-2024,Jackie Harper,Cardiology,Rs335.27,Y
-Shawn Cordova,67,male,11/27/2025,07/30/2024,Wendy Mcguire,Neurology,Rs285.22,No
-Christina Macdonald,64,F,"September 16, 25",23-Jan-2025,Samuel Ramirez,General,Rs91.36,1
-Dylan Jones,22,female,02-Oct-2025,07/04/2025,Katherine Small,General,Rs498.58,0
-Christine Herring,89,Female,"December 22, 25","March 08, 25",Kristin Hartman,General,€453.73,Yes
-Brandon Carter,72,F,05/10/2025,02/27/2025,James Aguilar,Neurology,£218.54,No
-Lori Dean,40,female,11/05/2025,15-Aug-2024,Theresa Williams,Orthopedics,Rs312.26,0
-Deborah Robinson,36,0,01/25/2026,2024/10/30,Joseph Bell,Cardiology,€159.21,Yes
-Jason Tate,71,Female,01/27/2026,2025/03/07,Kimberly Young,Cardiology,€484.79,1
-Jill Mcconnell,81,Female,2025/03/28,02/16/2025,Jessica Miller,Cardiology,Rs475.35,No
-Kyle Barnes Jr.,21,1,04/18/2025,2024/09/24,Donna Peters,General,$156.1,Y
-Regina Smith,87,,2025/08/30,"December 15, 24",Donna Orr,General,$246.13,N
-Jeffrey Warren,60,female,2025/07/20,2024/11/21,Mrs. Michelle Reed,Cardiology,Rs340.54,No
-Andre Crosby,72,F,16-Feb-2026,07-Jul-2024,Douglas Smith,General,$235.81,No
-Jessica Maldonado DDS,25,1,2025/04/21,20-Sep-2024,Kelly Thomas,Cardiology,£166.21,No
-Ian Bush,39,Male,09-Jan-2026,20-Jun-2025,Steven Welch,Cardiology,€418.29,0
-Nicole Warren,63,female,19-Sep-2025,"February 07, 25",Kimberly Beck,General,£415.35,N
-Dennis Jacobs,33,1,02/18/2026,06/02/2024,Katherine Long,General,$307.29,1
-Edward Black,88,Female,12/04/2025,2025/10/11,Nathan Summers,Orthopedics,Rs268.75,No
-Suzanne Jenkins,44,1,13-Oct-2025,2024/06/16,Maureen Jacobson,Orthopedics,€248.97,1
-Lindsey Green,28,0,06/02/2025,2024/06/21,James Fleming,Neurology,$270.71,0
-Sarah Hernandez,25,female,09/03/2025,27-Oct-2024,Jeremy Mclaughlin,Orthopedics,$253.36,Y
-Christina Eaton,85,male,2026/01/20,"March 10, 25",Stephanie Kelley DVM,Neurology,$192.87,No
-Angela Rogers,18,male,08/14/2025,10-Apr-2025,Dr. Brian Smith,Orthopedics,Rs362.08,0
-Molly Hayden,75,,"January 06, 26",22-Feb-2025,Brian Chambers,General,£306.62,N
-Brian Clarke,73,1,05-Apr-2025,"December 20, 24",Amanda Hoffman,Neurology,$348.18,0
-Steven Morgan,58,Male,05/24/2025,2024/09/09,Donna Adkins,Orthopedics,£298.42,1
-Kyle Jones,52,Male,"October 31, 25",01-Sep-2024,Sara Morse,Neurology,,0
-Mrs. Jennifer Ingram,41,M,"September 11, 25","November 30, 24",Katrina Williams MD,General,$473.2,No
-Troy Torres,80,0,"May 04, 25",2024/09/20,Matthew Carney,Cardiology,$124.09,N
-Stephanie Moss,24,Female,2026/03/04,2025/04/02,Jason Bray,General,€52.32,Y
-Jade Blanchard MD,23,Female,29-Jan-2026,2024/07/01,Amber Waters,Orthopedics,$151.03,No
-Pamela Johnson,80,F,01-Jul-2025,2024/11/12,Crystal Garza,General,Rs417.42,Y
-Glenn Wall,26,0,15-Sep-2025,2025/05/13,Sarah Peterson,Cardiology,$112.9,Y
-Christopher Beard,65,male,03/04/2026,"June 01, 24",Jerry Torres,General,Rs126.44,Y
-Darin Caldwell,54,M,"September 03, 25",20-Feb-2025,Danielle Pacheco,Cardiology,€185.15,No
-Henry Henderson,58,male,06/10/2025,02-Aug-2024,James Love,Orthopedics,,No
-Regina Giles,42,Male,10/24/2025,27-Nov-2024,Kimberly Foster,Neurology,€258.9,Y
-Curtis Cooke,84,male,09/29/2025,2024/06/24,John Hancock,Neurology,€477.08,No
-Joel Marshall,55,1,12/23/2025,23-Feb-2025,Victoria Garcia,Neurology,€306.8,0
-Peter Schaefer,84,female,08/27/2025,"June 02, 24",Carlos Spence,Cardiology,Rs190.01,No
-Andrew Cross,67,Female,26-Mar-2026,03/07/2026,Victor Warner,General,Rs281.44,N
-Jonathan Fernandez,40,Male,"December 03, 25",09/08/2025,Luis Nolan,Orthopedics,Rs252.73,Y
-Rebecca Gould,72,Female,04/04/2025,12/17/2024,Xavier Richardson,General,£397.0,No
-Anthony Nash,32,Male,13-May-2025,21-Aug-2024,Brianna Shea,Cardiology,Rs392.0,1
-Kimberly Fitzpatrick,65,F,"October 07, 25",09-Dec-2024,Mark Moore,Orthopedics,,No
-Elizabeth Duke,82,Female,"January 15, 26",24-Jul-2025,Michael Rogers,General,€156.61,0
-Richard Griffin,61,Male,2025/10/24,"August 21, 25",Tina Gonzalez,Orthopedics,Rs81.87,Yes
-Erica Jimenez,75,male,"December 17, 25","September 22, 24",Bethany Mcpherson,Neurology,£438.16,0
-Melissa Allen,35,Female,2025/10/29,"June 13, 25",Rodney Lopez,General,£447.77,0
-Manuel Becker,66,F,"May 17, 25",29-Aug-2024,Jacob Patel,Neurology,$139.99,N
-Erika Davis,42,Male,"July 30, 25","March 09, 25",Jamie Andrews,Cardiology,£393.1,1
-Shannon Flores,19,0,07-Sep-2025,"May 30, 24",Scott Washington,Cardiology,£248.78,1
-Tara Garrison,41,M,03-Feb-2026,"October 04, 25",Stacy Hartman,Cardiology,£453.09,Yes
-Pamela Davis,27,Female,11/23/2025,"April 12, 24",Kevin Fields,General,€57.05,1
-Sandra Terry,21,0,"July 15, 25","July 23, 24",Debra Buchanan,Neurology,£386.04,0
-Steven Miller,20,1,01-May-2025,2025/04/28,Bob Shaw,Orthopedics,£204.82,N
-Haley King,84,male,02/12/2026,"June 21, 24",Erin Carr,Cardiology,€239.93,No
-Jonathan Wood,74,Female,"May 23, 25",2024/12/26,Jon Duarte,Orthopedics,Rs486.07,Y
-Jessica Ali,70,female,01-May-2025,2024/09/17,Willie Rose,Cardiology,€73.35,1
-Bridget Cooley,75,Female,"February 22, 26",25-Feb-2025,Ashley Edwards,General,£144.78,Yes
-Brad Hill,87,Male,2025/10/22,02/28/2025,Emily Joseph,Cardiology,€92.16,1
-Nathan Murphy,52,female,24-Nov-2025,10-May-2024,Kerry Rowe,Cardiology,Rs164.9,N
-Stephanie Caldwell MD,86,female,04-Jul-2025,19-Jan-2025,Darrell Mendez,Orthopedics,$74.84,Y
-Henry Carlson,65,female,"September 23, 25",04/01/2024,Benjamin Brown,Orthopedics,Rs230.11,Y
-Michael Evans,65,1,"March 28, 25","January 04, 25",Manuel Vargas,Orthopedics,€304.67,No
-Regina Wilson,73,male,"December 31, 25",2024/12/14,Heidi Hamilton,Neurology,£275.12,Yes
-Jeremiah Cruz,64,M,03/14/2026,"February 10, 26",Matthew Pratt,Neurology,€177.85,Y
-Nicholas Vasquez,49,male,2025/10/30,"June 12, 25",Jennifer Anderson,Neurology,Rs410.8,N
-Cheryl Smith,48,F,"October 01, 25","November 03, 24",Sarah Harper DDS,Cardiology,$97.46,No
-Matthew Moore,63,0,2026/03/02,2025/03/04,Erica Riley,General,Rs116.32,Yes
-Katherine Wilson,44,0,"December 01, 25",2024/07/31,Mitchell Sims,Orthopedics,$203.3,Y
-James Miller,23,Male,09-Sep-2025,2024/11/25,Dawn Collins,General,$139.43,0
-John Rich,48,0,2025/06/20,09/05/2024,Jennifer Johnston,General,,1
-Kathleen Oneal,71,Male,"May 17, 25",07/28/2024,Jacob Andrade,Orthopedics,$74.36,Y
-Courtney Hunt,74,0,17-Aug-2025,"October 21, 24",Mrs. Kayla Peterson,General,€303.91,0
-Steven Wilson,48,0,2025/04/08,02/03/2025,Hannah Herrera,Cardiology,$77.48,0
-Meghan Sanchez,58,Male,04/06/2025,"August 05, 24",Judith Watson,Neurology,€282.36,1
-Amanda Johnston,46,Female,"April 16, 25",2024/10/24,Angela Burton,Cardiology,,0
-Richard Jones,71,Female,"November 23, 25",08/16/2025,Stephen Cooper,General,£243.46,0
-Lindsay Harris,28,1,26-Oct-2025,"February 22, 25",Ryan Hughes,Orthopedics,€444.38,Yes
-Kathy Banks,39,M,11/25/2025,2025/07/26,Anna Yoder,General,Rs319.04,Y
-Beth Murphy,71,Female,30-Jun-2025,2024/08/13,Adam Davis,Orthopedics,£330.71,Y
-Barbara Johnston,46,F,"July 29, 25",01/12/2025,April Hood,Cardiology,Rs160.18,1
-Patrick Perez,62,male,21-Jan-2026,2024/12/13,Jesse Edwards,Neurology,$290.14,Yes
-Sonia Moss,52,Female,2025/11/06,2024/09/21,Joy Armstrong,Neurology,€244.09,1
-Dana Mcclure,41,female,03/02/2026,"September 27, 25",Mark Norton,General,£150.5,N
-Ryan Williams,88,F,"December 27, 25","December 25, 24",Veronica Fry,General,$398.47,Y
-Amy Baird,51,1,01-Nov-2025,09/28/2025,Diana Jones,Neurology,£262.16,1
-Frank Castaneda,70,1,"July 26, 25",09/02/2024,Christopher Chen,Neurology,,0
-Benjamin Ramirez,57,female,"December 22, 25",01/06/2025,Wesley Johnson,Neurology,$142.33,N
-Matthew Buckley,57,male,09/07/2025,10/04/2024,Ryan Collins,General,Rs476.81,0
-Kimberly Goodman,22,female,09/12/2025,"September 20, 24",Luis Kim,General,€351.04,1
-Brandi Osborn,42,Female,"February 01, 26",31-Dec-2025,Daisy Rodriguez,Neurology,£73.97,No
-Christopher Lopez,39,1,2026/01/15,2025/11/11,Caleb Kennedy,General,$295.71,N
-Ronnie Roach,46,F,2025/08/13,2025/05/25,Jason Houston,Cardiology,Rs167.5,1
-Gary Taylor,87,,"May 19, 25",2024/06/12,Lauren Medina,General,£321.5,Y
-Rodney Gonzalez,21,female,2025/07/04,07-Feb-2025,Allison Ramos,Cardiology,$168.33,N
-Patrick Roach,88,F,10/31/2025,2025/06/23,Karen Duke,Cardiology,€411.75,Yes
-Sandra Rojas,83,1,16-Jun-2025,03/07/2025,Stephanie Bryant,Cardiology,,No
-Donna Stone,29,F,20-Feb-2026,"August 22, 24",Daniel Bender,Neurology,£462.15,0
-Erik Davis,30,Male,"May 30, 25","December 05, 24",Amanda White,Neurology,,Yes
-Brian Patel,33,,"October 16, 25",13-Sep-2024,Tracy Harris,Orthopedics,€124.69,No
-George Houston,71,,06-Sep-2025,2024/05/21,Brian Vincent,Neurology,€129.38,0
-Mrs. Katherine Huber PhD,74,Male,2025/05/09,11/12/2024,Kathryn Young,Cardiology,$488.54,N
-Edward Russell,26,Male,10/17/2025,12/12/2024,Connor Brown,Orthopedics,£93.45,No
-Thomas Fleming,18,Male,2025/06/04,12/14/2024,Kimberly Mcdonald,Neurology,€73.45,No
-Savannah Butler,26,0,"November 26, 25",2025/04/17,James Nguyen,Neurology,$340.47,No
-David Wilson,78,male,01/09/2026,2025/05/07,Matthew Wilson,Cardiology,£414.94,0
-Jacob Price,25,Male,"June 14, 25",04/27/2024,Kimberly Rangel,Neurology,€238.05,Yes
-Brian Davis,41,female,07-Feb-2026,2025/05/27,Brian Mitchell,Orthopedics,Rs63.62,Yes
-Kendra Jones,85,female,2025/07/30,14-Oct-2024,Karen Grimes,Cardiology,$101.59,1
-Anthony Medina,60,female,28-Mar-2025,"November 14, 24",Richard Walker,Orthopedics,$498.48,Yes
-Desiree Wilkins,34,Female,"February 28, 26",2025/07/31,Jamie Ford,General,$305.84,Yes
-Ashley Cunningham,32,F,01/22/2026,11/29/2024,Sarah Montgomery,Cardiology,Rs160.05,Y
-Abigail Townsend,54,F,2025/12/10,"March 08, 25",Allison Salazar,Orthopedics,$406.61,Y
-Diana Collins,47,Female,25-Nov-2025,2024/10/06,Glenn Bond,Cardiology,£359.32,0
-William Roberts Jr.,21,F,2025/08/17,"July 02, 24",Savannah Beltran,Orthopedics,$315.17,No
-Sean Bailey,85,Female,2025/09/06,02/27/2025,Erika Turner,Neurology,£319.92,Y
-Adrian Vincent,42,,21-Sep-2025,05-Dec-2024,William Coleman MD,Orthopedics,£352.01,No
-John Walsh,63,1,2025/08/13,"September 03, 24",Wanda Cox,Orthopedics,£88.56,No
-Christopher Johnson,26,0,10/31/2025,2025/03/22,Susan Stanton,Neurology,$461.18,Y
-Roger Holmes,85,female,2026/02/04,2024/12/22,Paula Stone,Cardiology,Rs206.57,1
-Michael Hamilton,29,female,"September 03, 25",07/27/2024,Angie Smith,General,£107.34,N
-Courtney Gonzales,84,female,"May 26, 25",31-Oct-2024,Kayla Norris,Cardiology,$385.01,No
-Leslie Medina,18,Female,08/17/2025,"June 25, 25",Matthew Morse,Orthopedics,£490.93,Y
-Frank Fields,30,Female,"June 27, 25",2025/05/21,Heather Diaz,General,$168.86,Yes
-Darren Douglas,23,F,01-Feb-2026,2025/09/04,Andrew Gordon,Orthopedics,$463.06,Yes
-Jerry Jones,66,Male,2025/08/21,06/05/2024,Ashley Gomez,General,$261.87,0
-Sheila Barrett,25,M,2025/11/19,15-Nov-2025,John Wallace,Cardiology,Rs170.53,N
-Kim Morris,56,F,"December 20, 25",24-Jun-2025,Michael Morris,General,$197.66,N
-Sarah Rivas,85,0,2026/03/09,18-Mar-2025,Scott Vega,Neurology,£454.23,No
-Adam Lane,76,Female,21-Mar-2026,20-Sep-2024,Lynn Dorsey,Neurology,€104.3,Y
-Ronald Taylor,43,M,"August 27, 25","May 11, 24",Vanessa Jackson,Neurology,$263.1,1
-Angela Smith,51,Male,09/02/2025,"August 15, 25",Nicholas Jones,Orthopedics,£229.44,N
-Chad Tyler,89,0,"February 02, 26","January 08, 25",Tiffany Sullivan,Neurology,£424.53,1
-Mary Manning,48,F,2026/01/23,2025/10/13,William Harris,Orthopedics,$248.84,No
-Samantha Hoffman,37,M,2025/07/23,14-Mar-2025,Julie Smith,Cardiology,$89.38,No
-Shawn Juarez,64,1,02-Aug-2025,05/31/2025,Patrick Morrison,Neurology,€110.8,Yes
-Dave Summers,25,F,"February 09, 26","January 19, 25",Traci Hopkins,Orthopedics,$217.51,1
-Luke Brady,78,male,"October 09, 25",2025/06/24,Adam Hall,General,€427.98,Y
-Christian Guerrero,77,Female,07-Jan-2026,29-Jun-2024,Jennifer Perez,Cardiology,$298.89,Y
-Terrence Long,46,male,2026/02/01,06/27/2025,Natalie Rodriguez,Cardiology,£182.71,Y
-Victor Everett,90,F,05-Nov-2025,06-Jun-2024,Jacob Diaz,General,€350.12,0
-Amanda Stevenson,26,1,2026/01/17,"June 28, 24",Tyler Cunningham,General,€158.91,0
-Vanessa Perkins,22,F,16-Mar-2026,"November 26, 24",Megan Smith,Orthopedics,£457.94,1
-Michael Davis,36,0,2026/01/11,09/30/2025,Karen Griffin,Cardiology,€130.9,N
-Amy Pierce,83,Female,"July 27, 25",28-Mar-2025,Ian Castillo,Orthopedics,$318.44,No
-Dakota Kelly,44,F,2025/10/07,11/17/2024,Andre Jones,Neurology,Rs291.99,0
-Erin Williams,69,female,2026/02/04,2024/10/17,Sean Hernandez,Cardiology,$161.56,Y
-Tiffany Cooper,58,M,"July 05, 25",16-May-2025,Katrina Jones,General,€79.8,Y
-Jerry White,76,1,2025/08/19,2025/08/15,Steven Scott,General,Rs151.58,1
-Joseph Pace,67,1,20-Nov-2025,08/02/2025,Lydia Baker,Neurology,Rs338.13,Yes
-Jean Kramer,30,,05/29/2025,"May 31, 24",Donald Clark,Orthopedics,€441.92,Yes
-David Rose,78,M,"November 09, 25",14-Jul-2025,Dana Ewing,Orthopedics,Rs114.73,Yes
-Christopher Lopez,45,M,"March 21, 26",04-May-2024,Kevin Pearson,General,£405.59,Y
-James Gibbs,25,Female,"November 16, 25",09/22/2024,Lisa Norris,Cardiology,$368.56,No
-Lori Henderson,50,Female,2025/06/05,19-Dec-2024,Terri Stewart,General,Rs496.31,No
-Benjamin Lewis,85,Male,2026/01/09,03-May-2025,Taylor Hicks,Cardiology,€213.17,No
-Matthew Johnson,22,1,12/17/2025,06-Aug-2025,John Moran,Orthopedics,€150.15,No
-Karen Myers,89,0,07/20/2025,12-Jun-2024,David Wright,Neurology,€371.69,No
-Shelly Chavez,34,Female,"October 10, 25",02-May-2025,Megan Morales,Neurology,$431.45,0
-Maria Williams,22,M,"August 17, 25",05-Jan-2025,Brandi Thomas,Orthopedics,£189.17,0
-Robert Humphrey,24,,"April 10, 25",03/22/2025,Vanessa Brown,Orthopedics,$281.71,No
-Matthew Gutierrez,21,Male,"February 08, 26",05/14/2025,Lisa Smith,General,€309.31,N
-Rebecca Banks,23,male,05/26/2025,2025/01/17,April Randall DDS,Neurology,Rs57.03,Yes
-Ashley Rodriguez,52,0,06/05/2025,06-Nov-2024,Russell Zimmerman,Orthopedics,Rs219.97,N
-Laura Ford,36,,27-May-2025,2024/12/02,Kyle Evans,Orthopedics,£186.51,No
-James Stout,20,1,10/03/2025,30-Jul-2025,Andrea Myers,Neurology,€77.05,0
-Ashley Foster,32,0,"February 23, 26","January 14, 25",Melinda Cannon,General,£208.72,1
-Christian Thomas,38,1,2025/07/06,2025/04/23,Gregory Tapia,Neurology,£390.16,Y
-Stacy Gardner,53,,01/18/2026,"March 11, 25",Michael Campbell,Neurology,£74.78,Yes
-Taylor Patterson,58,F,03/25/2026,2025/10/24,Ellen Miller,Neurology,$199.03,No
-Justin Zimmerman,61,M,2025/11/05,2025/09/20,Tammy Thomas,Cardiology,£245.09,0
-Jaclyn Knight,66,0,08/24/2025,05/19/2024,John Oliver,Orthopedics,£282.03,0
-Jessica Rodriguez,18,Male,2025/04/21,"September 04, 24",Jeffrey Martin,Neurology,Rs411.85,Yes
-Patricia Johnson DDS,70,1,"June 12, 25",2024/11/27,Ana Hunt,Neurology,£144.89,Yes
-Alexandra Sandoval,31,male,"November 21, 25","August 16, 25",Rachel Moore,Neurology,Rs198.95,N
-Mandy Smith,64,Male,2025/04/14,02/04/2025,Brian Olson,Neurology,Rs246.05,1
-Danny Cooper,21,male,27-Apr-2025,2025/03/13,Mark Morrison,Neurology,€164.43,Yes
-Dr. Christina Dunn,51,female,2025/09/11,"June 13, 24",Madeline Sharp,General,Rs381.59,No
-Rachel Porter,29,M,17-May-2025,2024/10/06,Patrick Russell,Neurology,€341.42,N
-Megan Williams,51,Male,12/11/2025,10/19/2025,Melissa Khan,Neurology,Rs456.12,No
-Michelle Hill,82,male,12/08/2025,07-Apr-2024,Rachel Sanchez,General,Rs371.84,Y
-Donna Green,78,female,"January 14, 26",2025/05/07,Clifford Ramirez,Orthopedics,€263.23,No
-Leon Anderson,63,1,28-Nov-2025,2024/09/24,Mary Chandler,Neurology,$427.62,Yes
-Cheryl Ruiz,66,1,"May 23, 25","April 29, 24",Maria Thomas,Orthopedics,£100.78,Yes
-Keith Douglas,49,male,16-Sep-2025,"May 02, 25",Dawn Browning,Orthopedics,,0
-Christina Spencer,61,M,2025/11/14,2024/05/10,Mark Kelley,Orthopedics,£308.28,N
-April Rios,30,F,2026/02/26,2026/02/07,Megan Mccann,General,€471.3,0
-Mallory Martin,23,1,10/27/2025,2025/06/22,David Whitney,Cardiology,Rs437.95,1
-Elizabeth Johnson,87,female,24-Jan-2026,"December 09, 24",Dr. Mary Day,General,Rs461.32,Y
-Ellen Rogers,31,0,"August 30, 25","January 17, 25",Tammie Melendez,General,€424.17,Y
-Kenneth Jenkins,49,0,"May 20, 25",2024/09/12,Tanya Eaton,General,€428.7,Yes
-Duane Mitchell,52,Female,"January 12, 26",09/08/2024,Helen Jackson,Neurology,€159.11,0
-Mr. Paul Chavez,65,M,2025/07/23,2025/02/04,Evan Marquez,Neurology,$159.06,Y
-Ian Weaver,18,F,2026/01/19,06/01/2025,Audrey Torres,Neurology,Rs317.16,Yes
-Daniel White,37,Female,"May 25, 25","October 12, 24",Justin Hall,General,€470.63,Y
-Brian Riley,74,M,"August 23, 25","September 24, 24",Charles Kemp,Cardiology,$153.44,N
-Joshua Wallace,60,,12/26/2025,22-May-2024,Melissa Price,General,€416.08,0
-Amy Cruz,43,1,12/14/2025,"February 28, 25",Tony Burke,Neurology,€458.79,Yes
-Carly Dixon,30,male,29-May-2025,01/26/2025,Gary Murray,Orthopedics,$125.8,0
-Pamela Bradshaw,43,male,02-Apr-2025,08-Jul-2024,Donald Mitchell,General,Rs352.94,0
-Rebecca Hall,68,Male,22-Jul-2025,28-Jun-2025,Kevin Mendoza DVM,General,€111.4,0
-James Lopez,85,female,"September 19, 25","September 16, 25",Carla Cole,Cardiology,€161.54,Y
-Christopher Powell,69,Male,"March 31, 25",11/05/2024,Gary Wood,Orthopedics,Rs479.37,Yes
-Barbara Dalton,29,1,"April 07, 25","June 02, 24",Rachel Holloway,Cardiology,$306.94,1
-Alejandra Turner,31,0,2025/05/31,05/24/2025,Bradley Jones,Cardiology,€194.95,Yes
-Kelsey Shaffer,56,M,"April 20, 25",07-Dec-2024,Christina Simmons,Neurology,€91.05,Y
-Kara Stewart,63,F,21-Apr-2025,03/06/2025,Becky Sanchez,Neurology,€290.36,No
-Kenneth Fox,86,0,"October 13, 25",2024/08/12,Kimberly Sullivan,General,$85.53,1
-Michelle Bradford,31,0,"March 17, 26",02-Aug-2025,Robert Williams,Cardiology,€419.74,Yes
-Amy Wilson,81,Male,2025/09/26,01-Feb-2025,Nathan Mathews,Orthopedics,,0
-Danielle Ortega,76,Male,08/18/2025,"June 14, 25",Tiffany Lowery,Orthopedics,$83.67,N
-Gregory Hines,76,M,02/07/2026,"January 15, 26",Rebecca Goodwin,Orthopedics,Rs255.43,No
-Amanda Douglas,90,1,03/07/2026,2024/06/25,Gregory Gonzalez,General,,0
-Scott Walker,62,Male,03/22/2026,2025/11/28,Brianna Hernandez,Neurology,$433.63,Y
-Teresa Kim,71,Male,"December 26, 25",2024/04/27,Gregory Brown,Neurology,Rs461.04,0
-Kimberly Miller,59,female,"April 25, 25",2024/04/30,Anna Jennings,Cardiology,£261.01,Y
-Ashley Black,84,F,05/29/2025,29-Jan-2025,Dennis Murphy,Neurology,,N
-Wendy Parks,40,male,2026/02/14,09-Sep-2025,Melissa Williams,Neurology,,1
-Stacy Clements,75,female,06/03/2025,2024/11/09,Cynthia Dunn,Cardiology,Rs96.19,Yes
-Kyle Gibbs,58,Female,2026/02/25,10/29/2024,Christopher Guzman,Neurology,£248.76,0
-Beth Stephens,24,female,02-Dec-2025,04/13/2025,Scott Nguyen,General,Rs246.63,0
-Michael Heath,88,1,2025/10/29,"March 22, 25",Benjamin Brown,Cardiology,Rs256.59,Yes
-James Malone,84,Female,"September 26, 25",06/16/2025,Rhonda Oconnor,Neurology,$326.84,Y
-Christina Moore,64,1,05/31/2025,"August 21, 24",Joshua Martin,Orthopedics,£476.97,N
-Katie Mcdaniel,76,0,"January 10, 26",2025/07/31,Aaron Perkins,General,$136.77,Y
-Scott Thompson,49,Male,14-Feb-2026,2025/03/11,Erika Richards,Neurology,€466.59,No
-Jon Berry,27,male,02-Nov-2025,2024/04/25,Heather Foster,General,€342.3,Yes
-Connie Wheeler,29,1,2025/12/30,08/08/2025,Sherri Buckley,Neurology,€444.2,N
-Jonathan Howell,63,Male,2025/08/12,"November 03, 24",Darryl Case,Orthopedics,Rs421.18,Y
-Michelle King,54,Male,07-May-2025,2024/06/22,Anthony Hughes,General,€386.3,No
-Christine Barron,59,M,"March 20, 26",24-Dec-2025,Thomas Clark MD,Cardiology,Rs107.04,1
-Dr. Karen Miller DDS,37,Male,19-Apr-2025,2024/04/29,Martin Herring,Orthopedics,£381.15,0
-Kimberly Barnett,69,male,10/04/2025,07/31/2025,William Bryan,General,€477.98,Y
-Abigail Warner,53,Female,10/25/2025,2024/05/23,Heather Stokes,Orthopedics,€418.27,Y
-Melissa Vaughn,46,1,26-Mar-2026,21-Jun-2025,Vickie Johnson,Cardiology,€300.52,0
-Jocelyn Strickland,22,M,30-Apr-2025,"July 10, 24",Vincent Kemp,Cardiology,,N
-Lindsay Shaw,43,0,17-Sep-2025,"May 09, 24",Julia Mcmillan,Orthopedics,£485.93,0
-Melvin Bowers,88,0,"December 15, 25",14-Nov-2025,Robin Diaz,Orthopedics,£164.2,1
-Victoria Gilbert,64,F,"April 08, 25",2024/07/23,April Spears,Cardiology,$390.1,No
-John Marsh,33,male,05/04/2025,2024/06/04,Michael Wright,General,£407.7,1
-Eugene Underwood,80,M,2025/11/11,"May 20, 25",Benjamin Williams,Neurology,Rs467.55,No
-Michelle Payne,87,M,02-Jul-2025,"November 25, 24",Cassandra Bishop,Orthopedics,€119.41,0
-Melanie Lee,31,M,10/01/2025,"October 25, 24",Andrea Kennedy,Cardiology,£441.89,No
-Jessica Murray,20,1,2025/12/29,06/23/2025,James Harris,General,Rs184.38,N
-William Villarreal,80,1,"June 15, 25",17-Aug-2024,Ronald Davis,Orthopedics,$269.35,1
-Monica Jones,18,1,2025/10/17,07-May-2024,Cheryl Bailey,Cardiology,Rs363.94,No
-Craig Parsons,71,0,2026/01/09,"December 15, 25",Jose Price,General,£323.0,0
-Cameron Lopez,44,female,"April 27, 25",13-Dec-2024,Christopher Williams,Orthopedics,$163.0,Yes
-Daniel Green,32,Male,"July 05, 25","January 04, 25",James Fox,Orthopedics,Rs254.14,1
-William Hatfield,32,M,26-Feb-2026,"April 14, 25",Kristen Lopez,Neurology,$112.79,0
-Dawn Bryant,48,0,14-Jun-2025,03/21/2025,Charles Nguyen,Cardiology,Rs164.15,Y
-Joseph Rodriguez,69,female,2025/05/25,06/15/2024,Douglas Foster,Cardiology,€94.37,1
-Bailey Williamson,88,F,"October 17, 25",05/24/2025,George Singleton,Cardiology,$368.53,No
-Jeffrey Johnston,36,1,2026/01/21,"January 06, 25",Cynthia Baker,Orthopedics,Rs240.37,0
-Brandy Estes MD,64,male,2025/10/26,2024/05/15,Andrea Lam,Neurology,£238.59,Y
-Kristin Combs,38,F,2025/10/28,12-Dec-2024,Frank Anderson,General,Rs279.32,0
-Alex Rowe,34,male,11/28/2025,06/15/2025,Derek Doyle,Cardiology,Rs114.8,0
-Kevin Peters,19,female,07/23/2025,2025/04/28,Nancy Wilson,General,€96.78,N
-Hunter Miller,65,F,2025/07/24,05/31/2025,Kathy Lawson,Neurology,£384.42,0
-Rebecca Franklin,43,0,"July 03, 25",2024/05/16,Daniel Love,Neurology,Rs187.7,1
-David Chapman,66,F,07/27/2025,"July 17, 25",Rachel Wells,Orthopedics,£382.67,No
-Timothy Fowler,78,female,"July 15, 25",04-Jul-2025,Donna Stephens,General,€236.27,0
-Megan Russell,84,Male,12/26/2025,07-Aug-2025,Autumn Hill,Cardiology,$359.17,Y
-Courtney Wright,43,,26-Jul-2025,"May 24, 24",Daniel Morris,Orthopedics,Rs362.65,1
-Natalie Marquez,29,female,07/18/2025,"March 24, 25",Jennifer Paul,Neurology,£401.58,No
-Sarah Wilson,79,M,2026/02/21,"August 08, 24",Courtney Foley,Orthopedics,$120.7,Y
-Ashley Estes,54,1,2025/06/02,31-Jul-2024,Stephanie Mercer,Cardiology,£405.15,Yes
-William Bentley,42,Male,21-Oct-2025,2025/03/31,Jacob Mckay,Neurology,$263.3,Yes
-James Carey,41,1,03-Apr-2025,"August 22, 24",James Berger,Orthopedics,£470.08,1
-Nicholas Mcdaniel,48,F,"August 09, 25",2025/04/26,Daniel Smith,Orthopedics,€79.73,0
-Cheryl Rogers,43,M,01/12/2026,10/30/2025,Victoria Hansen,General,£376.76,Y
-Patricia Jackson,76,0,28-Feb-2026,11/19/2024,Jennifer Martin,Cardiology,Rs378.92,0
-Erin Bates,50,M,2025/06/13,15-Jan-2025,Chelsea Harris,Cardiology,$370.13,Y
-Aaron Holder,19,Male,2026/01/26,"November 28, 24",Lauren Ayers,General,Rs377.38,Y
-Thomas Roman,64,Female,"September 14, 25",2024/07/15,Robert Bass,General,Rs200.43,Yes
-Jack Cooper,67,F,"April 09, 25","June 20, 24",Christopher Smith,General,Rs244.49,No
-Christopher Brown,28,1,"February 13, 26",2024/06/13,Kimberly Johnson,Neurology,£154.48,N
-Michael Sullivan,65,F,2025/07/04,2024/04/15,Anthony Mccoy,Neurology,$434.95,0
-Perry Crawford,79,Male,05-Nov-2025,2024/07/22,Marvin Hicks,Cardiology,€102.23,Y
+Tammy Williams,76,female,2026-02-26,2024-12-03,Christopher Graham,Cardiology,£425.8,1
+Megan Strickland,69,female,2025-05-23,2024-06-12,Brandon Lewis,Orthopedics,€344.26,Y
+Amanda Schroeder,79,male,2025-11-30,2024-08-05,Deanna Edwards,Neurology,€203.34,Y
+Anthony Mcpherson,47,female,2025-05-18,2024-09-09,Karen Parsons,General,Rs85.76,No
+Benjamin Brown,45,,2026-03-07,2024-08-17,Andrea Hernandez,General,$84.44,1
+Joe Sharp,78,male,2025-09-26,2025-08-31,Kimberly Fields,General,,Yes
+Alexander Harris,22,female,2025-10-30,2024-12-29,Jim Jones,Cardiology,€99.0,No
+Raymond Williams,57,male,2025-04-23,2025-03-28,James Brooks,Neurology,Rs374.63,No
+Dustin Willis,54,female,2025-08-22,2024-11-07,Jamie Hill,General,$452.37,Yes
+Tina Gallagher,45,male,2026-03-16,2025-12-12,Tiffany Gates MD,Neurology,€494.97,Yes
+Robert Guerrero,54,male,2025-04-24,2024-10-07,Shane Brown,Cardiology,£91.91,Y
+Karen Walker,68,female,2026-03-07,2024-04-24,Natalie White,General,$82.88,Yes
+Chris Rice,61,male,2025-07-31,2024-05-05,Amy Olson,Neurology,Rs277.14,N
+Michael Mack,70,male,2025-09-21,2024-11-06,John Larsen II,Orthopedics,€411.01,Y
+Andrea Hubbard,36,female,2026-03-12,2025-11-08,Andrea Gates,Cardiology,£67.51,N
+Brian Jones,23,female,2026-02-06,2025-03-09,Robert Navarro,Orthopedics,€163.99,Y
+Kelly Olsen,72,male,2025-08-27,2025-02-13,Christopher Bryant,Cardiology,£252.38,Yes
+Andrew Oconnor,66,female,2025-11-11,2024-12-01,Christina Hill,Cardiology,$153.07,Y
+Dennis Hurley,81,male,2025-04-10,2024-12-16,Daniel Jacobson,General,Rs329.3,1
+Paul Brock,76,female,2025-11-05,2025-05-23,Kayla Savage,Neurology,€135.45,Yes
+Jennifer Aguirre,90,male,2025-10-14,2024-05-28,Richard Huang,Neurology,Rs72.73,N
+Todd Wilson,56,male,2025-05-15,2024-05-05,Rebecca Harrington,Orthopedics,Rs258.64,Y
+Jeremiah Cole,88,female,2026-01-30,2024-08-12,Louis Turner,General,$203.61,No
+Vincent Brown,32,female,2025-05-11,2024-07-06,Brianna Garcia,Neurology,Rs236.22,N
+Tracy Mcdonald,34,female,2025-07-31,2024-04-09,Daniel Gutierrez,Cardiology,Rs292.23,Y
+Phillip Simpson,88,female,2025-06-27,2025-05-06,Darren Brooks,General,$51.72,Y
+Penny Friedman,20,male,2026-03-23,2025-06-13,Janice Taylor,Cardiology,£218.84,1
+Cynthia Hensley,86,male,2026-03-08,2024-07-09,David Robles,Neurology,Rs160.38,Yes
+Cassandra Gardner,42,male,2025-10-14,2024-11-04,Gregory Kirk,Neurology,Rs342.38,0
+Patrick Saunders,18,male,2025-09-11,2024-10-05,Casey Wagner,Orthopedics,Rs208.91,N
+Angel Kelly,82,female,2025-12-15,2025-07-21,Stephanie Taylor,General,Rs426.86,No
+Heather Baker,67,female,2025-09-13,2025-01-07,Andrew Thomas,Orthopedics,£215.31,Yes
+Stacy Cunningham,32,male,2026-03-09,2024-11-14,Laura Klein,General,£413.53,0
+Nicole Shaw,20,male,2025-05-07,2025-01-19,Mr. Brian Morton,Neurology,,Y
+Michele Park,46,female,2026-01-10,2024-11-01,Robert Sparks,General,£396.22,No
+Leslie Silva,26,male,2025-06-07,2024-12-09,Thomas Brandt,Orthopedics,$340.25,Yes
+Katelyn Smith,19,,2025-10-16,2025-09-21,Robert Henry,Neurology,$481.44,0
+John Yang,37,male,2025-09-15,2024-05-09,Anthony Jensen,Orthopedics,$442.77,0
+Judy Blair,84,female,2025-09-08,2025-05-16,Kevin Benton,Orthopedics,Rs175.63,0
+Jennifer Long,55,female,2026-03-01,2024-06-03,Thomas Hernandez,Neurology,€320.66,0
+Melanie Gibson,50,male,2025-08-17,2024-09-23,Alison Stanton,Orthopedics,$268.14,Yes
+Amanda Jones,61,male,2025-11-19,2024-04-28,Christopher Morris,General,€499.75,Y
+Donna West,35,male,2025-05-24,2024-07-18,Troy Hill,Orthopedics,Rs452.11,1
+Edward Sanders,29,,2025-09-16,2025-04-29,Steven Bailey,Orthopedics,Rs479.77,0
+Michael Levine,72,female,2025-08-11,2024-04-01,Janet Ray,Neurology,£213.35,Y
+Loretta Richardson,29,female,2025-08-22,2025-04-25,Shane Jackson,Neurology,Rs120.34,Yes
+Kathleen Jones,49,male,2025-06-12,2024-08-11,Diana Baker,Cardiology,Rs135.43,N
+Michael Allen,64,female,2025-07-29,2024-06-08,Brian Osborne DVM,Orthopedics,€214.44,N
+Kari Jackson,34,female,2025-10-01,2024-10-13,Jeremiah Rose,Orthopedics,Rs376.08,No
+Kim Allen,35,female,2025-12-30,2025-03-31,Nancy Levine MD,Orthopedics,€343.51,1
+Regina Wilson,26,male,2025-08-14,2024-06-03,Jenny Zuniga,Cardiology,Rs185.66,Yes
+Samantha Mosley,30,male,2025-12-05,2024-09-03,Thomas Thomas,Neurology,€200.01,Y
+Kathleen Porter,66,male,2026-01-28,2025-05-06,Christine Calhoun,Neurology,$367.06,0
+Cheryl Michael,49,male,2025-08-06,2025-03-23,Thomas Bennett,Neurology,Rs393.4,1
+Lawrence Rios,62,female,2026-01-10,2024-12-11,Christopher Lee,Neurology,£387.4,0
+Vanessa Jones,63,female,2025-11-09,2025-09-10,Courtney Knight,Orthopedics,$169.25,Yes
+Tiffany Burke,48,female,2025-07-09,2025-04-03,Charles Lopez,Neurology,$274.81,1
+Joseph Church,87,male,2025-08-05,2025-02-03,Ricky Velazquez,Orthopedics,Rs68.81,1
+Heather Jackson,58,female,2025-06-04,2025-01-26,Todd Silva,Neurology,Rs365.13,0
+Adam Sanders,63,male,2025-08-08,2025-05-24,Patrick Floyd,General,$466.97,Yes
+Edward Perry,54,female,2025-12-09,2025-07-12,James Miller,General,Rs484.52,No
+Bonnie Boone,35,female,2025-11-24,2024-11-05,Lorraine Figueroa,Orthopedics,€114.45,Yes
+Robert Brown,39,male,2025-06-28,2024-03-27,Jamie Sosa,General,€195.21,1
+Matthew Cross,78,male,2025-07-31,2025-06-24,Connie Wood,General,$149.8,1
+Jennifer Stark,34,,2025-06-29,2024-12-04,Jason Williams,Neurology,Rs270.33,N
+Jordan Camacho Jr.,21,male,2025-11-12,2025-06-30,Alexis Carter,Neurology,$186.24,Yes
+Elizabeth Bryant,37,female,2025-07-19,2024-06-10,Rebecca Kim,Orthopedics,Rs425.63,No
+Matthew Valdez,60,male,2026-02-19,2024-11-13,Rachel Terry,Neurology,£91.77,1
+Richard Woodard,38,female,2026-02-11,2025-09-28,Whitney Hoffman,Orthopedics,€91.27,N
+Chad Reed,68,male,2025-07-05,2025-01-23,Jennifer Adams,Neurology,£453.06,N
+Jessica Heath,86,,2025-06-25,2024-04-24,Sherri Long,Cardiology,€61.37,Yes
+Clayton Williamson,85,male,2025-09-10,2024-08-20,Glen Diaz,Neurology,$185.52,No
+Timothy Walter,28,female,2025-07-21,2025-07-14,Miss Julie Rodriguez,Neurology,£112.48,Y
+Katelyn Miller,23,female,2026-02-19,2024-09-16,Andrea Cruz,Orthopedics,$382.34,Yes
+Elizabeth Decker,86,female,2025-10-22,2025-07-19,Brandi Hale,Orthopedics,Rs168.18,Yes
+Jessica Smith,66,female,2025-08-20,2025-03-08,Crystal Mack,Neurology,,Yes
+James Johnston,22,male,2025-11-02,2025-04-24,Drew Bartlett,General,$206.53,1
+Christine Price,69,female,2025-10-01,2024-05-23,Susan Brown,Orthopedics,$258.21,0
+Amy Mayer,26,female,2025-09-28,2024-07-08,Jim Patterson,Cardiology,€253.4,1
+Samuel Moore,69,male,2026-03-02,2024-11-21,Heather Everett,General,Rs83.09,1
+Jamie Mcclure,35,female,2026-03-13,2025-07-27,Katherine Sanders,Orthopedics,$80.38,1
+Luke Price,23,female,2025-12-13,2025-06-18,Virginia Lang,Orthopedics,Rs260.4,Y
+Luis Rodriguez,50,male,2025-11-23,2025-09-24,Samantha Bass MD,Orthopedics,$294.58,1
+Pamela Brown,40,male,2026-02-25,2025-06-01,Melinda Duncan,Orthopedics,$247.13,Yes
+Craig Nixon,55,,2025-10-12,2025-08-20,William Key,Neurology,£341.19,No
+Justin Caldwell,57,female,2025-05-09,2024-12-18,Ronnie Miller,Orthopedics,Rs383.69,N
+Cassandra Collins,60,male,2025-10-03,2025-08-26,Mark Lutz,General,€243.78,Y
+Adam Torres,58,male,2025-07-03,2024-08-25,Daniel Le,Neurology,Rs329.25,No
+Carol Foster,61,male,2025-10-19,2025-08-22,Bryan Mann,Neurology,€389.37,0
+Chelsey Moore,34,female,2025-10-12,2025-01-15,Randy Garrett,Cardiology,£344.56,Yes
+John Hensley,35,male,2025-09-23,2024-07-15,Paul Tate,Orthopedics,Rs289.07,1
+Chelsea Burns,62,,2025-12-29,2024-05-13,Michael Morales,Cardiology,Rs193.6,Yes
+Ryan Miller,31,male,2025-07-11,2025-03-19,Alexa Peterson,Orthopedics,Rs259.72,Yes
+Jared Green,28,female,2025-10-08,2025-05-10,Brenda Castro,Neurology,€235.69,No
+Traci Chandler,18,female,2026-02-04,2024-12-10,Tyler Carter,General,€428.75,No
+Kenneth Graham,34,female,2025-10-31,2025-03-19,Wayne Graham,Neurology,$142.32,0
+Angela Watkins,34,female,2025-12-25,2024-09-12,Kyle Russell,Cardiology,£109.31,No
+Keith Becker,60,female,2025-11-07,2024-08-28,Kristopher Collier,General,,Y
+Nicole Hoffman,65,female,2025-06-08,2025-01-14,Robert Mitchell,General,$325.25,0
+Hannah Perez,21,female,2025-11-07,2025-07-27,Rita Smith,Neurology,£111.92,N
+Amanda Fuller,56,male,2026-02-18,2024-12-08,Anthony Cruz,Orthopedics,$347.68,1
+Tina Lewis,40,female,2026-02-10,2025-12-18,Derrick Salazar,Neurology,£59.67,Yes
+Sarah Hahn,60,,2026-03-19,2024-10-18,Theresa Lee,General,Rs123.03,Yes
+Destiny Martin,24,female,2026-02-16,2025-08-26,Lynn Jones,General,Rs420.58,0
+Megan Mitchell,69,male,2025-11-27,2024-05-18,Desiree Giles,Orthopedics,€351.17,No
+Benjamin Hughes,32,female,2026-03-02,2025-12-17,Nicholas Mcneil,Cardiology,£125.31,1
+John Anderson,60,male,2026-01-27,2026-01-18,Paul Blackburn,Cardiology,€253.42,No
+Chelsea Matthews,68,female,2025-12-07,2025-03-24,Elizabeth Obrien,Orthopedics,€359.78,Y
+Monica Horton,53,,2025-10-11,2024-03-30,Kayla Stein,Neurology,$277.21,Yes
+Joanna Tucker,18,male,2026-03-22,2024-10-05,Andrew Gray,Neurology,£84.69,No
+Dr. Peggy Mendoza,60,female,2025-04-12,2025-01-23,Ashley Flowers,Neurology,€96.94,Yes
+Victoria Gomez,72,female,2025-06-26,2025-05-19,Nicole Chandler,General,Rs205.35,1
+Daniel Rivera,63,female,2025-12-28,2025-12-22,Morgan Green,Neurology,Rs155.42,Y
+Harry Wallace,80,female,2025-12-01,2024-10-28,Nancy Hernandez,Orthopedics,$493.0,Yes
+Alicia Scott,39,male,2025-11-22,2024-11-14,William Cochran,Neurology,$243.15,0
+Melissa Lane,81,female,2025-06-01,2024-08-19,Vanessa Pittman,Cardiology,€122.6,N
+Olivia Lambert,38,male,2025-12-15,2024-12-25,Melanie Blanchard,Cardiology,£100.34,Y
+Russell Taylor,38,female,2025-11-29,2025-07-11,Breanna Gray,Orthopedics,Rs335.07,N
+Joshua Sanchez DDS,79,female,2025-03-29,2024-06-27,George Flores,Orthopedics,£154.29,Y
+Kayla Drake,54,female,2025-12-27,2025-05-27,Jennifer Long DDS,Orthopedics,$412.07,0
+Karen Carter,22,female,2026-02-28,2025-03-22,Chase Clark,Neurology,Rs401.33,1
+Andrew Baker,27,female,2025-05-04,2024-07-11,Michael Gillespie,General,$486.57,1
+Richard Hernandez,20,male,2025-11-16,2025-09-18,Daniel Bradley,General,£482.25,0
+Matthew Rivera,31,male,2025-07-03,2025-04-26,Theodore Bean,Orthopedics,€255.82,N
+Benjamin Jenkins,86,male,2025-07-23,2025-04-22,Michael Bond,General,€258.12,No
+John Johnson,81,,2025-04-23,2024-12-30,Steve Bush,General,$162.94,N
+Martha Zavala,58,male,2026-01-23,2024-04-14,Penny Freeman,Cardiology,£153.05,Y
+Daniel Ballard,38,male,2025-03-26,2025-03-02,Willie Williams,Cardiology,£114.64,N
+Mariah Davis,22,female,2025-10-24,2025-01-06,Douglas Ford,Orthopedics,£381.62,0
+Timothy Osborne,83,female,2025-12-18,2025-04-21,Christopher Ferguson,Neurology,£215.46,Yes
+Kelsey Collins,19,female,2025-04-24,2024-10-08,Gabrielle Collins,Neurology,$455.75,0
+David Kramer,54,female,2026-03-25,2024-09-05,Anne Watkins,General,£325.97,1
+Patricia King,68,male,2025-10-28,2024-10-16,Jennifer Adams,General,$468.06,Yes
+Sheri Kline,55,female,2026-01-02,2024-04-11,Jennifer Russell,General,£377.14,Yes
+Troy White,80,male,2026-01-07,2024-05-26,Cindy Cox,Neurology,$87.2,No
+David Young,58,male,2025-11-06,2025-05-15,Amy Williams,Cardiology,$226.97,0
+Tim Flowers,31,male,2025-09-29,2024-11-04,Kimberly Henson,Neurology,Rs139.81,Y
+Gregory Garcia,73,female,2025-05-01,2024-07-25,Megan Jensen,Cardiology,$466.08,N
+Max Martinez,63,male,2025-09-21,2024-11-05,Joshua Sellers,Cardiology,Rs352.03,Y
+Paul Hinton,49,female,2026-01-02,2025-11-29,Lindsey Fitzpatrick,Neurology,$461.19,N
+Thomas Landry,60,male,2025-09-03,2025-08-01,Brandon Moore,General,,No
+Alexander Le,77,female,2026-01-20,2024-04-04,Cynthia Booker,Neurology,£252.22,1
+Joseph Irwin,29,male,2025-07-27,2025-06-08,Jacob Kerr,General,£206.74,Y
+Corey Smith,52,male,2025-05-18,2025-02-15,Luke Williams,Cardiology,$130.7,N
+Brandon Baker,54,male,2025-08-12,2025-07-25,Alison Walters,General,£106.33,1
+John Campbell,67,female,2026-02-10,2024-06-21,Tanya Baxter,Orthopedics,,N
+Craig Hunt,38,female,2025-11-01,2024-05-25,Cynthia Brown,Neurology,$122.56,Yes
+Lisa Cameron,37,male,2025-08-14,2025-08-11,Karen Hunt,Cardiology,£238.81,0
+Nathaniel Wood,66,male,2025-04-29,2025-04-07,Alec Hill,General,Rs413.21,1
+Dr. Lindsey Arias DDS,48,female,2025-09-14,2024-11-28,Colton Williams,Cardiology,€91.87,N
+Timothy Matthews,56,male,2025-10-30,2024-05-18,Brandy Sutton,Orthopedics,€485.5,N
+Katelyn Byrd,32,male,2025-03-30,2024-05-03,Barbara Chavez,General,£209.81,1
+Jeffrey Bates,87,male,2025-04-08,2024-12-04,Lisa Ho,Cardiology,$401.55,Yes
+Kevin Johnson,18,female,2025-10-25,2024-09-03,Lance Smith,Neurology,Rs283.3,0
+Kelly Mcknight,87,male,2026-02-03,2025-07-12,Jerry Lopez,Neurology,£146.2,Y
+Jamie Wright,62,female,2025-04-03,2025-03-18,Lori Hall,Orthopedics,€211.18,Y
+Kimberly Conner,86,female,2026-02-18,2024-10-12,Steven Holland,Cardiology,£476.99,1
+Kelli Page,25,male,2025-10-08,2025-03-24,Stephanie Wall,Orthopedics,$248.33,0
+Deanna Abbott,46,female,2025-09-04,2025-05-08,Damon Hayes,Orthopedics,£192.67,1
+Lindsay Rodriguez,39,male,2025-10-23,2025-07-18,Troy Lynch,Orthopedics,,0
+Christopher Singleton,81,female,2025-10-26,2025-02-19,Brandy Graves,General,$65.06,1
+Michael Walsh,69,female,2025-05-08,2025-01-24,Tammy Watts,Neurology,£117.14,Yes
+Caroline Reed,54,female,2025-07-29,2024-06-06,Eric Kelly,Neurology,Rs433.77,No
+Jennifer Wells,79,female,2025-05-13,2024-09-02,David Cole,Orthopedics,$82.84,No
+Gary Walker,87,,2025-03-26,2024-03-26,Matthew Lopez,Orthopedics,Rs216.23,Yes
+Michelle Johnson,24,male,2025-12-19,2025-07-01,Jennifer Brooks,General,€492.98,Yes
+Malik Robinson,77,female,2025-10-21,2024-07-18,Amber Little,General,Rs280.77,N
+Michael Glenn,60,male,2025-11-13,2025-06-23,Robert Martinez,Cardiology,$99.19,N
+Anthony Cortez,57,male,2025-05-25,2025-03-28,Derrick Cook,General,$225.83,Y
+Daniel Cole,69,male,2025-05-06,2024-09-28,Dustin Jones,Cardiology,$458.12,Yes
+Matthew Lloyd,58,male,2026-01-17,2025-07-21,Timothy Morgan,Cardiology,€244.78,N
+Jason Hicks,86,female,2025-12-17,2025-09-19,Stacey Garcia,Orthopedics,€330.37,0
+Stephanie Cisneros,50,female,2025-12-03,2024-08-02,Rachel Richards,Orthopedics,£98.14,Yes
+Troy Taylor,52,,2025-12-28,2025-02-24,Jason Gill,General,£464.69,Yes
+Charles Cruz,54,female,2026-01-27,2024-09-01,Jessica Sawyer,Orthopedics,£91.65,No
+Brenda Ward,43,female,2025-11-26,2025-08-25,Tonya Smith,Neurology,Rs425.67,Y
+David Martinez,80,male,2025-09-13,2025-07-07,Amber Braun,Cardiology,,Y
+Alex Webster,34,male,2026-02-11,2024-12-24,Lorraine Schroeder,Orthopedics,€140.86,1
+Carl Sanchez,87,female,2025-04-06,2024-08-02,Christina Price,Orthopedics,$446.06,N
+Lucas Ray,21,female,2026-02-12,2025-02-07,Carrie Larsen,Neurology,£138.59,Y
+Cynthia Wells,37,male,2025-11-17,2025-01-07,Ashlee Romero,Orthopedics,£448.6,0
+Dwayne Clarke,42,male,2025-08-12,2024-09-08,Andrew Meadows,Neurology,€150.94,No
+James Jimenez,53,male,2025-10-26,2025-09-14,Ryan Marsh,Neurology,€339.19,0
+Dr. Michele Copeland,35,male,2025-09-25,2024-05-24,Debra Castillo,Neurology,€187.28,Y
+Travis Allen MD,44,male,2025-06-22,2024-06-18,Karen White,Orthopedics,€157.66,1
+Bradley Fuller,83,male,2025-05-13,2025-02-28,John Yang,General,Rs69.97,Yes
+Miss Crystal Davis DDS,25,female,2025-07-07,2024-06-06,Christopher Hayes,General,£490.55,Y
+Kara White,59,female,2026-03-14,2025-01-26,Kyle Dawson,Orthopedics,€315.64,N
+Briana Guerrero,33,female,2026-01-19,2024-03-30,Molly Warner,General,£231.08,1
+Judy Nguyen,29,male,2025-05-27,2024-10-23,Michelle Ortega,General,$429.14,Yes
+Sandra Murphy,25,male,2025-11-01,2024-07-29,Shelby Brown,Orthopedics,Rs93.12,No
+Debra Ford,33,female,2026-02-22,2025-09-19,Allison Smith,Orthopedics,£461.81,Y
+Michelle Harris,56,female,2025-11-07,2024-12-06,Matthew Garrett,Orthopedics,€130.72,Yes
+Ariel Davis,85,male,2025-10-25,2025-02-21,Jason Gallagher,Orthopedics,Rs85.63,Y
+Anna Garrett,24,female,2025-05-30,2025-03-20,Alice Lucas,Neurology,€394.9,Yes
+Kimberly Guzman,31,female,2025-11-18,2025-04-02,Kristin Reeves,General,,Y
+Terry Miller,24,female,2025-04-22,2025-03-24,John Lyons,General,,Yes
+Marissa Davidson,81,female,2025-04-13,2024-12-03,Philip Davis,Cardiology,£499.67,Y
+Emma Martin,79,male,2025-08-24,2025-08-21,Charles Mcmillan,Orthopedics,€66.64,Yes
+William Lewis,32,male,2025-04-04,2024-05-16,Wesley Johnson,Orthopedics,Rs361.31,Y
+Robert Mclaughlin,21,female,2025-06-22,2024-06-09,Shannon Mejia,Orthopedics,£205.31,N
+William Sparks,48,male,2025-03-26,2024-12-03,Jeffrey Ashley Jr.,Cardiology,Rs193.18,0
+David Kidd,23,male,2025-11-23,2025-09-10,Kathy Thompson,Orthopedics,£321.34,N
+Brandon Martin,87,female,2026-02-06,2024-08-11,John Miller,Neurology,$446.44,Yes
+Amanda Martinez,27,female,2025-08-23,2024-11-12,Gary Bowman,General,$165.8,Y
+Nancy Barry,71,female,2026-03-07,2025-03-30,Katherine Espinoza,Cardiology,Rs493.59,1
+Clinton Estrada,75,male,2025-11-06,2024-10-14,Jacob Bender,Orthopedics,,Y
+Maria Douglas,86,male,2026-02-17,2026-01-15,Daniel Evans,Orthopedics,€489.64,Yes
+Walter Webb,33,,2025-09-26,2024-09-03,Dale Herrera,Neurology,,Y
+Megan Avery,73,female,2026-01-08,2024-08-13,Michael Arroyo Jr.,General,$96.48,Yes
+Brianna Morris,73,male,2025-11-03,2024-04-26,Gregory West DDS,Orthopedics,€422.79,Y
+Judy Avila,21,female,2025-10-19,2025-08-02,Morgan Ramos,Orthopedics,Rs330.43,Yes
+Erika Davis,28,male,2025-06-08,2025-06-06,Allison Parker,Neurology,£440.72,N
+Jeffrey Solis,49,female,2025-05-15,2025-04-09,William Nichols,Neurology,€287.03,Yes
+Scott Graves,65,male,2026-01-10,2026-01-06,Marie Clark,General,€489.0,Y
+Ellen Fitzpatrick,59,male,2025-11-14,2025-04-23,Grant Parker,Neurology,£201.19,No
+Mark Harrison,24,female,2025-10-06,2024-06-13,Jennifer Hernandez,Orthopedics,€155.45,Yes
+Daniel Barajas,56,female,2025-04-07,2025-01-08,Joshua Burnett,Neurology,£236.44,1
+Christine Murphy,21,female,2025-08-18,2024-07-23,Amanda Mendoza,Cardiology,$96.21,1
+Richard Wagner,20,male,2025-12-06,2025-11-25,Christopher Sherman,General,€270.47,Yes
+Eric Coffey,23,male,2025-08-28,2024-09-04,Jeffrey Burns,Cardiology,Rs284.29,N
+Tony Gibbs,39,female,2025-11-01,2024-10-13,Brandon Morris,General,€354.36,N
+Stephanie Bryant,32,,2026-01-02,2025-02-18,Sara Booth,Orthopedics,£452.69,Yes
+Eric Allen,67,male,2025-08-01,2025-05-09,Amanda Mclaughlin,Neurology,£329.83,0
+Robert Jimenez,23,male,2026-03-06,2024-07-20,Tony Randall,Cardiology,€450.86,Yes
+Chris Wells,71,male,2025-05-17,2024-12-25,Crystal Medina,Neurology,Rs132.38,Yes
+Danny Gray,68,male,2025-04-14,2025-02-13,Patricia Carpenter,General,€199.55,0
+Alicia Davis,19,male,2025-03-31,2024-10-27,John Gonzalez,Cardiology,€296.7,N
+Dr. John Hernandez,33,female,2025-12-29,2024-05-29,Michelle Austin,General,$409.96,No
+Andres Mills,54,male,2025-06-23,2024-08-24,Paul Weaver,Neurology,£386.53,0
+Vanessa Allen,52,male,2026-01-09,2025-08-06,Amy Chavez,Neurology,Rs243.94,Yes
+Virginia Flores,70,female,2025-12-26,2025-08-13,Leonard Macias,General,$364.83,Y
+Mackenzie Walker,56,female,2025-03-27,2024-05-20,Jenny Wright,Orthopedics,$335.95,1
+Kayla Berger,29,female,2025-08-05,2024-09-27,Todd Oconnor,Orthopedics,,Y
+Brian White,80,male,2025-08-03,2025-04-03,Rachel Howell,Neurology,€387.58,Yes
+Dale Fisher,24,male,2026-01-16,2024-04-20,Dr. Heidi Johnson,Cardiology,Rs360.39,N
+Brian Griffith,20,male,2025-06-15,2025-04-11,Robert Stanley,Cardiology,£288.24,1
+Theresa Sanchez,56,female,2026-02-03,2024-08-16,Amber Sullivan,General,€286.43,1
+Kimberly Watson,60,female,2026-01-11,2025-07-25,Joseph Meyers,Neurology,,0
+Christopher Miller,51,male,2025-12-27,2025-01-11,Christine Arnold,General,€476.26,N
+Brian Davis,72,female,2025-12-26,2024-08-05,Michelle Smith,Neurology,£480.75,Yes
+Deborah Wagner,74,female,2026-02-15,2025-05-30,Cesar Sanchez,Neurology,Rs277.6,0
+Christine Vega,80,male,2025-04-27,2025-03-23,Jordan Cole,General,Rs301.11,Y
+Zachary Jones,53,female,2025-10-03,2025-07-01,Alexander Lee,Orthopedics,£304.51,0
+Stephen Hicks,88,,2025-10-19,2025-06-05,Christopher Underwood,Orthopedics,£266.53,1
+Haley Taylor,51,female,2025-07-06,2025-04-18,Christopher Wolfe,General,Rs433.55,Y
+Melissa Miranda,77,male,2025-06-03,2024-05-18,Jennifer Jones,Orthopedics,£70.47,1
+Linda Nicholson,24,female,2025-08-19,2025-05-10,Melissa Daniels,Neurology,$425.91,Yes
+Whitney Bradley,31,,2025-05-27,2024-12-20,Ryan White,General,€111.71,0
+Carolyn Jacobson,47,female,2026-02-11,2025-02-14,Katrina Johnston,Cardiology,£365.37,No
+Jordan Hudson,74,male,2025-06-17,2024-04-25,Linda Martin,Cardiology,€475.27,1
+Joseph Banks,36,female,2025-12-05,2024-06-15,Susan Kelley,Neurology,$108.6,N
+Brad West,34,female,2025-05-14,2024-05-19,Samuel Stone,Cardiology,£455.05,N
+Kelsey Johnson,29,male,2026-01-28,2024-12-03,Mallory Torres,Neurology,£264.45,No
+Jared Parrish,42,female,2025-08-05,2025-07-27,Wendy Herrera,Orthopedics,Rs132.57,No
+Megan Murphy,35,,2025-04-19,2025-04-11,Kevin Coleman,Cardiology,Rs359.5,N
+Laura Lopez,25,male,2025-10-06,2024-06-13,Julie Phillips,Cardiology,Rs464.57,0
+Joshua Sanford,57,female,2025-06-20,2025-02-13,Tara Montoya,Neurology,$186.61,1
+Mark Bowers,19,male,2025-05-11,2025-04-02,Antonio Bryant,Neurology,$116.69,Yes
+Nicole West,30,female,2026-03-24,2024-03-26,Marissa Jacobs,General,€218.44,0
+Amy Wood,43,female,2025-06-22,2025-01-25,John Shannon,Neurology,€255.67,0
+Robert Montoya,79,male,2025-12-06,2024-09-09,Gregg Bennett,Neurology,,No
+Robert Torres,61,male,2025-10-20,2025-08-07,Kyle Phillips,Neurology,$129.48,N
+Mason Morgan,53,male,2025-04-21,2024-08-25,James Cobb,General,Rs299.03,No
+Jeffrey Hart,70,female,2025-12-09,2024-11-16,Jacob Townsend,Orthopedics,Rs459.66,Y
+Jessica Pitts,72,female,2026-03-10,2025-10-22,Miguel Hayes,Orthopedics,£403.61,0
+Amy King,49,female,2025-09-15,2025-01-30,Peter Wells,General,£241.48,Y
+Lisa Fisher,44,,2025-07-16,2025-06-12,Karen Martin,Neurology,$417.38,Yes
+Donna Jenkins,68,female,2025-05-30,2024-05-14,Rachel Allen,General,Rs390.97,Yes
+Matthew Cox,88,male,2026-01-22,2024-04-07,Alexander Horton,General,Rs100.2,No
+Melissa Berry MD,75,male,2026-02-23,2024-10-16,Kathryn Hooper,Cardiology,£462.97,N
+Zachary Frazier,88,female,2026-02-14,2024-12-27,Tamara Thompson,Orthopedics,$481.92,0
+Jose Bryant,49,male,2025-05-24,2024-12-10,Ryan Lopez,Orthopedics,£350.41,N
+Thomas Smith,82,male,2025-11-23,2024-12-07,Kenneth Turner,Cardiology,Rs392.87,Yes
+Jason Harrington,62,male,2026-01-16,2025-07-14,Stacey Miller,Orthopedics,,No
+Autumn Griffin,55,female,2025-09-21,2024-06-18,Isabel Harris,Orthopedics,$202.41,0
+Adam Shelton,83,male,2025-06-26,2025-06-12,Mary Thompson,Neurology,$225.1,Yes
+Amber Trevino,86,female,2025-05-28,2024-07-10,Sarah Holder,Cardiology,,1
+Jamie Aguilar,77,female,2025-09-19,2024-08-20,Michael Duke,Cardiology,€400.01,Y
+Alyssa Lucas,47,female,2026-01-06,2024-10-11,Daniel Ryan,Neurology,$400.52,Yes
+Theresa Young,69,male,2025-10-15,2025-06-11,Brenda Booth,General,£152.7,0
+Donna Clark,40,female,2025-09-03,2024-04-08,Joanne Adams,Cardiology,€154.68,Yes
+Michael White,32,male,2026-03-11,2025-07-23,Seth Ramirez,General,$300.71,Yes
+Jessica Johnson,66,male,2025-11-22,2025-09-07,Kevin Weaver,Neurology,£166.59,Yes
+Victor Anderson MD,28,male,2025-09-10,2025-04-21,Dr. William Terry,Cardiology,£357.83,1
+Jodi Floyd,35,male,2025-08-19,2025-06-15,Brett Arnold,General,Rs458.11,N
+Bradley Leach,25,female,2025-11-13,2024-12-13,Amanda Flores,General,€85.07,1
+Stephen Butler,81,female,2025-05-22,2024-04-15,Shannon Martinez,Neurology,£209.67,Y
+Jennifer Martin,30,male,2026-02-22,2025-07-04,Jeffery Smith,General,£239.39,N
+Janet Gordon,41,female,2025-05-14,2024-04-05,Michelle Johnson,General,Rs398.73,No
+Susan Bautista,54,female,2026-02-13,2024-11-06,Michael Schmidt,Orthopedics,€325.86,N
+Steve Ramirez,30,female,2025-07-19,2025-05-12,Michelle Jones,Orthopedics,$451.11,N
+Kristine Logan,53,female,2025-06-29,2024-09-13,Regina Cox,Neurology,£416.39,No
+Janet Lewis,65,male,2025-10-28,2025-08-18,Gregory Neal,Neurology,€303.42,N
+Phillip Blevins,64,,2026-03-12,2024-06-04,Darryl Garcia,General,$124.85,1
+Robert Mason,78,male,2025-12-25,2024-12-13,Steven Mercer,Neurology,$370.37,No
+Rachel Nguyen,63,male,2025-12-13,2025-03-05,John Wolf,Neurology,Rs416.85,N
+John Nguyen,23,male,2025-10-05,2025-03-20,David Robertson,General,,No
+Jennifer Stevens,70,female,2025-11-03,2025-06-16,Joseph Park,Cardiology,£231.18,Yes
+Matthew Davis,54,male,2025-09-20,2024-06-24,Megan Lopez,Cardiology,Rs119.4,0
+Ashley Daniels,50,female,2025-08-25,2024-06-18,Robert Davies,Neurology,$63.38,Yes
+Dana Park,79,female,2026-01-28,2024-04-03,Christopher Garrett,Neurology,Rs341.27,Yes
+Michael Short,83,male,2026-01-03,2024-12-21,Charles Hess,Orthopedics,$483.19,Yes
+Anthony Mitchell,37,female,2025-10-09,2025-04-05,Theresa Osborne,Neurology,€371.49,N
+Jamie Peck,40,female,2026-01-14,2025-11-13,Lisa Garcia,Neurology,€406.43,N
+Kelsey Kelly,76,male,2025-06-19,2025-04-30,Denise Hall,Cardiology,€334.38,0
+Allison Mcgrath,60,male,2025-06-22,2024-04-26,Morgan Mccoy,Cardiology,Rs125.6,0
+Denise Anderson,51,male,2025-12-28,2025-04-17,Timothy Beasley,General,£377.85,N
+Louis Thomas,52,female,2025-09-07,2024-04-23,Michelle Carter,Cardiology,£450.24,1
+Sarah Taylor,43,female,2025-09-25,2024-10-30,Christopher Sexton,Cardiology,€382.81,1
+Dustin Perry,38,male,2026-01-25,2024-04-09,Adam Moore,Neurology,$424.21,N
+Shawn Tucker,84,female,2026-02-15,2025-11-21,Melissa Schmidt,Orthopedics,€258.38,Y
+Rachel Russo,40,male,2025-08-27,2025-07-13,Christine Wilson,Orthopedics,Rs366.15,Yes
+Dana Martinez,89,male,2025-03-27,2024-12-16,Barry Bennett,Cardiology,Rs466.92,N
+Shane Fowler,57,female,2025-10-30,2024-08-27,Kimberly Douglas,Neurology,£114.67,Y
+Kimberly Robinson,26,female,2026-03-04,2025-12-28,Michael Wright,Cardiology,Rs71.67,0
+Robert Rodriguez,61,female,2025-11-07,2025-09-21,Stephanie Douglas,General,Rs264.27,0
+Rita Joyce,78,female,2025-05-21,2024-08-18,Diana Neal,Neurology,Rs92.45,Y
+Kimberly Meyer,35,male,2025-12-17,2024-04-27,Christopher Perez,Orthopedics,Rs441.33,N
+Kelly Morris,40,male,2025-08-11,2024-08-02,Matthew Mccann,Orthopedics,Rs258.78,0
+Kevin Thompson,59,female,2025-05-01,2024-10-02,Lynn Cruz,General,Rs156.71,1
+April Braun,57,female,2025-04-29,2024-04-16,Jacob Mendoza,Neurology,Rs110.47,Y
+Alejandro Lopez,85,male,2025-06-15,2024-07-03,Brian Bowman,Neurology,€361.32,0
+Scott Bishop,76,female,2025-05-30,2024-07-27,Dylan Gibson,General,€405.85,No
+Steven Baldwin,87,,2025-06-05,2024-04-14,Lori Reid,Neurology,Rs496.78,1
+Randy Austin,40,male,2026-02-12,2024-04-12,Dr. Deborah Fitzgerald,Neurology,$364.33,N
+Anthony Martin,54,female,2025-06-18,2024-11-06,Alex Richards,Neurology,Rs119.63,No
+Patricia Ramsey,85,female,2025-07-20,2024-11-27,Jennifer Tanner,General,£399.55,0
+Lauren Gardner,43,female,2025-04-25,2025-04-01,Alison Castro,Neurology,Rs186.4,0
+Daniel Willis,53,female,2025-11-05,2025-08-01,Megan Austin,Neurology,Rs234.99,Yes
+Shawn Moore,55,female,2025-11-15,2024-07-06,Rebecca Ward,General,Rs316.26,No
+Sherry Wilson,21,female,2025-12-07,2025-02-28,Pamela Wiley,Orthopedics,Rs129.91,1
+Teresa Peters,78,male,2026-02-11,2024-11-14,Tracey Johnson,Neurology,€468.01,0
+Nicole Evans,86,female,2025-08-13,2024-09-21,Ashley Cuevas,Cardiology,Rs459.41,Y
+Brandon Sanders,27,male,2026-01-09,2025-03-16,Amy Dunlap,Orthopedics,€370.25,0
+Samantha Wallace,76,male,2025-06-28,2024-12-22,Charles Jackson,Orthopedics,Rs145.83,Y
+Jared Butler,38,male,2025-08-19,2025-06-09,Jason Morales,General,€243.78,Yes
+Tracey Beck,81,male,2025-05-27,2024-09-20,Logan Cooper,Cardiology,$184.28,Y
+Brianna Mcpherson,90,male,2025-05-13,2024-06-17,Nathaniel Thompson,General,£109.61,Yes
+Ray Mcbride,87,female,2025-10-06,2024-12-02,Natalie Turner,General,$135.41,N
+Tammy Thomas,74,female,2025-04-02,2025-01-19,Kurt Cain,Orthopedics,£109.02,0
+Kelly Mason,65,female,2026-02-17,2024-05-31,Laura Edwards,Cardiology,$205.16,1
+Nicholas Kelly,53,female,2026-03-23,2025-04-02,Paula Freeman,Cardiology,,Y
+Anne Jones DVM,48,female,2026-01-05,2025-05-30,Linda French,General,$296.43,Yes
+Andrea Mendez,33,male,2025-07-02,2024-08-14,Joshua Reed,General,$233.98,No
+Jennifer Schwartz,90,,2026-02-12,2024-08-14,Mrs. Michelle Ramsey,Orthopedics,€474.34,N
+Zachary Cross,61,male,2025-07-31,2025-04-23,Toni Rodriguez,Neurology,£317.84,0
+Andrea Murray,46,male,2026-03-12,2025-08-11,Alexa Martin,Neurology,Rs435.55,0
+Michele Green,48,female,2025-06-30,2025-01-24,Nancy Hernandez,Orthopedics,Rs88.58,No
+Summer Bishop,37,male,2025-10-21,2025-08-07,Cynthia Green,Cardiology,,Yes
+Daniel Braun,27,male,2026-03-20,2026-02-09,Tonya Kennedy,Cardiology,€252.38,Y
+Kyle Jones,29,male,2025-11-01,2025-03-17,Cheryl Mullins,Neurology,$366.49,N
+Erin Baker,36,male,2025-10-02,2025-09-12,Carla King,General,Rs239.5,Yes
+Cheryl Calderon,29,female,2026-02-23,2024-04-04,Michael Adams,Orthopedics,Rs55.55,N
+Andrea Mcbride,64,female,2025-09-15,2025-01-19,Laura Newman,Neurology,£112.28,No
+Danielle Barrett,36,female,2025-12-20,2024-03-27,Gregory Griffin,General,Rs386.16,1
+Madison Wilson,23,male,2026-01-08,2024-11-29,Ryan Steele,Cardiology,€230.73,N
+Thomas Crawford,63,female,2025-05-13,2024-04-22,Ashley Shaw,General,€296.85,0
+Sheila Thomas,58,male,2025-09-08,2025-02-24,Catherine Gamble,Cardiology,£64.79,0
+Daniel Long,38,female,2025-11-17,2024-10-09,Jean Lawson DDS,Neurology,€101.1,Yes
+James Fox,60,female,2025-12-22,2024-05-17,Victoria Osborne,General,Rs204.86,Yes
+Evan Price,87,male,2025-07-31,2024-11-02,Brooke Ramos,Cardiology,$369.12,1
+Vanessa Graves,58,female,2025-08-07,2025-01-02,Leslie Smith,Cardiology,Rs474.33,Y
+Barbara Drake,20,male,2025-08-26,2025-01-09,Julie Jacobs,Cardiology,€285.97,No
+Logan Gonzalez,81,,2026-02-17,2025-04-03,John Anderson,Neurology,€209.27,Y
+Brittney Gonzales,38,,2025-12-20,2025-08-14,Kimberly Caldwell,Orthopedics,Rs347.87,1
+Nichole Phillips,56,male,2025-09-17,2025-08-19,Michael Jackson,Cardiology,,Y
+James Wise,67,female,2025-09-05,2024-05-19,Karen Schmidt,Neurology,€98.07,Y
+Logan Sampson,64,male,2025-12-31,2025-04-19,Tiffany Melendez,Orthopedics,Rs154.03,1
+Tamara Ramirez MD,79,female,2025-12-23,2025-01-12,Emily Mcintosh,Neurology,£126.87,Yes
+Sheryl Lopez,27,male,2025-08-26,2024-09-10,Barbara Alvarado,Neurology,,Yes
+Shannon Ramos,42,male,2025-11-04,2024-11-05,James Huber,Orthopedics,,Yes
+Daniel Vazquez,83,female,2026-03-21,2025-12-09,Lisa Fry,Neurology,£194.82,1
+Kimberly Heath,19,male,2025-10-19,2025-09-19,Amber Avila,Orthopedics,€145.75,Yes
+Tammy Yates,35,female,2025-10-29,2025-09-06,Nancy Luna,Cardiology,€58.55,No
+Alison Wolfe,29,male,2025-05-30,2024-03-26,Michelle Thomas,General,$481.22,Yes
+Natalie Miller,55,female,2025-10-12,2024-10-28,Derrick Glass,General,€56.37,Y
+Kara Schneider,81,female,2025-07-21,2024-07-08,Ivan Russo,General,£456.26,1
+Kevin Jackson,56,male,2025-06-16,2024-05-31,David Love,Cardiology,$157.36,No
+Mary Werner,32,,2025-07-22,2024-04-12,Bonnie Walker,Orthopedics,$69.13,Yes
+Jennifer Barber,74,male,2025-12-06,2024-10-04,Christopher Smith,Neurology,€56.63,Y
+Emily Miller,55,male,2025-04-01,2024-09-13,Nicole Bates,Orthopedics,$432.84,No
+Christine Lane,27,female,2025-04-07,2024-04-02,Kimberly Long,Orthopedics,£208.8,N
+Gabriela Pope,62,female,2026-01-02,2025-02-26,Melissa Brown,Neurology,$413.25,1
+Alexa Landry,24,male,2025-09-16,2025-01-16,Larry Delgado,Orthopedics,$73.59,Yes
+Erica Thompson,34,female,2025-12-07,2025-10-11,Jill Kelley,General,Rs466.72,0
+James Noble,68,male,2025-06-25,2025-06-05,Dylan George,Cardiology,€213.67,Y
+Sandra Russo,42,male,2026-01-25,2024-12-09,Michael Alexander,General,$156.9,N
+Robert Hampton,90,male,2025-11-12,2025-09-04,Kevin Wilkinson,Neurology,£323.18,No
+Rachel Simmons,65,male,2025-08-12,2024-12-27,Robert Sanchez,Cardiology,$188.72,Y
+Eduardo Martinez,89,male,2025-10-14,2024-09-16,Craig Kelly,Cardiology,£411.32,1
+Edward Taylor,67,female,2025-07-02,2024-06-04,Yvette Johnson,Orthopedics,€388.8,0
+Ashley Martinez,68,,2025-05-07,2024-10-18,Spencer Torres,Orthopedics,$296.8,N
+Megan Edwards,69,male,2025-10-08,2025-05-19,Eric Arellano,Neurology,€439.46,No
+Mr. Phillip Baxter,80,male,2025-07-24,2025-01-16,Tricia Hunt,General,$320.72,N
+Diana Schroeder,73,male,2025-08-24,2025-07-04,Alexandra Lee,Neurology,$262.84,No
+Katelyn Miller,78,male,2025-12-19,2024-11-25,Justin Chen,Cardiology,Rs274.94,0
+Brian Garrett,65,female,2026-01-24,2026-01-04,Tamara Williams,Cardiology,£182.77,No
+Aaron Clay,87,male,2025-10-31,2025-05-22,Timothy Barker,Cardiology,€312.88,Yes
+Brian Bolton,78,male,2025-08-18,2024-05-26,Natalie Patrick,Neurology,£163.58,0
+Karla Bush,66,,2025-05-23,2024-08-14,Victor Hernandez,Cardiology,Rs135.85,Y
+Michelle Edwards,30,female,2025-12-03,2025-07-27,Charles Harvey,Orthopedics,£242.2,Yes
+Jack Sutton,76,female,2025-11-28,2025-04-20,Paul Giles,General,$374.72,Yes
+Joseph Hart,69,female,2025-09-04,2025-02-16,Ralph Fernandez,General,€326.58,No
+Rachel Carlson,27,female,2026-01-05,2024-12-12,Paul Martinez,Neurology,$379.39,Y
+Miss Stacey Weaver,75,male,2025-04-14,2024-06-20,Rachel Wilson,Orthopedics,Rs442.41,0
+Steven Giles,58,female,2025-12-01,2024-12-29,Kevin Vaughan,General,€358.98,0
+Trevor Taylor,61,female,2025-06-19,2024-09-01,William Schneider,Neurology,£235.74,0
+Erica Robbins,68,female,2025-07-04,2024-10-31,Matthew Carlson,General,$400.6,1
+Alexander Rios,43,female,2025-05-18,2024-07-22,Bryan Parker,Orthopedics,€305.19,No
+Jennifer Reese,62,female,2025-11-07,2024-08-11,James Aguilar,Cardiology,£357.15,N
+Daniel Valenzuela,45,male,2025-06-21,2025-03-13,Karen Brewer,Cardiology,$245.21,Yes
+Alexander Jones,85,female,2025-12-09,2025-01-30,Mary Ward,General,Rs498.26,Y
+Robert Myers DDS,72,female,2025-08-27,2024-12-07,Luis Smith,Neurology,Rs499.72,Yes
+Jennifer Sims,63,female,2025-10-15,2025-02-02,Janet Coffey,Cardiology,€315.71,Y
+Jenna Williams,67,female,2025-07-19,2024-12-04,Ryan Mitchell,General,$149.33,Yes
+Jamie Nixon,69,male,2026-03-16,2024-06-19,Scott Allen,General,$412.82,N
+Maria Harris,24,female,2025-07-19,2024-08-29,Henry Hall,Orthopedics,£372.5,0
+Angela Davis,87,female,2026-01-22,2024-11-03,Danielle Meyer,Orthopedics,£60.76,0
+Alex Burns,68,male,2026-01-10,2025-09-11,Raymond Bond,Cardiology,€290.52,N
+Thomas Banks,80,male,2025-12-09,2025-10-21,George Stevens,Cardiology,Rs451.66,0
+Courtney Everett,39,female,2026-01-09,2024-08-09,Ryan Chavez,Cardiology,£260.91,0
+Lori Montgomery,18,male,2026-02-26,2025-09-07,Christy Fisher,Orthopedics,$117.12,1
+Sarah Fuller,80,male,2026-03-06,2025-06-18,Cody Ortega,Cardiology,Rs460.11,Y
+Julia Mckenzie,30,male,2025-08-13,2025-02-10,Sarah Scott,Cardiology,€91.94,1
+Eric Kim,33,female,2025-06-13,2024-06-09,Arthur Harris,General,,No
+Anne Jacobs,31,male,2026-03-04,2026-01-28,Lauren Clark,Orthopedics,£347.38,Y
+Brandy Navarro,27,female,2025-07-16,2025-06-13,Matthew Nichols,Orthopedics,Rs288.43,Yes
+Jennifer Lowery,21,female,2025-09-16,2025-03-23,Tracy Johnson,Cardiology,€222.2,0
+Thomas Nash,75,female,2025-06-05,2025-01-20,Justin Flores,Cardiology,Rs180.6,1
+Yolanda Thomas,61,female,2025-12-15,2024-07-10,Keith Lee,Neurology,,1
+Victor Simmons,80,male,2026-02-10,2025-01-17,Christopher Nelson,Cardiology,€485.31,N
+Edward Holland,86,male,2025-09-07,2025-01-11,Joe Rodriguez,Neurology,£255.9,0
+Mary Foster,42,male,2025-04-20,2024-10-09,Terry Welch,Cardiology,€443.13,1
+Michael Sullivan,63,male,2025-07-09,2024-07-31,Angela Thomas,Orthopedics,Rs318.88,Y
+Thomas Smith,54,female,2025-09-11,2025-09-05,Brandon Garcia,Cardiology,$108.91,0
+Melissa Ramirez,34,male,2025-09-10,2024-10-30,Amber Clayton,Neurology,£167.18,Yes
+Rachel Baker,22,female,2025-12-15,2024-05-18,Maria Gentry,Orthopedics,£444.67,N
+Penny West,84,female,2025-10-24,2025-03-27,Heather Ortiz,Neurology,$396.57,Yes
+Michelle Mcclain,45,female,2025-11-11,2025-06-10,Mrs. Amy Miller,Cardiology,Rs185.29,0
+Jennifer Davis,47,female,2026-02-17,2024-05-09,Michael Bryant,Cardiology,$215.89,No
+Kimberly Lee,88,,2025-10-19,2024-11-16,Vanessa Ramirez,Neurology,£438.81,N
+Paul Perez,28,male,2025-08-24,2025-07-29,Nancy Young,Neurology,€231.7,1
+Tyler Smith,42,male,2025-11-05,2024-08-03,Melinda Smith,General,,Y
+Anthony Boyd,27,female,2026-02-20,2025-07-06,Bradley Gibson,General,£173.85,Yes
+Henry Snyder,59,male,2025-10-16,2024-04-29,Theresa Simon,Cardiology,$285.44,Yes
+Sabrina Wade,34,female,2025-07-20,2025-05-14,Randy Vargas,General,Rs202.92,N
+Cody Scott,69,male,2025-10-06,2024-11-29,Larry Cohen,Neurology,€383.47,Yes
+David Mcdonald,84,male,2025-12-24,2024-08-30,Donald Garcia,General,£302.66,Y
+Sherri Guzman,37,male,2025-09-14,2024-05-20,Carlos Morton,Orthopedics,£472.57,Yes
+Mr. Brian Anderson,25,female,2025-04-24,2024-04-14,Adrienne Roberts,Orthopedics,€417.21,No
+Kayla Mccormick,84,female,2026-03-16,2024-12-04,Robert Burton,Neurology,$244.68,Yes
+Mark Reeves,30,female,2026-01-08,2025-08-19,Mark Hill,Cardiology,$70.7,Y
+Debra Short,64,male,2025-06-24,2024-10-06,Karla Baker,General,€386.37,No
+Melissa Richmond,33,male,2025-06-11,2025-02-19,Jasmin Holmes,Neurology,$387.75,Yes
+Linda Murphy,63,male,2026-02-17,2026-01-11,Margaret Montoya,Cardiology,Rs176.68,N
+Michael Gonzales,86,male,2025-12-23,2024-11-24,Richard Torres,General,Rs491.64,0
+Samantha Garner,54,female,2025-06-16,2025-04-24,Jacob Hobbs,General,$325.91,0
+David Reeves,52,male,2025-12-06,2025-01-19,Marc Copeland,General,,N
+Jennifer Schwartz,30,female,2025-12-31,2025-11-14,Tamara Smith,Cardiology,$280.21,Y
+William Conley,28,female,2025-09-27,2025-06-19,Thomas Wallace,General,Rs88.29,0
+Kelly Ayers,53,male,2026-02-16,2025-04-04,Justin Taylor,Neurology,$443.75,Y
+James Perry,57,male,2025-08-27,2024-04-05,Leonard Campbell,Cardiology,$385.61,Yes
+Steven Phelps,19,female,2025-05-13,2024-07-18,Darren Williams,Cardiology,Rs350.5,Y
+Mark Daniels,75,male,2025-12-14,2024-05-30,Kimberly Pierce,Orthopedics,$255.56,1
+Zachary Williams,33,male,2025-09-13,2024-07-02,Selena Brown,Orthopedics,£458.83,1
+Carly Ford,20,female,2025-07-23,2025-06-22,Scott Tran,Neurology,€138.29,N
+Elaine Williams,42,female,2026-03-15,2024-05-23,Daniel Carlson,Cardiology,Rs189.02,Yes
+Randy Wright,27,female,2025-08-14,2024-12-02,Jennifer Banks,Orthopedics,€272.47,No
+Charles Foley,56,male,2025-09-19,2024-09-28,Richard Arias,Cardiology,€450.37,Y
+Ryan Kennedy,81,female,2026-02-07,2024-06-27,Scott Shannon,General,$490.67,Yes
+Stephen Cox,56,male,2025-09-27,2025-02-05,Joseph King,Cardiology,£99.17,No
+Jennifer Jackson,80,female,2025-07-29,2024-04-14,Frank Harrell,Neurology,$105.64,No
+Jessica Wilson,72,female,2026-03-20,2024-07-13,Sharon Nash,Orthopedics,€437.18,N
+Brittany Wall,37,male,2026-02-28,2024-04-18,Willie Dean,General,Rs77.2,0
+Diane Adams,81,female,2025-12-30,2025-01-09,Andrew Carroll,General,€118.72,0
+Shawn Moon,52,male,2026-03-17,2025-10-20,Sheila Williams,Neurology,€155.69,Y
+Sharon Lopez,79,male,2025-09-09,2025-02-02,Yolanda Richardson,Neurology,$487.57,N
+Timothy Ramirez,56,female,2025-11-18,2025-02-07,Tiffany Shepherd,Cardiology,Rs412.44,0
+Daniel Marshall,74,male,2025-12-11,2025-04-23,Lisa Taylor,Cardiology,£297.5,Y
+Andre Pitts,60,female,2026-01-26,2024-09-30,Donna Sandoval,General,€481.4,Yes
+Mary Garcia,54,male,2025-10-21,2025-04-11,Brianna Ortega,General,$252.53,Y
+Lawrence Ford,89,female,2025-07-09,2025-01-03,Randall Watts,Neurology,€167.8,Yes
+Monica Mcclure,84,female,2025-05-24,2024-05-10,Martha Byrd,General,Rs347.94,1
+Troy Richards,80,female,2025-05-16,2024-11-13,Thomas Baker,Neurology,£305.02,Y
+Anna Rowe,59,female,2026-02-26,2024-08-25,Judith Preston,Neurology,€83.61,No
+Michael Espinoza,55,female,2025-04-29,2024-12-06,Amber King,Neurology,£360.39,N
+Kenneth Dixon,68,male,2025-08-19,2025-01-31,Sandra Sloan,Orthopedics,€402.4,Yes
+Justin Ortiz,60,male,2025-11-08,2025-03-30,Russell Myers,Cardiology,£234.26,N
+Melissa Wagner,59,male,2025-09-18,2024-06-15,Megan Garcia,Neurology,Rs219.5,Y
+Jamie Miller,84,female,2026-02-05,2024-05-28,Gloria Perez,Orthopedics,€191.19,N
+Cynthia Jones,38,male,2025-05-31,2024-05-26,Eugene Little,Orthopedics,Rs318.15,1
+Henry Quinn,23,female,2025-08-10,2025-04-22,Audrey Hansen,General,$350.0,0
+Jake Robinson,62,female,2025-09-09,2024-11-25,Nathan Quinn,Cardiology,Rs178.28,Yes
+Kimberly Morrison,34,female,2026-03-04,2024-09-11,Brian Young,Orthopedics,$248.31,Y
+Ricardo White,35,male,2025-10-27,2025-07-11,Tanya Barker,Cardiology,Rs352.72,1
+Cynthia Richard,36,male,2026-03-17,2024-08-25,Scott King,Orthopedics,€208.03,0
+David Thompson,47,female,2025-12-03,2025-08-24,Derek Velazquez,Cardiology,£116.75,N
+Mary Moon,36,male,2025-10-13,2025-01-08,Ernest Rodriguez,Cardiology,€91.29,N
+John Gallagher,57,female,2025-06-28,2024-11-02,Kara Austin,Cardiology,€198.61,Yes
+Benjamin Allen,20,female,2025-11-22,2025-04-06,Richard Johnson,Cardiology,€257.17,No
+Abigail Holt,50,female,2025-09-11,2025-03-14,Jacob Mays,Neurology,$343.79,Yes
+Katherine Rogers,50,female,2025-11-19,2025-01-15,Morgan Edwards,Orthopedics,$431.21,1
+Jason Larson,66,female,2026-02-02,2025-02-14,Helen Davis,Neurology,£241.91,1
+Jesse Robertson,24,male,2025-07-27,2025-07-19,Rebecca Gross,Orthopedics,€95.25,Yes
+Tyler Trujillo,72,male,2025-12-11,2025-01-24,Andrea Walsh,Cardiology,£167.07,No
+Travis Rodriguez,85,male,2025-10-20,2025-08-10,Richard Wagner,Neurology,€426.64,Yes
+Darren Alvarado,38,male,2025-05-29,2025-05-13,Spencer Booth,Cardiology,€106.8,0
+Troy Marshall,67,female,2025-04-17,2024-09-15,Benjamin Robinson,Orthopedics,$478.18,0
+Corey Turner,27,female,2025-06-05,2025-03-13,Heidi Baker,Orthopedics,Rs435.1,Yes
+Ashley Wright,45,female,2026-02-26,2025-06-03,Kristen Lopez,General,€403.22,Yes
+Jose Bauer,37,female,2025-10-17,2025-04-07,Reginald Barrett,Orthopedics,€390.81,No
+Jared Lester,26,male,2025-10-20,2024-09-09,David Espinoza,Orthopedics,£310.42,N
+Jeffrey Martinez,86,female,2026-02-09,2026-01-21,Michael Ross,Neurology,$469.3,0
+Christopher Massey,82,male,2025-07-15,2025-05-19,William Moore,Orthopedics,€495.94,Y
+Erin Small,82,male,2025-05-15,2025-05-13,Jeff Lane,General,€403.87,No
+Pamela Dalton,18,male,2025-10-06,2024-11-28,Christopher Jones,Orthopedics,Rs466.56,0
+Rebecca Parrish,59,female,2026-03-15,2025-01-06,Jordan Shelton,Orthopedics,$163.52,N
+Dominic Bell,37,male,2025-11-18,2024-11-18,April Castillo,Cardiology,Rs356.13,Yes
+Gregory Arellano,71,female,2025-08-05,2025-07-07,Natalie Smith,Orthopedics,$400.62,0
+Laura Chan,49,female,2026-02-17,2026-01-16,Reginald Miller,Cardiology,$177.93,N
+Michael Watkins,35,male,2025-07-06,2025-03-05,Brian Deleon,General,£313.04,Y
+Daniel Garrett,38,male,2026-01-28,2025-06-01,Francisco Steele,Neurology,£424.5,0
+Ronald Gonzalez,30,female,2026-01-25,2025-10-01,Crystal Mueller,General,Rs222.37,1
+Charles Green,80,female,2025-04-28,2024-03-30,Lisa Hoffman,Neurology,€349.49,N
+Allison Ramos,75,female,2025-12-28,2024-12-16,Chase Ford,Neurology,$482.2,1
+Christopher Brown,49,female,2025-03-26,2025-01-02,Henry Moore,Cardiology,Rs92.08,N
+Barbara Holland,24,male,2026-01-30,2024-12-16,Chelsea Aguirre,General,€439.56,N
+Matthew Herrera,74,female,2025-09-01,2025-05-26,Cody Murray,General,Rs473.48,Yes
+Valerie Vaughn,35,male,2025-11-11,2024-07-18,Felicia Warner,Orthopedics,,0
+Tiffany Miller,85,male,2025-03-29,2025-03-07,Melissa Bradley,Cardiology,€151.02,No
+Cassandra Cain,64,female,2026-01-24,2025-02-08,Jessica Williams,Cardiology,Rs79.59,0
+Glen Arroyo,70,female,2025-09-12,2024-06-03,Christopher Schneider,Neurology,£167.31,Y
+Kimberly Hill,37,,2025-05-10,2024-08-26,Kenneth Long,Neurology,Rs194.81,0
+Erik Martinez,24,male,2025-10-28,2025-01-15,Jennifer Carroll,Cardiology,$97.67,Yes
+Michael Bradley,86,female,2025-06-11,2024-09-28,Carl Gomez,Orthopedics,£254.91,No
+Rebecca Carey DDS,57,male,2025-10-09,2025-03-17,David Carter,Neurology,$169.09,No
+Tammy Nelson,20,male,2025-08-21,2024-04-15,Angel Aguilar,Cardiology,,0
+Heidi Alvarez,88,male,2025-07-30,2025-06-30,Jeremy Wilson,General,Rs94.19,Y
+Robert Edwards,84,female,2025-10-09,2025-05-10,Ashley Gonzalez,Orthopedics,£84.87,No
+Bryan Fritz,86,female,2025-08-03,2025-02-19,Kelsey Hernandez,Orthopedics,$338.43,Y
+Donald Reed,60,female,2025-05-06,2024-10-11,Danny Webster,General,$453.66,Y
+Alejandra Perkins,72,,2025-08-03,2025-04-11,Daniel Dickerson,Orthopedics,,Y
+Jonathan Drake,76,male,2026-01-06,2025-03-16,Andrew Johnson,Cardiology,£328.88,1
+Sandra Wood,81,male,2026-02-03,2025-09-29,Brian Armstrong,Neurology,£51.93,0
+Alexis Moody,81,female,2025-05-29,2024-06-11,Jennifer Reyes,Orthopedics,Rs201.8,Y
+Carol Williams,75,female,2025-04-15,2024-06-01,Joshua Gomez,Cardiology,$129.1,Y
+Kimberly Adkins,77,male,2025-12-15,2024-08-19,Tamara Rivera,Cardiology,,0
+Tracie Jefferson,74,female,2025-07-24,2025-04-24,Margaret Robinson,General,$153.53,Y
+Aaron Young,60,male,2026-01-26,2024-05-09,Wendy Cochran,Cardiology,Rs222.33,1
+Terry Dennis,28,male,2025-07-14,2024-08-16,Kelsey Scott,Neurology,Rs403.78,Yes
+Michael Newman MD,45,female,2025-11-29,2025-08-31,Ronald Santos,General,$343.21,0
+Kristin Terry,50,male,2025-08-18,2025-05-17,Michael Brown,Neurology,£67.97,1
+Nicole Green,55,male,2025-07-18,2024-07-06,Charles Owens,General,Rs365.21,No
+Tina Cook,25,female,2025-12-05,2024-09-28,Paul Allen,Neurology,£269.53,1
+Robin Donovan,69,male,2025-03-27,2024-08-04,Brian Brown,General,$163.58,N
+Bryan Meyers,84,female,2026-01-05,2025-07-11,Michael Trevino,Cardiology,Rs499.36,N
+Deanna Manning,50,female,2025-11-14,2025-09-14,Austin Stout,Cardiology,Rs101.37,0
+Linda Miller,28,female,2026-03-08,2024-12-08,Patricia White,Orthopedics,,0
+Kathryn Bell,24,female,2025-06-13,2024-06-06,Andre Carter,Cardiology,£442.72,N
+Patrick Ewing,52,male,2025-11-16,2025-03-24,Alexander Jackson,Cardiology,£224.89,0
+Steven Henderson,53,male,2026-02-15,2025-04-27,Nicole Martinez,Orthopedics,Rs163.4,Y
+Michael Marquez,59,male,2025-07-28,2024-07-19,Mr. Curtis Ortiz,Cardiology,€202.98,N
+Brittany Thompson,31,female,2025-04-05,2024-05-08,Wendy Davis,Cardiology,Rs257.1,N
+Tracy Perez,74,male,2026-03-19,2025-11-26,Lauren Rosario,Cardiology,€466.87,No
+Morgan Torres,83,male,2026-02-02,2025-07-29,April Lyons,General,,0
+Jessica Price,31,male,2025-10-27,2025-03-12,Justin Rice,Orthopedics,€490.78,Y
+Kayla Williams,63,male,2025-10-02,2024-06-06,Aaron Cooper,General,Rs217.86,N
+Victoria Young,47,female,2025-08-06,2025-07-21,Lauren Whitaker,Neurology,$174.04,Yes
+Roger Hatfield,52,male,2025-08-12,2025-01-22,Victoria Lopez,Orthopedics,€196.21,No
+Robert Lewis,66,female,2025-10-23,2024-05-25,Samantha Cameron,Cardiology,Rs490.08,Y
+Jeremiah Perez,48,male,2025-07-25,2025-01-14,Michael Black,Orthopedics,$91.94,N
+Haley Mcintosh,74,female,2025-10-19,2024-08-07,Amanda Boyd,Orthopedics,€484.82,1
+Kathy Rhodes,72,male,2025-06-16,2024-08-23,Rachel Bright,Neurology,$175.26,1
+Louis Craig,49,female,2025-04-13,2024-10-05,Rachel Wood,Orthopedics,Rs484.93,N
+Jenny Black,33,female,2025-11-14,2025-09-06,Jamie Nunez,Neurology,$381.93,No
+Sarah Davis,61,male,2026-01-01,2025-08-14,Rebecca Thompson,General,Rs402.6,N
+Heidi Sosa,29,male,2025-11-10,2025-05-17,Nancy Wilson,Cardiology,Rs241.81,Y
+Dalton Rodriguez,54,male,2025-08-01,2024-05-07,Erica Sanchez,General,Rs467.2,1
+Jacqueline West,70,male,2026-01-19,2025-01-17,Steven Walker,General,£148.74,Y
+Sherri Barry,48,male,2025-08-29,2024-04-15,Janet Schultz,Neurology,£109.72,No
+Lydia Russell,67,male,2025-11-16,2024-12-31,Matthew Clark,General,£477.53,1
+Alexander Hammond,41,male,2025-06-29,2024-09-21,Tara Moore,Cardiology,€286.71,N
+Nichole Anderson,87,,2025-05-10,2025-02-06,Richard Vega,Cardiology,£316.89,Yes
+Jacqueline Peters,40,female,2025-12-09,2025-10-11,Adam Jensen,General,€266.74,Yes
+Kelly Hodge,55,male,2025-10-15,2025-05-28,Terry Jones,Orthopedics,£175.09,No
+Brandi Boyd,90,male,2025-12-08,2024-08-06,Mary Jacobson,Cardiology,Rs96.2,N
+David Jones,25,female,2026-02-24,2025-11-21,Dakota Fleming,General,Rs443.12,0
+Zachary Lewis,46,female,2026-02-07,2024-12-19,Gary Washington,Neurology,$351.94,1
+Andrea Anderson,75,male,2025-08-15,2024-06-16,Mary Burgess,Neurology,$59.55,Y
+Shawn Castillo,68,male,2025-05-02,2025-02-15,Jennifer Carroll,Orthopedics,£339.57,No
+Jerry Holmes,88,male,2025-12-05,2024-08-02,Kim Daniels,Neurology,Rs344.57,Y
+Kimberly Diaz,47,female,2025-06-19,2024-05-07,David Guzman,Orthopedics,$197.72,Y
+Katherine Olson,57,female,2025-11-04,2025-03-21,Larry Roberts,Cardiology,£202.68,0
+Nathaniel White,71,male,2025-04-20,2024-07-31,Andrew Clark,Cardiology,$95.4,N
+Robert Garcia,68,female,2025-04-03,2024-08-06,Eric Lewis,Orthopedics,€245.84,0
+John Gonzalez,44,male,2026-01-19,2024-06-14,Richard Medina,Orthopedics,€284.66,N
+Peter Pierce,70,male,2025-12-21,2025-08-07,Deborah Snyder,Neurology,Rs389.49,No
+Elizabeth Russo,67,male,2025-07-03,2024-07-30,Connie Martinez,Neurology,,Yes
+Jacqueline Collins,67,female,2025-06-12,2025-05-18,Paul Parker,Neurology,$161.5,No
+Mckenzie Mccarty,38,female,2025-05-19,2024-07-20,Larry Smith,Orthopedics,£68.36,0
+Samuel Thomas,82,male,2025-06-16,2024-04-01,Donna Johnson,General,£332.15,Yes
+Robert Williams,53,male,2025-07-24,2025-02-03,Jessica Chandler,Neurology,£294.14,Y
+Brent Thompson,33,female,2025-05-03,2024-11-23,Pamela Cunningham,Orthopedics,€202.54,0
+Ms. Kristen Johnson,60,male,2026-02-15,2024-04-14,Susan Griffin,Neurology,Rs455.57,Y
+Darlene Clark,65,male,2025-11-09,2024-11-16,Thomas Williams,Neurology,£378.58,N
+Jessica Williams,49,female,2025-06-21,2024-10-08,Corey King,General,£110.44,N
+Lauren Burns,23,female,2025-04-12,2024-09-13,Amy Baxter,Cardiology,£274.12,0
+Jesse Wood,69,male,2026-01-02,2024-09-23,Deborah Vasquez,Neurology,Rs224.83,Y
+James Price,72,male,2025-06-20,2024-09-18,Jessica Garcia,General,$194.55,Y
+Darryl Murphy,82,male,2026-03-03,2024-11-03,Christian Chapman,Cardiology,€207.23,0
+Maria Boyd,69,female,2025-10-02,2025-02-23,Mike Miller,Cardiology,€464.96,Y
+Jacqueline Howell,30,male,2026-02-21,2025-05-23,Felicia Smith,Cardiology,£316.64,Y
+Tracy Smith,30,female,2025-05-24,2024-07-05,Amber Baxter,Neurology,Rs139.49,1
+Victoria Perry,39,male,2026-03-26,2025-08-24,Heather Garcia,Neurology,€447.23,No
+Pamela Davis,78,female,2025-12-19,2025-09-15,Antonio Galloway,Orthopedics,€320.38,1
+Stephanie Carr,70,female,2025-08-26,2024-12-19,David Colon,Orthopedics,$212.66,0
+Carrie Davis,50,,2026-01-19,2024-04-01,Michael Jones,Neurology,Rs390.86,0
+Pamela Young,40,,2025-05-30,2025-05-23,Yvonne Richardson,Orthopedics,$136.23,1
+Leonard Clark,56,female,2026-02-28,2025-02-08,Robert Foster,Cardiology,Rs68.8,1
+Michele Perry,90,female,2025-08-07,2024-12-23,Leslie Gomez,Neurology,€79.41,0
+Ryan Tucker,89,male,2026-02-18,2024-11-03,Barbara Owens,Orthopedics,Rs224.61,N
+Kelsey Rice,20,male,2025-11-16,2024-11-19,Darren Jensen,General,$190.44,N
+Monique Daniels,25,female,2026-03-08,2025-11-11,Alexander Brown,General,$316.64,Y
+Joseph Mcmillan,67,female,2025-05-20,2025-03-20,Frederick Nielsen,Orthopedics,Rs308.59,N
+Miss Christine Lopez,75,female,2025-11-30,2025-06-05,Cynthia Turner,Cardiology,$414.58,Yes
+Christy Nunez,54,male,2025-07-11,2024-06-25,Theresa Parker,Cardiology,€338.24,Y
+Jeff Lynch,57,female,2025-12-04,2024-10-12,Joseph Gibbs,Neurology,€53.35,N
+James Mendez,89,female,2025-07-02,2025-04-08,Jackie Brooks,General,$186.43,No
+Kelly Hess,42,female,2025-05-19,2024-11-07,Seth Benson,General,Rs268.93,0
+Sandra Wilson,79,female,2025-12-23,2025-02-19,Cheryl Adams,General,€322.0,1
+Jennifer Williams,80,male,2026-01-04,2025-10-18,Emily Barnes,General,$498.84,N
+Kathryn Green,86,,2025-05-01,2024-08-19,Robert Moreno,Cardiology,Rs415.78,Yes
+Holly Potter,75,male,2025-11-21,2025-01-02,Christina Mitchell,General,Rs274.5,Yes
+Catherine Stein,23,female,2025-10-14,2025-02-08,Donald Jacobson,Neurology,£368.24,1
+Wendy Andrews,46,male,2025-06-18,2024-10-19,Kimberly Wilcox,Orthopedics,Rs353.07,1
+Richard Alexander,29,female,2025-11-09,2025-07-16,Monica Torres,Cardiology,£358.68,0
+Javier Hawkins,38,male,2026-02-01,2024-04-16,Debra Fields,Orthopedics,$427.54,N
+Sonya Wheeler,60,female,2025-09-07,2024-04-13,Adam Carlson,Orthopedics,Rs433.05,Yes
+Jessica Castillo,37,female,2025-09-18,2024-11-17,Bryan Newton,Cardiology,€436.91,No
+Courtney Powell,82,male,2026-01-24,2024-10-03,Kelly Hardin,Orthopedics,€252.53,0
+Crystal Oneal,60,male,2025-08-19,2025-01-23,Harold Gray,Neurology,$421.74,Y
+Alison Robinson,83,male,2025-09-15,2024-12-23,Jose Thomas,Orthopedics,£175.6,No
+Justin White,82,male,2026-01-04,2025-04-16,Jose Jackson,Neurology,Rs203.05,0
+Linda Ryan,76,male,2025-10-31,2024-06-27,Sandra Johns,General,£123.13,1
+Meghan Evans,79,female,2025-11-21,2025-09-11,Courtney Yang,Orthopedics,$337.15,No
+Tiffany Stone,27,female,2025-08-18,2025-05-23,Henry Kelley,Neurology,€180.76,0
+Melanie Hernandez,19,female,2026-02-22,2025-06-12,Adam Anderson,Orthopedics,$445.97,Y
+Gabriel Yang,41,male,2025-10-31,2024-07-10,Justin Thomas,Neurology,£236.58,0
+Nicole Garcia,55,female,2025-08-07,2024-04-06,Guy Vaughn,Cardiology,$125.33,0
+Jenny Martin,59,male,2025-11-30,2025-08-01,Andrew Terry,Orthopedics,€394.58,1
+Audrey Irwin,55,female,2025-11-22,2024-09-09,Michael Murphy,Orthopedics,€96.12,0
+Bryan Armstrong,68,male,2025-04-22,2025-04-03,Robert Escobar,Neurology,Rs305.01,0
+Lisa Hill,68,female,2025-06-23,2024-10-24,Mia Boyd,Cardiology,$169.01,N
+Susan Delgado,39,male,2025-11-18,2025-11-04,Paula Mann,Neurology,€304.86,0
+Bradley Myers,63,male,2025-11-09,2024-12-08,Mark Barrett,Neurology,Rs426.51,1
+Derek Smith,82,female,2025-05-23,2024-10-18,Jeremy Burton,Cardiology,$215.76,N
+Taylor Farley,25,female,2025-10-01,2024-09-01,Christy Lewis,Cardiology,$184.11,Y
+Richard Richardson,80,female,2025-11-24,2024-12-29,Robin Hebert,Cardiology,Rs226.12,1
+Ryan Rodriguez,53,female,2025-05-29,2025-02-22,Eric Kennedy,Orthopedics,Rs277.5,Yes
+Jeremy Coleman,83,male,2025-09-11,2024-09-03,David Riley,Neurology,Rs63.99,N
+Alexander Williams,85,female,2026-03-20,2025-10-08,Erin Chandler,Orthopedics,Rs85.56,N
+Steven Richards,26,male,2026-03-23,2025-01-11,Zachary Hamilton,Orthopedics,€237.1,N
+Toni Morris DDS,30,female,2025-12-01,2024-07-16,Robin Medina,Orthopedics,€250.69,No
+Zachary Allen,21,female,2026-02-24,2025-06-04,Justin Smith,Neurology,,Yes
+Mary Wilson,27,female,2025-07-04,2025-03-17,Misty Higgins,Orthopedics,$421.57,1
+Nicole Shepard,28,female,2026-03-23,2024-04-01,Mr. Ricky Le,Cardiology,€77.79,1
+Trevor Anderson,32,female,2025-07-06,2025-04-10,Kenneth Johnson,Neurology,€156.32,Y
+Robert Wade,87,male,2026-02-07,2024-07-11,Phillip Shelton,Orthopedics,$249.74,Y
+Oscar Luna,72,female,2026-03-05,2025-03-26,John Stewart,General,$126.56,Yes
+Lance Hobbs,59,male,2025-10-10,2024-08-18,Mr. James Brown,General,$143.32,N
+Misty Wells,64,male,2025-07-31,2024-08-23,Debra Booker,Neurology,£353.8,Y
+Adam Mcdonald,28,female,2025-08-15,2024-11-17,David Schmidt,Cardiology,£174.54,Yes
+David Mann,68,male,2026-03-16,2024-05-06,Donald Ferguson,Orthopedics,£217.77,Y
+Daniel White,67,male,2025-04-12,2024-07-13,Chad Johnson,Neurology,Rs277.51,N
+Steven Gonzalez,37,male,2026-02-04,2025-11-10,Jonathan Daniels,Orthopedics,£259.19,Y
+Samuel Harrison,53,,2025-08-09,2024-07-06,Hunter Powell,Neurology,Rs492.92,Yes
+Bethany Williams,21,male,2025-11-12,2025-04-22,Kayla Woods,Neurology,€51.38,0
+Eddie Tate,53,male,2026-01-26,2024-09-27,Paul Johnson,Neurology,Rs374.03,1
+Christopher Trujillo,69,male,2025-04-06,2024-07-28,Keith Smith,Orthopedics,£175.33,0
+Sarah Thompson,25,female,2026-02-11,2025-06-20,Ruth Shaw,Neurology,£129.25,0
+Bradley Jones,61,,2025-07-14,2024-12-22,Douglas Patton,Cardiology,Rs257.41,1
+Emma Ferrell,23,male,2025-09-10,2024-04-23,David Bradford,General,€337.48,Y
+Michael Garcia,61,female,2026-03-04,2025-08-10,Barbara Mack,Neurology,€310.15,Yes
+Darlene Hodge,69,male,2025-05-27,2025-04-20,Amanda Cruz,Orthopedics,€63.14,N
+Katherine Rios,23,female,2025-12-24,2025-01-05,Elizabeth Foster,Orthopedics,$265.67,N
+Jennifer Shaffer,59,female,2025-06-08,2024-12-26,Brittany Watson,Orthopedics,$382.64,Y
+Leslie Newman,80,female,2025-05-11,2024-10-22,Lindsey Mendoza,Cardiology,Rs125.35,0
+Alejandro Romero,27,male,2025-07-25,2024-08-28,Karen Hancock,Orthopedics,£206.69,No
+Ashley Peterson,39,female,2025-05-30,2025-05-06,Kyle Mcintyre,General,£358.45,Yes
+Steven Wallace,52,male,2025-09-25,2025-01-11,Katherine Martin,Cardiology,€496.62,0
+Lindsey Sullivan MD,66,male,2025-04-08,2025-01-02,David Barnett,Orthopedics,Rs290.47,1
+William Wilson,52,male,2026-02-16,2025-03-14,Jacob Bernard,General,€346.4,0
+Kenneth Cox,78,male,2026-01-22,2025-06-07,Brian Walker,General,$123.28,No
+Susan Winters,45,female,2025-07-25,2024-08-31,Christopher Simpson,Orthopedics,$353.09,No
+Marissa Randall,30,male,2025-12-23,2024-06-12,Kent Cannon,Neurology,Rs299.12,1
+Lydia Davis,30,female,2025-12-03,2024-05-18,Brian Rodriguez,Neurology,€286.79,1
+Jason Kennedy,46,male,2025-10-18,2024-10-03,Robert Fowler,Orthopedics,€330.76,N
+Melissa Brown,28,male,2025-04-20,2024-08-01,Bill Brown,Orthopedics,€69.76,Y
+Shannon Vargas,57,female,2025-05-31,2025-02-14,Brian Caldwell,Orthopedics,$341.11,No
+Jennifer Dorsey,27,,2026-02-10,2025-06-29,Michael Stanley,General,$147.08,N
+Gary Simpson,63,male,2025-07-05,2025-06-21,Veronica Chen,Neurology,$462.6,1
+Nicole Adams,25,female,2025-10-13,2025-03-13,Krystal Krueger,General,€357.53,Yes
+Gary Ramos,84,female,2026-03-25,2025-08-31,Gregory Riley,Cardiology,Rs353.35,1
+Veronica Shaw,86,,2025-09-22,2024-07-15,Michael Franco,Orthopedics,£174.42,Yes
+Lisa Smith,40,female,2025-10-30,2024-07-31,Daniel Beck,Orthopedics,Rs449.41,N
+Eric Lawson,78,male,2026-02-02,2025-11-14,Andrew Webb,Cardiology,$179.07,No
+Vanessa Wright,28,male,2026-01-07,2025-08-23,Virginia Sharp,Cardiology,Rs344.67,Y
+Edward Thomas,80,female,2025-09-28,2024-08-30,Teresa Medina,Neurology,$84.72,1
+Cassandra Peterson,34,male,2025-04-23,2024-12-08,Mary Sanchez,Orthopedics,,1
+Ellen Stevens,35,male,2025-07-14,2024-07-02,Charles Wells,Orthopedics,£479.79,0
+Shawn Mendoza,36,male,2026-03-25,2024-05-03,Erin Walton,Cardiology,€77.99,N
+Sandra Hill,65,male,2025-08-10,2025-01-06,Julie May,Orthopedics,Rs113.2,Yes
+Oscar Hunt,29,male,2025-06-11,2024-07-02,Michael Mason,Cardiology,£363.04,Y
+Tristan Booth,22,,2025-07-10,2024-07-16,Alicia Hall,Neurology,$477.72,0
+Ashlee Warren,69,male,2026-01-21,2024-06-01,Cynthia Cruz,General,Rs289.74,1
+Alexander Vega,35,male,2025-08-17,2025-08-06,Karen Gomez,Neurology,$270.15,1
+Breanna Lewis,59,female,2025-10-12,2025-06-15,Jerry Tucker,Orthopedics,£155.98,Y
+Jackie Lane,56,male,2025-06-04,2024-05-29,Jackie Harper,Cardiology,Rs335.27,Y
+Shawn Cordova,67,male,2025-11-27,2024-07-30,Wendy Mcguire,Neurology,Rs285.22,No
+Christina Macdonald,64,female,2025-09-16,2025-01-23,Samuel Ramirez,General,Rs91.36,1
+Dylan Jones,22,female,2025-10-02,2025-07-04,Katherine Small,General,Rs498.58,0
+Christine Herring,89,female,2025-12-22,2025-03-08,Kristin Hartman,General,€453.73,Yes
+Brandon Carter,72,female,2025-05-10,2025-02-27,James Aguilar,Neurology,£218.54,No
+Lori Dean,40,female,2025-11-05,2024-08-15,Theresa Williams,Orthopedics,Rs312.26,0
+Deborah Robinson,36,female,2026-01-25,2024-10-30,Joseph Bell,Cardiology,€159.21,Yes
+Jason Tate,71,female,2026-01-27,2025-03-07,Kimberly Young,Cardiology,€484.79,1
+Jill Mcconnell,81,female,2025-03-28,2025-02-16,Jessica Miller,Cardiology,Rs475.35,No
+Kyle Barnes Jr.,21,male,2025-04-18,2024-09-24,Donna Peters,General,$156.1,Y
+Regina Smith,87,,2025-08-30,2024-12-15,Donna Orr,General,$246.13,N
+Jeffrey Warren,60,female,2025-07-20,2024-11-21,Mrs. Michelle Reed,Cardiology,Rs340.54,No
+Andre Crosby,72,female,2026-02-16,2024-07-07,Douglas Smith,General,$235.81,No
+Jessica Maldonado DDS,25,male,2025-04-21,2024-09-20,Kelly Thomas,Cardiology,£166.21,No
+Ian Bush,39,male,2026-01-09,2025-06-20,Steven Welch,Cardiology,€418.29,0
+Nicole Warren,63,female,2025-09-19,2025-02-07,Kimberly Beck,General,£415.35,N
+Dennis Jacobs,33,male,2026-02-18,2024-06-02,Katherine Long,General,$307.29,1
+Edward Black,88,female,2025-12-04,2025-10-11,Nathan Summers,Orthopedics,Rs268.75,No
+Suzanne Jenkins,44,male,2025-10-13,2024-06-16,Maureen Jacobson,Orthopedics,€248.97,1
+Lindsey Green,28,female,2025-06-02,2024-06-21,James Fleming,Neurology,$270.71,0
+Sarah Hernandez,25,female,2025-09-03,2024-10-27,Jeremy Mclaughlin,Orthopedics,$253.36,Y
+Christina Eaton,85,male,2026-01-20,2025-03-10,Stephanie Kelley DVM,Neurology,$192.87,No
+Angela Rogers,18,male,2025-08-14,2025-04-10,Dr. Brian Smith,Orthopedics,Rs362.08,0
+Molly Hayden,75,,2026-01-06,2025-02-22,Brian Chambers,General,£306.62,N
+Brian Clarke,73,male,2025-04-05,2024-12-20,Amanda Hoffman,Neurology,$348.18,0
+Steven Morgan,58,male,2025-05-24,2024-09-09,Donna Adkins,Orthopedics,£298.42,1
+Kyle Jones,52,male,2025-10-31,2024-09-01,Sara Morse,Neurology,,0
+Mrs. Jennifer Ingram,41,male,2025-09-11,2024-11-30,Katrina Williams MD,General,$473.2,No
+Troy Torres,80,female,2025-05-04,2024-09-20,Matthew Carney,Cardiology,$124.09,N
+Stephanie Moss,24,female,2026-03-04,2025-04-02,Jason Bray,General,€52.32,Y
+Jade Blanchard MD,23,female,2026-01-29,2024-07-01,Amber Waters,Orthopedics,$151.03,No
+Pamela Johnson,80,female,2025-07-01,2024-11-12,Crystal Garza,General,Rs417.42,Y
+Glenn Wall,26,female,2025-09-15,2025-05-13,Sarah Peterson,Cardiology,$112.9,Y
+Christopher Beard,65,male,2026-03-04,2024-06-01,Jerry Torres,General,Rs126.44,Y
+Darin Caldwell,54,male,2025-09-03,2025-02-20,Danielle Pacheco,Cardiology,€185.15,No
+Henry Henderson,58,male,2025-06-10,2024-08-02,James Love,Orthopedics,,No
+Regina Giles,42,male,2025-10-24,2024-11-27,Kimberly Foster,Neurology,€258.9,Y
+Curtis Cooke,84,male,2025-09-29,2024-06-24,John Hancock,Neurology,€477.08,No
+Joel Marshall,55,male,2025-12-23,2025-02-23,Victoria Garcia,Neurology,€306.8,0
+Peter Schaefer,84,female,2025-08-27,2024-06-02,Carlos Spence,Cardiology,Rs190.01,No
+Andrew Cross,67,female,2026-03-26,2026-03-07,Victor Warner,General,Rs281.44,N
+Jonathan Fernandez,40,male,2025-12-03,2025-09-08,Luis Nolan,Orthopedics,Rs252.73,Y
+Rebecca Gould,72,female,2025-04-04,2024-12-17,Xavier Richardson,General,£397.0,No
+Anthony Nash,32,male,2025-05-13,2024-08-21,Brianna Shea,Cardiology,Rs392.0,1
+Kimberly Fitzpatrick,65,female,2025-10-07,2024-12-09,Mark Moore,Orthopedics,,No
+Elizabeth Duke,82,female,2026-01-15,2025-07-24,Michael Rogers,General,€156.61,0
+Richard Griffin,61,male,2025-10-24,2025-08-21,Tina Gonzalez,Orthopedics,Rs81.87,Yes
+Erica Jimenez,75,male,2025-12-17,2024-09-22,Bethany Mcpherson,Neurology,£438.16,0
+Melissa Allen,35,female,2025-10-29,2025-06-13,Rodney Lopez,General,£447.77,0
+Manuel Becker,66,female,2025-05-17,2024-08-29,Jacob Patel,Neurology,$139.99,N
+Erika Davis,42,male,2025-07-30,2025-03-09,Jamie Andrews,Cardiology,£393.1,1
+Shannon Flores,19,female,2025-09-07,2024-05-30,Scott Washington,Cardiology,£248.78,1
+Tara Garrison,41,male,2026-02-03,2025-10-04,Stacy Hartman,Cardiology,£453.09,Yes
+Pamela Davis,27,female,2025-11-23,2024-04-12,Kevin Fields,General,€57.05,1
+Sandra Terry,21,female,2025-07-15,2024-07-23,Debra Buchanan,Neurology,£386.04,0
+Steven Miller,20,male,2025-05-01,2025-04-28,Bob Shaw,Orthopedics,£204.82,N
+Haley King,84,male,2026-02-12,2024-06-21,Erin Carr,Cardiology,€239.93,No
+Jonathan Wood,74,female,2025-05-23,2024-12-26,Jon Duarte,Orthopedics,Rs486.07,Y
+Jessica Ali,70,female,2025-05-01,2024-09-17,Willie Rose,Cardiology,€73.35,1
+Bridget Cooley,75,female,2026-02-22,2025-02-25,Ashley Edwards,General,£144.78,Yes
+Brad Hill,87,male,2025-10-22,2025-02-28,Emily Joseph,Cardiology,€92.16,1
+Nathan Murphy,52,female,2025-11-24,2024-05-10,Kerry Rowe,Cardiology,Rs164.9,N
+Stephanie Caldwell MD,86,female,2025-07-04,2025-01-19,Darrell Mendez,Orthopedics,$74.84,Y
+Henry Carlson,65,female,2025-09-23,2024-04-01,Benjamin Brown,Orthopedics,Rs230.11,Y
+Michael Evans,65,male,2025-03-28,2025-01-04,Manuel Vargas,Orthopedics,€304.67,No
+Regina Wilson,73,male,2025-12-31,2024-12-14,Heidi Hamilton,Neurology,£275.12,Yes
+Jeremiah Cruz,64,male,2026-03-14,2026-02-10,Matthew Pratt,Neurology,€177.85,Y
+Nicholas Vasquez,49,male,2025-10-30,2025-06-12,Jennifer Anderson,Neurology,Rs410.8,N
+Cheryl Smith,48,female,2025-10-01,2024-11-03,Sarah Harper DDS,Cardiology,$97.46,No
+Matthew Moore,63,female,2026-03-02,2025-03-04,Erica Riley,General,Rs116.32,Yes
+Katherine Wilson,44,female,2025-12-01,2024-07-31,Mitchell Sims,Orthopedics,$203.3,Y
+James Miller,23,male,2025-09-09,2024-11-25,Dawn Collins,General,$139.43,0
+John Rich,48,female,2025-06-20,2024-09-05,Jennifer Johnston,General,,1
+Kathleen Oneal,71,male,2025-05-17,2024-07-28,Jacob Andrade,Orthopedics,$74.36,Y
+Courtney Hunt,74,female,2025-08-17,2024-10-21,Mrs. Kayla Peterson,General,€303.91,0
+Steven Wilson,48,female,2025-04-08,2025-02-03,Hannah Herrera,Cardiology,$77.48,0
+Meghan Sanchez,58,male,2025-04-06,2024-08-05,Judith Watson,Neurology,€282.36,1
+Amanda Johnston,46,female,2025-04-16,2024-10-24,Angela Burton,Cardiology,,0
+Richard Jones,71,female,2025-11-23,2025-08-16,Stephen Cooper,General,£243.46,0
+Lindsay Harris,28,male,2025-10-26,2025-02-22,Ryan Hughes,Orthopedics,€444.38,Yes
+Kathy Banks,39,male,2025-11-25,2025-07-26,Anna Yoder,General,Rs319.04,Y
+Beth Murphy,71,female,2025-06-30,2024-08-13,Adam Davis,Orthopedics,£330.71,Y
+Barbara Johnston,46,female,2025-07-29,2025-01-12,April Hood,Cardiology,Rs160.18,1
+Patrick Perez,62,male,2026-01-21,2024-12-13,Jesse Edwards,Neurology,$290.14,Yes
+Sonia Moss,52,female,2025-11-06,2024-09-21,Joy Armstrong,Neurology,€244.09,1
+Dana Mcclure,41,female,2026-03-02,2025-09-27,Mark Norton,General,£150.5,N
+Ryan Williams,88,female,2025-12-27,2024-12-25,Veronica Fry,General,$398.47,Y
+Amy Baird,51,male,2025-11-01,2025-09-28,Diana Jones,Neurology,£262.16,1
+Frank Castaneda,70,male,2025-07-26,2024-09-02,Christopher Chen,Neurology,,0
+Benjamin Ramirez,57,female,2025-12-22,2025-01-06,Wesley Johnson,Neurology,$142.33,N
+Matthew Buckley,57,male,2025-09-07,2024-10-04,Ryan Collins,General,Rs476.81,0
+Kimberly Goodman,22,female,2025-09-12,2024-09-20,Luis Kim,General,€351.04,1
+Brandi Osborn,42,female,2026-02-01,2025-12-31,Daisy Rodriguez,Neurology,£73.97,No
+Christopher Lopez,39,male,2026-01-15,2025-11-11,Caleb Kennedy,General,$295.71,N
+Ronnie Roach,46,female,2025-08-13,2025-05-25,Jason Houston,Cardiology,Rs167.5,1
+Gary Taylor,87,,2025-05-19,2024-06-12,Lauren Medina,General,£321.5,Y
+Rodney Gonzalez,21,female,2025-07-04,2025-02-07,Allison Ramos,Cardiology,$168.33,N
+Patrick Roach,88,female,2025-10-31,2025-06-23,Karen Duke,Cardiology,€411.75,Yes
+Sandra Rojas,83,male,2025-06-16,2025-03-07,Stephanie Bryant,Cardiology,,No
+Donna Stone,29,female,2026-02-20,2024-08-22,Daniel Bender,Neurology,£462.15,0
+Erik Davis,30,male,2025-05-30,2024-12-05,Amanda White,Neurology,,Yes
+Brian Patel,33,,2025-10-16,2024-09-13,Tracy Harris,Orthopedics,€124.69,No
+George Houston,71,,2025-09-06,2024-05-21,Brian Vincent,Neurology,€129.38,0
+Mrs. Katherine Huber PhD,74,male,2025-05-09,2024-11-12,Kathryn Young,Cardiology,$488.54,N
+Edward Russell,26,male,2025-10-17,2024-12-12,Connor Brown,Orthopedics,£93.45,No
+Thomas Fleming,18,male,2025-06-04,2024-12-14,Kimberly Mcdonald,Neurology,€73.45,No
+Savannah Butler,26,female,2025-11-26,2025-04-17,James Nguyen,Neurology,$340.47,No
+David Wilson,78,male,2026-01-09,2025-05-07,Matthew Wilson,Cardiology,£414.94,0
+Jacob Price,25,male,2025-06-14,2024-04-27,Kimberly Rangel,Neurology,€238.05,Yes
+Brian Davis,41,female,2026-02-07,2025-05-27,Brian Mitchell,Orthopedics,Rs63.62,Yes
+Kendra Jones,85,female,2025-07-30,2024-10-14,Karen Grimes,Cardiology,$101.59,1
+Anthony Medina,60,female,2025-03-28,2024-11-14,Richard Walker,Orthopedics,$498.48,Yes
+Desiree Wilkins,34,female,2026-02-28,2025-07-31,Jamie Ford,General,$305.84,Yes
+Ashley Cunningham,32,female,2026-01-22,2024-11-29,Sarah Montgomery,Cardiology,Rs160.05,Y
+Abigail Townsend,54,female,2025-12-10,2025-03-08,Allison Salazar,Orthopedics,$406.61,Y
+Diana Collins,47,female,2025-11-25,2024-10-06,Glenn Bond,Cardiology,£359.32,0
+William Roberts Jr.,21,female,2025-08-17,2024-07-02,Savannah Beltran,Orthopedics,$315.17,No
+Sean Bailey,85,female,2025-09-06,2025-02-27,Erika Turner,Neurology,£319.92,Y
+Adrian Vincent,42,,2025-09-21,2024-12-05,William Coleman MD,Orthopedics,£352.01,No
+John Walsh,63,male,2025-08-13,2024-09-03,Wanda Cox,Orthopedics,£88.56,No
+Christopher Johnson,26,female,2025-10-31,2025-03-22,Susan Stanton,Neurology,$461.18,Y
+Roger Holmes,85,female,2026-02-04,2024-12-22,Paula Stone,Cardiology,Rs206.57,1
+Michael Hamilton,29,female,2025-09-03,2024-07-27,Angie Smith,General,£107.34,N
+Courtney Gonzales,84,female,2025-05-26,2024-10-31,Kayla Norris,Cardiology,$385.01,No
+Leslie Medina,18,female,2025-08-17,2025-06-25,Matthew Morse,Orthopedics,£490.93,Y
+Frank Fields,30,female,2025-06-27,2025-05-21,Heather Diaz,General,$168.86,Yes
+Darren Douglas,23,female,2026-02-01,2025-09-04,Andrew Gordon,Orthopedics,$463.06,Yes
+Jerry Jones,66,male,2025-08-21,2024-06-05,Ashley Gomez,General,$261.87,0
+Sheila Barrett,25,male,2025-11-19,2025-11-15,John Wallace,Cardiology,Rs170.53,N
+Kim Morris,56,female,2025-12-20,2025-06-24,Michael Morris,General,$197.66,N
+Sarah Rivas,85,female,2026-03-09,2025-03-18,Scott Vega,Neurology,£454.23,No
+Adam Lane,76,female,2026-03-21,2024-09-20,Lynn Dorsey,Neurology,€104.3,Y
+Ronald Taylor,43,male,2025-08-27,2024-05-11,Vanessa Jackson,Neurology,$263.1,1
+Angela Smith,51,male,2025-09-02,2025-08-15,Nicholas Jones,Orthopedics,£229.44,N
+Chad Tyler,89,female,2026-02-02,2025-01-08,Tiffany Sullivan,Neurology,£424.53,1
+Mary Manning,48,female,2026-01-23,2025-10-13,William Harris,Orthopedics,$248.84,No
+Samantha Hoffman,37,male,2025-07-23,2025-03-14,Julie Smith,Cardiology,$89.38,No
+Shawn Juarez,64,male,2025-08-02,2025-05-31,Patrick Morrison,Neurology,€110.8,Yes
+Dave Summers,25,female,2026-02-09,2025-01-19,Traci Hopkins,Orthopedics,$217.51,1
+Luke Brady,78,male,2025-10-09,2025-06-24,Adam Hall,General,€427.98,Y
+Christian Guerrero,77,female,2026-01-07,2024-06-29,Jennifer Perez,Cardiology,$298.89,Y
+Terrence Long,46,male,2026-02-01,2025-06-27,Natalie Rodriguez,Cardiology,£182.71,Y
+Victor Everett,90,female,2025-11-05,2024-06-06,Jacob Diaz,General,€350.12,0
+Amanda Stevenson,26,male,2026-01-17,2024-06-28,Tyler Cunningham,General,€158.91,0
+Vanessa Perkins,22,female,2026-03-16,2024-11-26,Megan Smith,Orthopedics,£457.94,1
+Michael Davis,36,female,2026-01-11,2025-09-30,Karen Griffin,Cardiology,€130.9,N
+Amy Pierce,83,female,2025-07-27,2025-03-28,Ian Castillo,Orthopedics,$318.44,No
+Dakota Kelly,44,female,2025-10-07,2024-11-17,Andre Jones,Neurology,Rs291.99,0
+Erin Williams,69,female,2026-02-04,2024-10-17,Sean Hernandez,Cardiology,$161.56,Y
+Tiffany Cooper,58,male,2025-07-05,2025-05-16,Katrina Jones,General,€79.8,Y
+Jerry White,76,male,2025-08-19,2025-08-15,Steven Scott,General,Rs151.58,1
+Joseph Pace,67,male,2025-11-20,2025-08-02,Lydia Baker,Neurology,Rs338.13,Yes
+Jean Kramer,30,,2025-05-29,2024-05-31,Donald Clark,Orthopedics,€441.92,Yes
+David Rose,78,male,2025-11-09,2025-07-14,Dana Ewing,Orthopedics,Rs114.73,Yes
+Christopher Lopez,45,male,2026-03-21,2024-05-04,Kevin Pearson,General,£405.59,Y
+James Gibbs,25,female,2025-11-16,2024-09-22,Lisa Norris,Cardiology,$368.56,No
+Lori Henderson,50,female,2025-06-05,2024-12-19,Terri Stewart,General,Rs496.31,No
+Benjamin Lewis,85,male,2026-01-09,2025-05-03,Taylor Hicks,Cardiology,€213.17,No
+Matthew Johnson,22,male,2025-12-17,2025-08-06,John Moran,Orthopedics,€150.15,No
+Karen Myers,89,female,2025-07-20,2024-06-12,David Wright,Neurology,€371.69,No
+Shelly Chavez,34,female,2025-10-10,2025-05-02,Megan Morales,Neurology,$431.45,0
+Maria Williams,22,male,2025-08-17,2025-01-05,Brandi Thomas,Orthopedics,£189.17,0
+Robert Humphrey,24,,2025-04-10,2025-03-22,Vanessa Brown,Orthopedics,$281.71,No
+Matthew Gutierrez,21,male,2026-02-08,2025-05-14,Lisa Smith,General,€309.31,N
+Rebecca Banks,23,male,2025-05-26,2025-01-17,April Randall DDS,Neurology,Rs57.03,Yes
+Ashley Rodriguez,52,female,2025-06-05,2024-11-06,Russell Zimmerman,Orthopedics,Rs219.97,N
+Laura Ford,36,,2025-05-27,2024-12-02,Kyle Evans,Orthopedics,£186.51,No
+James Stout,20,male,2025-10-03,2025-07-30,Andrea Myers,Neurology,€77.05,0
+Ashley Foster,32,female,2026-02-23,2025-01-14,Melinda Cannon,General,£208.72,1
+Christian Thomas,38,male,2025-07-06,2025-04-23,Gregory Tapia,Neurology,£390.16,Y
+Stacy Gardner,53,,2026-01-18,2025-03-11,Michael Campbell,Neurology,£74.78,Yes
+Taylor Patterson,58,female,2026-03-25,2025-10-24,Ellen Miller,Neurology,$199.03,No
+Justin Zimmerman,61,male,2025-11-05,2025-09-20,Tammy Thomas,Cardiology,£245.09,0
+Jaclyn Knight,66,female,2025-08-24,2024-05-19,John Oliver,Orthopedics,£282.03,0
+Jessica Rodriguez,18,male,2025-04-21,2024-09-04,Jeffrey Martin,Neurology,Rs411.85,Yes
+Patricia Johnson DDS,70,male,2025-06-12,2024-11-27,Ana Hunt,Neurology,£144.89,Yes
+Alexandra Sandoval,31,male,2025-11-21,2025-08-16,Rachel Moore,Neurology,Rs198.95,N
+Mandy Smith,64,male,2025-04-14,2025-02-04,Brian Olson,Neurology,Rs246.05,1
+Danny Cooper,21,male,2025-04-27,2025-03-13,Mark Morrison,Neurology,€164.43,Yes
+Dr. Christina Dunn,51,female,2025-09-11,2024-06-13,Madeline Sharp,General,Rs381.59,No
+Rachel Porter,29,male,2025-05-17,2024-10-06,Patrick Russell,Neurology,€341.42,N
+Megan Williams,51,male,2025-12-11,2025-10-19,Melissa Khan,Neurology,Rs456.12,No
+Michelle Hill,82,male,2025-12-08,2024-04-07,Rachel Sanchez,General,Rs371.84,Y
+Donna Green,78,female,2026-01-14,2025-05-07,Clifford Ramirez,Orthopedics,€263.23,No
+Leon Anderson,63,male,2025-11-28,2024-09-24,Mary Chandler,Neurology,$427.62,Yes
+Cheryl Ruiz,66,male,2025-05-23,2024-04-29,Maria Thomas,Orthopedics,£100.78,Yes
+Keith Douglas,49,male,2025-09-16,2025-05-02,Dawn Browning,Orthopedics,,0
+Christina Spencer,61,male,2025-11-14,2024-05-10,Mark Kelley,Orthopedics,£308.28,N
+April Rios,30,female,2026-02-26,2026-02-07,Megan Mccann,General,€471.3,0
+Mallory Martin,23,male,2025-10-27,2025-06-22,David Whitney,Cardiology,Rs437.95,1
+Elizabeth Johnson,87,female,2026-01-24,2024-12-09,Dr. Mary Day,General,Rs461.32,Y
+Ellen Rogers,31,female,2025-08-30,2025-01-17,Tammie Melendez,General,€424.17,Y
+Kenneth Jenkins,49,female,2025-05-20,2024-09-12,Tanya Eaton,General,€428.7,Yes
+Duane Mitchell,52,female,2026-01-12,2024-09-08,Helen Jackson,Neurology,€159.11,0
+Mr. Paul Chavez,65,male,2025-07-23,2025-02-04,Evan Marquez,Neurology,$159.06,Y
+Ian Weaver,18,female,2026-01-19,2025-06-01,Audrey Torres,Neurology,Rs317.16,Yes
+Daniel White,37,female,2025-05-25,2024-10-12,Justin Hall,General,€470.63,Y
+Brian Riley,74,male,2025-08-23,2024-09-24,Charles Kemp,Cardiology,$153.44,N
+Joshua Wallace,60,,2025-12-26,2024-05-22,Melissa Price,General,€416.08,0
+Amy Cruz,43,male,2025-12-14,2025-02-28,Tony Burke,Neurology,€458.79,Yes
+Carly Dixon,30,male,2025-05-29,2025-01-26,Gary Murray,Orthopedics,$125.8,0
+Pamela Bradshaw,43,male,2025-04-02,2024-07-08,Donald Mitchell,General,Rs352.94,0
+Rebecca Hall,68,male,2025-07-22,2025-06-28,Kevin Mendoza DVM,General,€111.4,0
+James Lopez,85,female,2025-09-19,2025-09-16,Carla Cole,Cardiology,€161.54,Y
+Christopher Powell,69,male,2025-03-31,2024-11-05,Gary Wood,Orthopedics,Rs479.37,Yes
+Barbara Dalton,29,male,2025-04-07,2024-06-02,Rachel Holloway,Cardiology,$306.94,1
+Alejandra Turner,31,female,2025-05-31,2025-05-24,Bradley Jones,Cardiology,€194.95,Yes
+Kelsey Shaffer,56,male,2025-04-20,2024-12-07,Christina Simmons,Neurology,€91.05,Y
+Kara Stewart,63,female,2025-04-21,2025-03-06,Becky Sanchez,Neurology,€290.36,No
+Kenneth Fox,86,female,2025-10-13,2024-08-12,Kimberly Sullivan,General,$85.53,1
+Michelle Bradford,31,female,2026-03-17,2025-08-02,Robert Williams,Cardiology,€419.74,Yes
+Amy Wilson,81,male,2025-09-26,2025-02-01,Nathan Mathews,Orthopedics,,0
+Danielle Ortega,76,male,2025-08-18,2025-06-14,Tiffany Lowery,Orthopedics,$83.67,N
+Gregory Hines,76,male,2026-02-07,2026-01-15,Rebecca Goodwin,Orthopedics,Rs255.43,No
+Amanda Douglas,90,male,2026-03-07,2024-06-25,Gregory Gonzalez,General,,0
+Scott Walker,62,male,2026-03-22,2025-11-28,Brianna Hernandez,Neurology,$433.63,Y
+Teresa Kim,71,male,2025-12-26,2024-04-27,Gregory Brown,Neurology,Rs461.04,0
+Kimberly Miller,59,female,2025-04-25,2024-04-30,Anna Jennings,Cardiology,£261.01,Y
+Ashley Black,84,female,2025-05-29,2025-01-29,Dennis Murphy,Neurology,,N
+Wendy Parks,40,male,2026-02-14,2025-09-09,Melissa Williams,Neurology,,1
+Stacy Clements,75,female,2025-06-03,2024-11-09,Cynthia Dunn,Cardiology,Rs96.19,Yes
+Kyle Gibbs,58,female,2026-02-25,2024-10-29,Christopher Guzman,Neurology,£248.76,0
+Beth Stephens,24,female,2025-12-02,2025-04-13,Scott Nguyen,General,Rs246.63,0
+Michael Heath,88,male,2025-10-29,2025-03-22,Benjamin Brown,Cardiology,Rs256.59,Yes
+James Malone,84,female,2025-09-26,2025-06-16,Rhonda Oconnor,Neurology,$326.84,Y
+Christina Moore,64,male,2025-05-31,2024-08-21,Joshua Martin,Orthopedics,£476.97,N
+Katie Mcdaniel,76,female,2026-01-10,2025-07-31,Aaron Perkins,General,$136.77,Y
+Scott Thompson,49,male,2026-02-14,2025-03-11,Erika Richards,Neurology,€466.59,No
+Jon Berry,27,male,2025-11-02,2024-04-25,Heather Foster,General,€342.3,Yes
+Connie Wheeler,29,male,2025-12-30,2025-08-08,Sherri Buckley,Neurology,€444.2,N
+Jonathan Howell,63,male,2025-08-12,2024-11-03,Darryl Case,Orthopedics,Rs421.18,Y
+Michelle King,54,male,2025-05-07,2024-06-22,Anthony Hughes,General,€386.3,No
+Christine Barron,59,male,2026-03-20,2025-12-24,Thomas Clark MD,Cardiology,Rs107.04,1
+Dr. Karen Miller DDS,37,male,2025-04-19,2024-04-29,Martin Herring,Orthopedics,£381.15,0
+Kimberly Barnett,69,male,2025-10-04,2025-07-31,William Bryan,General,€477.98,Y
+Abigail Warner,53,female,2025-10-25,2024-05-23,Heather Stokes,Orthopedics,€418.27,Y
+Melissa Vaughn,46,male,2026-03-26,2025-06-21,Vickie Johnson,Cardiology,€300.52,0
+Jocelyn Strickland,22,male,2025-04-30,2024-07-10,Vincent Kemp,Cardiology,,N
+Lindsay Shaw,43,female,2025-09-17,2024-05-09,Julia Mcmillan,Orthopedics,£485.93,0
+Melvin Bowers,88,female,2025-12-15,2025-11-14,Robin Diaz,Orthopedics,£164.2,1
+Victoria Gilbert,64,female,2025-04-08,2024-07-23,April Spears,Cardiology,$390.1,No
+John Marsh,33,male,2025-05-04,2024-06-04,Michael Wright,General,£407.7,1
+Eugene Underwood,80,male,2025-11-11,2025-05-20,Benjamin Williams,Neurology,Rs467.55,No
+Michelle Payne,87,male,2025-07-02,2024-11-25,Cassandra Bishop,Orthopedics,€119.41,0
+Melanie Lee,31,male,2025-10-01,2024-10-25,Andrea Kennedy,Cardiology,£441.89,No
+Jessica Murray,20,male,2025-12-29,2025-06-23,James Harris,General,Rs184.38,N
+William Villarreal,80,male,2025-06-15,2024-08-17,Ronald Davis,Orthopedics,$269.35,1
+Monica Jones,18,male,2025-10-17,2024-05-07,Cheryl Bailey,Cardiology,Rs363.94,No
+Craig Parsons,71,female,2026-01-09,2025-12-15,Jose Price,General,£323.0,0
+Cameron Lopez,44,female,2025-04-27,2024-12-13,Christopher Williams,Orthopedics,$163.0,Yes
+Daniel Green,32,male,2025-07-05,2025-01-04,James Fox,Orthopedics,Rs254.14,1
+William Hatfield,32,male,2026-02-26,2025-04-14,Kristen Lopez,Neurology,$112.79,0
+Dawn Bryant,48,female,2025-06-14,2025-03-21,Charles Nguyen,Cardiology,Rs164.15,Y
+Joseph Rodriguez,69,female,2025-05-25,2024-06-15,Douglas Foster,Cardiology,€94.37,1
+Bailey Williamson,88,female,2025-10-17,2025-05-24,George Singleton,Cardiology,$368.53,No
+Jeffrey Johnston,36,male,2026-01-21,2025-01-06,Cynthia Baker,Orthopedics,Rs240.37,0
+Brandy Estes MD,64,male,2025-10-26,2024-05-15,Andrea Lam,Neurology,£238.59,Y
+Kristin Combs,38,female,2025-10-28,2024-12-12,Frank Anderson,General,Rs279.32,0
+Alex Rowe,34,male,2025-11-28,2025-06-15,Derek Doyle,Cardiology,Rs114.8,0
+Kevin Peters,19,female,2025-07-23,2025-04-28,Nancy Wilson,General,€96.78,N
+Hunter Miller,65,female,2025-07-24,2025-05-31,Kathy Lawson,Neurology,£384.42,0
+Rebecca Franklin,43,female,2025-07-03,2024-05-16,Daniel Love,Neurology,Rs187.7,1
+David Chapman,66,female,2025-07-27,2025-07-17,Rachel Wells,Orthopedics,£382.67,No
+Timothy Fowler,78,female,2025-07-15,2025-07-04,Donna Stephens,General,€236.27,0
+Megan Russell,84,male,2025-12-26,2025-08-07,Autumn Hill,Cardiology,$359.17,Y
+Courtney Wright,43,,2025-07-26,2024-05-24,Daniel Morris,Orthopedics,Rs362.65,1
+Natalie Marquez,29,female,2025-07-18,2025-03-24,Jennifer Paul,Neurology,£401.58,No
+Sarah Wilson,79,male,2026-02-21,2024-08-08,Courtney Foley,Orthopedics,$120.7,Y
+Ashley Estes,54,male,2025-06-02,2024-07-31,Stephanie Mercer,Cardiology,£405.15,Yes
+William Bentley,42,male,2025-10-21,2025-03-31,Jacob Mckay,Neurology,$263.3,Yes
+James Carey,41,male,2025-04-03,2024-08-22,James Berger,Orthopedics,£470.08,1
+Nicholas Mcdaniel,48,female,2025-08-09,2025-04-26,Daniel Smith,Orthopedics,€79.73,0
+Cheryl Rogers,43,male,2026-01-12,2025-10-30,Victoria Hansen,General,£376.76,Y
+Patricia Jackson,76,female,2026-02-28,2024-11-19,Jennifer Martin,Cardiology,Rs378.92,0
+Erin Bates,50,male,2025-06-13,2025-01-15,Chelsea Harris,Cardiology,$370.13,Y
+Aaron Holder,19,male,2026-01-26,2024-11-28,Lauren Ayers,General,Rs377.38,Y
+Thomas Roman,64,female,2025-09-14,2024-07-15,Robert Bass,General,Rs200.43,Yes
+Jack Cooper,67,female,2025-04-09,2024-06-20,Christopher Smith,General,Rs244.49,No
+Christopher Brown,28,male,2026-02-13,2024-06-13,Kimberly Johnson,Neurology,£154.48,N
+Michael Sullivan,65,female,2025-07-04,2024-04-15,Anthony Mccoy,Neurology,$434.95,0
+Perry Crawford,79,male,2025-11-05,2024-07-22,Marvin Hicks,Cardiology,€102.23,Y

@@ -7,7 +7,7 @@ import pandas as pd
 #Reading CSV file while defining all empty values to be the same.
 df = pd.read_csv(
     "messy_clinic_appointments.csv",
-    na_values=["", "NaN", "nan", "null", "NULL", "empty"]
+    na_values=["", "NaN", "nan", "null", "NULL", "empty", " "]
 )
     #print(df.head())
     #print(df.tail())
@@ -39,7 +39,6 @@ def unique_values():
     df.set_index('patient_id', inplace=True)
     df.index = range(len(df))
     print(df.head())
-    df.to_csv("cleaned_data1.csv", index=False)
 
     #Check for duplicate patient names. This is possible but must be investigated. 
     print(df["patient_name"].is_unique) # False
@@ -66,7 +65,7 @@ def null_values():
     df_sorted1 = df.sort_values(by='gender', ascending=True)
     df_sorted1.drop(columns=['follow_up_required','department', 'booking_date','patient_id'], inplace=True)
     print(df_sorted1)
-
+    
     #Dealing with empty of NaN values. First defining all to be the same.
 
     df_null = df[df.isna().any(axis=1) | (df == "").any(axis=1)]
@@ -77,7 +76,28 @@ def null_values():
 def imputation_method():
     print("Imputation Method")
 
+def standardize_data():
+    print("Standardize Data")
+    #Standardizing the dates
+    #https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html
+    df['booking_date'] = pd.to_datetime(df['booking_date'], format = "mixed").dt.date
+    df['appointment_date'] = pd.to_datetime(df['appointment_date'], format = "mixed").dt.date
+
+    #Standardizing the gender values
+    df['gender'] = df['gender'].str.lower().replace(['female', 'Female', 'F', 'f', '0'], 'female')
+    df['gender'] = df['gender'].str.lower().replace(['male', 'Male', 'M', 'm', '1'], 'male')
+
+    #Standardizing billing amounts to US dollars
+
+
+    #Standardizing follow up needed values
+    
+
 def main():
+    df.to_csv("cleaned_data1.csv", index=False)
+    standardize_data()
+
+    
 
     null_values()
     
@@ -89,19 +109,6 @@ def main():
 if __name__ == "__main__":
     main()
 
-
-
-
-#These are tricky examples of null values in the data. For both, they are MCAR (Missing Completely at Random). For billing_amount, the null values may represent patients who did not pay or did not have a payment due. For gender, null values may represent non-binary patients or patients of other genders. However, in the Kaggle for this dataset, it says the values are missing values, so we will treat both variables as such and choose an imputation method.
-
-#For gender, I will use name-based imputation. Other common methods for gender include mode-based imputation, which generalizes the data, and MICE (Multivariate Imputation by Chained Equations), which uses logistic regression and is robust, but increases the scope of the project. MICE will be considered at a later date. I choose name-based imputation because the nammes are familiar to me as an English-speaker and I can look up gender probabilities of names through Census data. 
-
-#Gender imputation: The average age of the patients is 53.75 years old. This leads to a search for baby name gender statistics in 1973. The SSA (Social Security Administration) provides a means of searching their records for the popularity of baby names by year. https://www.ssa.gov/oact/babynames/ Through this, I can access a list of the top 100 names for the year 1973. If the name is on the list of a gender, it will be imputated to be the corresponding gender. If the name is associated with both or neither of the genders, then the gender will be imputed to be female
-
-
-
-
-#All of the duplicate names appear to be independent individuals. They are either very different in age of different genders. When they are similar in age the appointment dates confirm that it is impossible for them to be the same person, as with the two Christopher Lopez's. 
 
 print(df.head())
 df.to_csv("cleaned_data.csv", index=False)
