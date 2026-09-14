@@ -91,7 +91,8 @@ def standardize_data():
 
 
     #Standardizing follow up needed values
-    
+    df['follow_up_required'] = df['follow_up_required'].str.lower().replace(['1', 'y', 'yes'], 'yes')
+    df['follow_up_required'] = df['follow_up_required'].str.lower().replace(['0', 'n', 'no'], 'no')
 
 def main():
     df.to_csv("cleaned_data1.csv", index=False)
