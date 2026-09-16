@@ -113,6 +113,3 @@ if __name__ == "__main__":
 
 print(df.head())
 df.to_csv("cleaned_data.csv", index=False)
-
-print(df["age"].mean())
-print(df["gender"].mode())
